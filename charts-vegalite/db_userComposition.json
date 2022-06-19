@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "dashboard general page chart1",
+  "width": 200,
+  "height": 150,
+  "title": "User composition",
+  "data": {
+    "values": [
+      {"userType": "demo", "userNum": 298},
+      {"userType": "data_struggler", "userNum": 71},
+      {"userType": "ss_explorer", "userNum": 93},
+      {"userType": "ms_explorer", "userNum": 72}
+    ]
+  },
+  "encoding": {
+    "y": {
+      "field": "userType",
+      "type": "nominal",
+      "title": null,
+      "axis": {"ticks": false},
+      "sort": ["demo", "data_struggler", "ss_explorer", "ms_explorer"]
+    },
+    "x": {
+      "field": "userNum",
+      "type": "quantitative",
+      "scale": {"domain": [0, 350]},
+      "title": null,
+      "axis": null
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "bar"},
+      "encoding": {
+        "color": {
+          "field": "userType",
+          "scale": {"range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]},
+          "type": "nominal"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 3
+      },
+      "encoding": {"text": {"field": "userNum", "type": "quantitative"}}
+    }
+  ]
+}

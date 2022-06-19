@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title":"Help Resouces popularity",
+  "height": 160,
+  "data": {
+    "url": "https://gist.githubusercontent.com/HalcyonWjr/96cc79b0bfdec7c2136c81fb4aa5b7c8/raw/f8ccfd93f601e250f0d44bbd467e03bd9054cf11/help_resource.json"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "aggregate": "sum",
+      "field": "usagePerc",
+      "axis": {"format": ".0%"},
+      "title": "help resources usage percentage"
+    },
+    "y": {"field": "helpResource", "axis":{"zindex": 1}, "title":null},
+    "color": {
+      "field": "userType",
+      "scale": {"range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]}
+    }
+  }
+,
+
+"config":{
+  "axis": {"ticks":false},
+  "view": {"stroke": "transparent"}
+}
+}

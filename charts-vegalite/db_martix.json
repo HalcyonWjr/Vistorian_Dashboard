@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "dashboard general chart8",
+  "title": "Time spent user matrix for visualization",
+  "width":300,
+  "height":200,
+  "data": {"url": "https://gist.githubusercontent.com/HalcyonWjr/d272d1ffdce2a2b230fb5e4df005dc49/raw/3a48abbff5034d29a6f273e530f4235c13913fa1/matrix.json"},
+  "mark":{
+    "type": "rect",
+    "tooltip":true,
+    "width":{"band": 0.9},
+    "height": {"band": 0.9},
+    "cornerRadius":5
+  },
+  "encoding": {
+    "y": {
+      "field": "userType", 
+      "type": "nominal", 
+      "sort": ["demo","ds","ss"],
+      "axis":{
+        "title":null, "offset":5}},
+    "x": {
+      "field": "step", 
+      "type": "ordinal",
+      "sort": ["HelpResource"],
+      "axis":{
+        "orient":"top",
+        "labelAngle":-20,
+        "title":null,
+        "offset":5}},
+    "color": {"field": "duration", "type": "quantitative"}
+  },
+  "config": {
+    "axis": {"grid": false, "tickBand": "extent", "ticks":false},
+    "view": {"stroke": "transparent"}
+  }
+}

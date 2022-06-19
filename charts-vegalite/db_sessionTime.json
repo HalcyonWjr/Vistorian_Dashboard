@@ -1,0 +1,124 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "dashboard general chart3",
+  "title": {"text": "Average Session Time", "align": "left"},
+  "vconcat": [
+    {
+      "width": 200,
+      "height": 55,
+      "data": {
+        "values": [
+          {
+            "userType": "demo",
+            "min": 20,
+            "q1": 30,
+            "q2": 40,
+            "q3": 80,
+            "max": 100
+          },
+          {
+            "userType": "data_struggler",
+            "min": 210,
+            "q1": 320,
+            "q2": 740,
+            "q3": 840,
+            "max": 1000
+          }
+        ]
+      },
+      "encoding": {
+        "y": {"field": "userType", "type": "nominal", "title": null}
+      },
+      "layer": [
+        {
+          "mark": {"type": "rule"},
+          "encoding": {
+            "x": {
+              "field": "min",
+              "type": "quantitative",
+              "scale": {"zero": false},
+              "title": null
+            },
+            "x2": {"field": "max"}
+          }
+        },
+        {
+          "mark": {"type": "bar", "size": 14},
+          "encoding": {
+            "x": {"field": "q1", "type": "quantitative"},
+            "x2": {"field": "q3"},
+            "color": {
+              "field": "userType",
+              "type": "nominal",
+              "legend": null,
+              "scale": {
+                "range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]
+              }
+            }
+          }
+        },
+        {
+          "mark": {"type": "tick", "color": "white", "size": 14},
+          "encoding": {"x": {"field": "q2", "type": "quantitative"}}
+        }
+      ]
+    },
+    {
+      "width": 200,
+      "height": 55,
+      "data": {
+        "values": [
+          {
+            "userType": "ss_explorer",
+            "min": 2039,
+            "q1": 3400,
+            "q2": 6140,
+            "q3": 8093,
+            "max": 44100
+          },
+          {
+            "userType": "ms_explorer",
+            "min": 2300,
+            "q1": 34578,
+            "q2": 57684,
+            "q3": 89000,
+            "max": 120000
+          }
+        ]
+      },
+      "encoding": {
+        "y": {"field": "userType", "type": "nominal", "title": null}
+      },
+      "layer": [
+        {
+          "mark": {"type": "rule"},
+          "encoding": {
+            "x": {
+              "field": "min",
+              "type": "quantitative",
+              "scale": {"zero": false},
+              "title": null
+            },
+            "x2": {"field": "max"}
+          }
+        },
+        {
+          "mark": {"type": "bar", "size": 14},
+          "encoding": {
+            "x": {"field": "q1", "type": "quantitative"},
+            "x2": {"field": "q3"},
+            "color": {
+              "field": "userType",
+              "type": "nominal",
+              "legend": null
+            }
+          }
+        },
+        {
+          "mark": {"type": "tick", "color": "white", "size": 14},
+          "encoding": {"x": {"field": "q2", "type": "quantitative"}}
+        }
+      ]
+    }
+  ]
+}

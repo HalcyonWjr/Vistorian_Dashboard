@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "dashboard visualization page vis3",
+  "title":{
+    "text":"Data filtering",
+    "subtitle":"user % of each feature usage",
+    "align": "left",
+    "anchor": "start"
+  },
+  "height":180,
+  "data": {
+    "values": [
+	{"category":"search", "value":0.6, "scale":1},
+	{"category":"node select", "value":0.3, "scale":1},
+	{"category":"link select", "value":0.2, "scale":1},
+  {"category":"color", "value":0.5, "scale":1},
+  {"category":"timeslider", "value":0.4, "scale":1},
+  {"category":"zoom", "value":0.8, "scale":1}
+	]
+  },
+
+  "encoding":{
+    "y": {
+      "field":"category", 
+      "type":"nominal", 
+      "title":null,
+      "scale": {
+        "paddingInner": 0.2,
+        "paddingOuter": 0.3
+      },
+      "axis":{"labelAlign":"left", "labelPadding":60, "ticks":false, "zindex": 1}},
+    "x":{"field":"value", "type":"quantitative", "axis":null}
+  },
+
+  "layer": [{
+      "mark": {"type": "bar", "color": "#EFEFEF"},
+      "encoding": {"x": {"field": "scale", "type":"quantitative"}}
+    },{
+      "mark": {"type": "bar", "color": "#CFE6FF"},
+      "encoding": {"x": {"field": "value", "type":"quantitative"}}
+    },{
+      "mark": {
+      "type": "text",
+      "align": "left",
+      "dx": -25
+    },
+    "encoding": {
+      "text": {
+        "field": "value", 
+        "type": "quantitative", 
+        "format": ".0%", 
+        "formatType": "number"}}
+    }],
+
+    "config": {
+    "axis": {"grid": false, "tickBand": "extent", "ticks":false},
+    "view": {"stroke": "transparent"}
+  }
+
+}
