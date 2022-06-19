@@ -1,0 +1,34 @@
+{
+	"averageSessionTime":{
+        "unit":"seconds",   
+        "value":[{
+            "userType":"demo", 
+            "min":20,
+            "q1":30,
+            "q2":40,
+            "q3":80,
+            "max":100
+        },{
+            "userType":"data_struggler", 
+            "min":210,
+            "q1":320,
+            "q2":740,
+            "q3":840,
+            "max":1000
+        },{
+            "userType":"ss_explorer",
+            "min":2039,
+            "q1":3400,
+            "q2":6140,
+            "q3":8093,
+            "max":44100
+        },{
+            "userType":"ms_explorer",
+            "min":2300,
+            "q1":34578,
+            "q2":57684,
+            "q3":89000,
+            "max":120000
+        }]
+    }
+}

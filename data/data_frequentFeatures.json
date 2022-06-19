@@ -1,0 +1,89 @@
+{
+	"frequentVisitedFeatures":
+		[
+	 {
+	   "rank": 1,
+	   "category": "Time-Slider",
+	   "overall": 0.62,
+	   "userType": "ss_explorer",
+	   "popularity": 0.5
+	 },
+	 {
+	   "rank": 1,
+	   "category": "Time-Slider",
+	   "overall": 0.62,
+	   "userType": "ms_explorer",
+	   "popularity": 0.74
+	 },
+	 {
+	   "rank": 2,
+	   "category": "Filter by Link Type",
+	   "overall": 0.85,
+	   "userType": "ss_explorer",
+	   "popularity": 0.8
+	 },
+	 {
+	   "rank": 2,
+	   "category": "Filter by Link Type",
+	   "overall": 0.85,
+	   "userType": "ms_explorer",
+	   "popularity": 0.9
+	 },
+	 {
+	   "rank": 3,
+	   "category": "Filter by Node Type",
+	   "overall": 0.52,
+	   "userType": "ss_explorer",
+	   "popularity": 0.44
+	 },
+	 {
+	   "rank": 3,
+	   "category": "Filter by Node Type",
+	   "overall": 0.52,
+	   "userType": "ms_explorer",
+	   "popularity": 0.6
+	 },
+	 {
+	   "rank": 4,
+	   "category": "Link Opacity NL",
+	   "overall": 0.52,
+	   "userType": "ss_explorer",
+	   "popularity": 0.44
+	 },
+	 {
+	   "rank": 4,
+	   "category": "Link Opacity NL",
+	   "overall": 0.52,
+	   "userType": "ms_explorer",
+	   "popularity": 0.6
+	 },
+	 {
+	   "rank": 5,
+	   "category": "Order by Algorithm",
+	   "overall": 0.6,
+	   "userType": "ss_explorer",
+	   "popularity": 0.3
+	 },
+	 {
+	   "rank": 5,
+	   "category": "Order by Algorithm",
+	   "overall": 0.6,
+	   "userType": "ms_explorer",
+	   "popularity": 0.9
+	 },
+	 {
+	   "rank": 6,
+	   "category": "Link Opacity Map",
+	   "overall": 0.52,
+	   "userType": "ss_explorer",
+	   "popularity": 0.44
+	 },
+	 {
+	   "rank": 6,
+	   "category": "Link Opacity Map",
+	   "overall": 0.52,
+	   "userType": "ms_explorer",
+	   "popularity": 0.6
+	 }
+	]
+}

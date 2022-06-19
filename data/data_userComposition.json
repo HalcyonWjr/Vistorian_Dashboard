@@ -1,0 +1,13 @@
+{
+	"userComposition":
+    {
+        "total":534,
+        "value": 
+        [
+            {"userType":"demo","userNum":298},
+            {"userType":"data_struggler","userNum":71},
+            {"userType":"ss_explorer","userNum":93},
+            {"userType":"ms_explorer","userNum":72}
+        ]
+    }
+}
