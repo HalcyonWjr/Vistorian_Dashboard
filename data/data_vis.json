@@ -36,5 +36,15 @@
 	{"category":"search", "value":0.6, "scale":1},
 	{"category":"nodeSelect", "value":0.3, "scale":1},
 	{"category":"filter", "value":0.2, "scale":1}
-	]
+	],
+
+    "Fomatting":
+    [
+    {"category":"link opacity", "value":12},
+    {"category":"node opacity", "value":23},
+    {"category":"node size", "value":17},
+    {"category":"edge gap", "value":23},
+    {"category":"link width", "value":15},
+    {"category":"labeling", "value":22}
+    ]
 }
