@@ -159,12 +159,12 @@
   "height":180,
   "data": {
     "values": [
-	{"category":"search", "value":12},
-	{"category":"node select", "value":23},
-	{"category":"link select", "value":17},
-  {"category":"color", "value":23},
-  {"category":"timeslider", "value":15},
-  {"category":"zoom", "value":22}
+	{"category":"link opacity", "value":12},
+	{"category":"node opacity", "value":23},
+	{"category":"node size", "value":17},
+  {"category":"edge gap", "value":23},
+  {"category":"link width", "value":15},
+  {"category":"labeling", "value":22}
 	]
   },
 
