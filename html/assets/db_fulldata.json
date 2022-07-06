@@ -1,0 +1,1425 @@
+{
+	"userComposition":
+    {
+        "total":534,
+        "value": 
+        [
+            {"userType":"demo","userNum":298},
+            {"userType":"data_struggler","userNum":71},
+            {"userType":"ss_explorer","userNum":93},
+            {"userType":"ms_explorer","userNum":72}
+        ]
+    },
+
+    "usersOnline":{
+        "perDay":20,
+        "perWeek":40,
+        "perMonth":100,
+        "perYear":1200
+    },
+	
+	"monthlyUserSessions":
+    [
+        {"date":"2021-01","monthlyUser":30},
+        {"date":"2021-02","monthlyUser":34},
+        {"date":"2021-03","monthlyUser":53},
+        {"date":"2021-04","monthlyUser":42},
+        {"date":"2021-05","monthlyUser":37},
+        {"date":"2021-06","monthlyUser":89},
+        {"date":"2021-07","monthlyUser":67},
+        {"date":"2021-08","monthlyUser":48},
+        {"date":"2021-09","monthlyUser":94},
+        {"date":"2021-10","monthlyUser":74},
+        {"date":"2021-11","monthlyUser":23},
+        {"date":"2021-12","monthlyUser":12}
+    ],
+
+    "averageSessionTime":{
+        "unit":"seconds",
+        "allUser": 127,   
+        "value":[{
+            "userType":"demo", 
+            "min":20,
+            "q1":30,
+            "q2":40,
+            "q3":80,
+            "max":100
+        },{
+            "userType":"data_struggler", 
+            "min":210,
+            "q1":320,
+            "q2":740,
+            "q3":840,
+            "max":1000
+        },{
+            "userType":"ss_explorer",
+            "min":2039,
+            "q1":3400,
+            "q2":6140,
+            "q3":8093,
+            "max":44100
+        },{
+            "userType":"ms_explorer",
+            "min":2300,
+            "q1":34578,
+            "q2":57684,
+            "q3":89000,
+            "max":120000
+        }]
+    },
+
+    "returningUsers": [
+        {"category": "returning user", "value": 318},
+        {"category": "non returning", "value": 400}
+      ],
+
+
+    "returnRate": [
+        {"date":"2021-01","returning":12, "nonReturning":18},
+        {"date":"2021-02","returning":14, "nonReturning":20},
+        {"date":"2021-03","returning":13, "nonReturning":40},
+        {"date":"2021-04","returning":20, "nonReturning":22},
+        {"date":"2021-05","returning":17, "nonReturning":20},
+        {"date":"2021-06","returning":50, "nonReturning":39},
+        {"date":"2021-07","returning":47, "nonReturning":20},
+        {"date":"2021-08","returning":28, "nonReturning":20},
+        {"date":"2021-09","returning":34, "nonReturning":60},
+        {"date":"2021-10","returning":34, "nonReturning":40},
+        {"date":"2021-11","returning":10, "nonReturning":13},
+        {"date":"2021-12","returning":2, "nonReturning":10}
+      ],
+
+      "timeline":[
+        {
+          "week": 1,
+          "userType": "data-strugglers",
+          "userNum": 29
+        },
+        {
+          "week": 2,
+          "userType": "data-strugglers",
+          "userNum": 26
+        },
+        {
+          "week": 3,
+          "userType": "data-strugglers",
+          "userNum": 3
+        },
+        {
+          "week": 4,
+          "userType": "data-strugglers",
+          "userNum": 10
+        },
+        {
+          "week": 5,
+          "userType": "data-strugglers",
+          "userNum": 9
+        },
+        {
+          "week": 6,
+          "userType": "data-strugglers",
+          "userNum": 8
+        },
+        {
+          "week": 7,
+          "userType": "data-strugglers",
+          "userNum": 2
+        },
+        {
+          "week": 8,
+          "userType": "data-strugglers",
+          "userNum": 18
+        },
+        {
+          "week": 9,
+          "userType": "data-strugglers",
+          "userNum": 5
+        },
+        {
+          "week": 10,
+          "userType": "data-strugglers",
+          "userNum": 29
+        },
+        {
+          "week": 11,
+          "userType": "data-strugglers",
+          "userNum": 25
+        },
+        {
+          "week": 12,
+          "userType": "data-strugglers",
+          "userNum": 10
+        },
+        {
+          "week": 13,
+          "userType": "data-strugglers",
+          "userNum": 10
+        },
+        {
+          "week": 14,
+          "userType": "data-strugglers",
+          "userNum": 3
+        },
+        {
+          "week": 15,
+          "userType": "data-strugglers",
+          "userNum": 22
+        },
+        {
+          "week": 16,
+          "userType": "data-strugglers",
+          "userNum": 20
+        },
+        {
+          "week": 17,
+          "userType": "data-strugglers",
+          "userNum": 3
+        },
+        {
+          "week": 18,
+          "userType": "data-strugglers",
+          "userNum": 5
+        },
+        {
+          "week": 19,
+          "userType": "data-strugglers",
+          "userNum": 5
+        },
+        {
+          "week": 20,
+          "userType": "data-strugglers",
+          "userNum": 11
+        },
+        {
+          "week": 21,
+          "userType": "data-strugglers",
+          "userNum": 8
+        },
+        {
+          "week": 22,
+          "userType": "data-strugglers",
+          "userNum": 11
+        },
+        {
+          "week": 23,
+          "userType": "data-strugglers",
+          "userNum": 26
+        },
+        {
+          "week": 24,
+          "userType": "data-strugglers",
+          "userNum": 5
+        },
+        {
+          "week": 25,
+          "userType": "data-strugglers",
+          "userNum": 17
+        },
+        {
+          "week": 26,
+          "userType": "data-strugglers",
+          "userNum": 9
+        },
+        {
+          "week": 27,
+          "userType": "data-strugglers",
+          "userNum": 9
+        },
+        {
+          "week": 28,
+          "userType": "data-strugglers",
+          "userNum": 30
+        },
+        {
+          "week": 29,
+          "userType": "data-strugglers",
+          "userNum": 23
+        },
+        {
+          "week": 30,
+          "userType": "data-strugglers",
+          "userNum": 28
+        },
+        {
+          "week": 31,
+          "userType": "data-strugglers",
+          "userNum": 18
+        },
+        {
+          "week": 32,
+          "userType": "data-strugglers",
+          "userNum": 16
+        },
+        {
+          "week": 33,
+          "userType": "data-strugglers",
+          "userNum": 24
+        },
+        {
+          "week": 34,
+          "userType": "data-strugglers",
+          "userNum": 12
+        },
+        {
+          "week": 35,
+          "userType": "data-strugglers",
+          "userNum": 6
+        },
+        {
+          "week": 36,
+          "userType": "data-strugglers",
+          "userNum": 10
+        },
+        {
+          "week": 37,
+          "userType": "data-strugglers",
+          "userNum": 8
+        },
+        {
+          "week": 38,
+          "userType": "data-strugglers",
+          "userNum": 12
+        },
+        {
+          "week": 39,
+          "userType": "data-strugglers",
+          "userNum": 20
+        },
+        {
+          "week": 40,
+          "userType": "data-strugglers",
+          "userNum": 8
+        },
+        {
+          "week": 41,
+          "userType": "data-strugglers",
+          "userNum": 27
+        },
+        {
+          "week": 42,
+          "userType": "data-strugglers",
+          "userNum": 24
+        },
+        {
+          "week": 43,
+          "userType": "data-strugglers",
+          "userNum": 28
+        },
+        {
+          "week": 44,
+          "userType": "data-strugglers",
+          "userNum": 28
+        },
+        {
+          "week": 45,
+          "userType": "data-strugglers",
+          "userNum": 8
+        },
+        {
+          "week": 46,
+          "userType": "data-strugglers",
+          "userNum": 29
+        },
+        {
+          "week": 47,
+          "userType": "data-strugglers",
+          "userNum": 17
+        },
+        {
+          "week": 48,
+          "userType": "data-strugglers",
+          "userNum": 11
+        },
+        {
+          "week": 49,
+          "userType": "data-strugglers",
+          "userNum": 22
+        },
+        {
+          "week": 50,
+          "userType": "data-strugglers",
+          "userNum": 18
+        },
+        {
+          "week": 51,
+          "userType": "data-strugglers",
+          "userNum": 28
+        },
+        {
+          "week": 52,
+          "userType": "data-strugglers",
+          "userNum": 27
+        },
+        {
+          "week": 53,
+          "userType": "data-strugglers",
+          "userNum": 18
+        },
+        {
+          "week": 1,
+          "userType": "demo users",
+          "userNum": 47
+        },
+        {
+          "week": 2,
+          "userType": "demo users",
+          "userNum": 33
+        },
+        {
+          "week": 3,
+          "userType": "demo users",
+          "userNum": 46
+        },
+        {
+          "week": 4,
+          "userType": "demo users",
+          "userNum": 47
+        },
+        {
+          "week": 5,
+          "userType": "demo users",
+          "userNum": 60
+        },
+        {
+          "week": 6,
+          "userType": "demo users",
+          "userNum": 37
+        },
+        {
+          "week": 7,
+          "userType": "demo users",
+          "userNum": 41
+        },
+        {
+          "week": 8,
+          "userType": "demo users",
+          "userNum": 39
+        },
+        {
+          "week": 9,
+          "userType": "demo users",
+          "userNum": 51
+        },
+        {
+          "week": 10,
+          "userType": "demo users",
+          "userNum": 40
+        },
+        {
+          "week": 11,
+          "userType": "demo users",
+          "userNum": 24
+        },
+        {
+          "week": 12,
+          "userType": "demo users",
+          "userNum": 52
+        },
+        {
+          "week": 13,
+          "userType": "demo users",
+          "userNum": 36
+        },
+        {
+          "week": 14,
+          "userType": "demo users",
+          "userNum": 28
+        },
+        {
+          "week": 15,
+          "userType": "demo users",
+          "userNum": 26
+        },
+        {
+          "week": 16,
+          "userType": "demo users",
+          "userNum": 53
+        },
+        {
+          "week": 17,
+          "userType": "demo users",
+          "userNum": 34
+        },
+        {
+          "week": 18,
+          "userType": "demo users",
+          "userNum": 26
+        },
+        {
+          "week": 19,
+          "userType": "demo users",
+          "userNum": 28
+        },
+        {
+          "week": 20,
+          "userType": "demo users",
+          "userNum": 20
+        },
+        {
+          "week": 21,
+          "userType": "demo users",
+          "userNum": 44
+        },
+        {
+          "week": 22,
+          "userType": "demo users",
+          "userNum": 49
+        },
+        {
+          "week": 23,
+          "userType": "demo users",
+          "userNum": 30
+        },
+        {
+          "week": 24,
+          "userType": "demo users",
+          "userNum": 52
+        },
+        {
+          "week": 25,
+          "userType": "demo users",
+          "userNum": 36
+        },
+        {
+          "week": 26,
+          "userType": "demo users",
+          "userNum": 38
+        },
+        {
+          "week": 27,
+          "userType": "demo users",
+          "userNum": 25
+        },
+        {
+          "week": 28,
+          "userType": "demo users",
+          "userNum": 50
+        },
+        {
+          "week": 29,
+          "userType": "demo users",
+          "userNum": 34
+        },
+        {
+          "week": 30,
+          "userType": "demo users",
+          "userNum": 30
+        },
+        {
+          "week": 31,
+          "userType": "demo users",
+          "userNum": 25
+        },
+        {
+          "week": 32,
+          "userType": "demo users",
+          "userNum": 59
+        },
+        {
+          "week": 33,
+          "userType": "demo users",
+          "userNum": 34
+        },
+        {
+          "week": 34,
+          "userType": "demo users",
+          "userNum": 58
+        },
+        {
+          "week": 35,
+          "userType": "demo users",
+          "userNum": 58
+        },
+        {
+          "week": 36,
+          "userType": "demo users",
+          "userNum": 29
+        },
+        {
+          "week": 37,
+          "userType": "demo users",
+          "userNum": 51
+        },
+        {
+          "week": 38,
+          "userType": "demo users",
+          "userNum": 57
+        },
+        {
+          "week": 39,
+          "userType": "demo users",
+          "userNum": 41
+        },
+        {
+          "week": 40,
+          "userType": "demo users",
+          "userNum": 46
+        },
+        {
+          "week": 41,
+          "userType": "demo users",
+          "userNum": 53
+        },
+        {
+          "week": 42,
+          "userType": "demo users",
+          "userNum": 26
+        },
+        {
+          "week": 43,
+          "userType": "demo users",
+          "userNum": 22
+        },
+        {
+          "week": 44,
+          "userType": "demo users",
+          "userNum": 54
+        },
+        {
+          "week": 45,
+          "userType": "demo users",
+          "userNum": 33
+        },
+        {
+          "week": 46,
+          "userType": "demo users",
+          "userNum": 50
+        },
+        {
+          "week": 47,
+          "userType": "demo users",
+          "userNum": 49
+        },
+        {
+          "week": 48,
+          "userType": "demo users",
+          "userNum": 37
+        },
+        {
+          "week": 49,
+          "userType": "demo users",
+          "userNum": 21
+        },
+        {
+          "week": 50,
+          "userType": "demo users",
+          "userNum": 22
+        },
+        {
+          "week": 51,
+          "userType": "demo users",
+          "userNum": 35
+        },
+        {
+          "week": 52,
+          "userType": "demo users",
+          "userNum": 44
+        },
+        {
+          "week": 53,
+          "userType": "demo users",
+          "userNum": 54
+        },
+        {
+          "week": 1,
+          "userType": "ss_explorer",
+          "userNum": 20
+        },
+        {
+          "week": 2,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 3,
+          "userType": "ss_explorer",
+          "userNum": 23
+        },
+        {
+          "week": 4,
+          "userType": "ss_explorer",
+          "userNum": 15
+        },
+        {
+          "week": 5,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 6,
+          "userType": "ss_explorer",
+          "userNum": 20
+        },
+        {
+          "week": 7,
+          "userType": "ss_explorer",
+          "userNum": 5
+        },
+        {
+          "week": 8,
+          "userType": "ss_explorer",
+          "userNum": 21
+        },
+        {
+          "week": 9,
+          "userType": "ss_explorer",
+          "userNum": 24
+        },
+        {
+          "week": 10,
+          "userType": "ss_explorer",
+          "userNum": 7
+        },
+        {
+          "week": 11,
+          "userType": "ss_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 12,
+          "userType": "ss_explorer",
+          "userNum": 10
+        },
+        {
+          "week": 13,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 14,
+          "userType": "ss_explorer",
+          "userNum": 21
+        },
+        {
+          "week": 15,
+          "userType": "ss_explorer",
+          "userNum": 29
+        },
+        {
+          "week": 16,
+          "userType": "ss_explorer",
+          "userNum": 27
+        },
+        {
+          "week": 17,
+          "userType": "ss_explorer",
+          "userNum": 23
+        },
+        {
+          "week": 18,
+          "userType": "ss_explorer",
+          "userNum": 25
+        },
+        {
+          "week": 19,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 20,
+          "userType": "ss_explorer",
+          "userNum": 5
+        },
+        {
+          "week": 21,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 22,
+          "userType": "ss_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 23,
+          "userType": "ss_explorer",
+          "userNum": 29
+        },
+        {
+          "week": 24,
+          "userType": "ss_explorer",
+          "userNum": 10
+        },
+        {
+          "week": 25,
+          "userType": "ss_explorer",
+          "userNum": 16
+        },
+        {
+          "week": 26,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 27,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 28,
+          "userType": "ss_explorer",
+          "userNum": 22
+        },
+        {
+          "week": 29,
+          "userType": "ss_explorer",
+          "userNum": 28
+        },
+        {
+          "week": 30,
+          "userType": "ss_explorer",
+          "userNum": 6
+        },
+        {
+          "week": 31,
+          "userType": "ss_explorer",
+          "userNum": 15
+        },
+        {
+          "week": 32,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 33,
+          "userType": "ss_explorer",
+          "userNum": 26
+        },
+        {
+          "week": 34,
+          "userType": "ss_explorer",
+          "userNum": 30
+        },
+        {
+          "week": 35,
+          "userType": "ss_explorer",
+          "userNum": 24
+        },
+        {
+          "week": 36,
+          "userType": "ss_explorer",
+          "userNum": 26
+        },
+        {
+          "week": 37,
+          "userType": "ss_explorer",
+          "userNum": 30
+        },
+        {
+          "week": 38,
+          "userType": "ss_explorer",
+          "userNum": 24
+        },
+        {
+          "week": 39,
+          "userType": "ss_explorer",
+          "userNum": 18
+        },
+        {
+          "week": 40,
+          "userType": "ss_explorer",
+          "userNum": 18
+        },
+        {
+          "week": 41,
+          "userType": "ss_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 42,
+          "userType": "ss_explorer",
+          "userNum": 26
+        },
+        {
+          "week": 43,
+          "userType": "ss_explorer",
+          "userNum": 18
+        },
+        {
+          "week": 44,
+          "userType": "ss_explorer",
+          "userNum": 14
+        },
+        {
+          "week": 45,
+          "userType": "ss_explorer",
+          "userNum": 27
+        },
+        {
+          "week": 46,
+          "userType": "ss_explorer",
+          "userNum": 12
+        },
+        {
+          "week": 47,
+          "userType": "ss_explorer",
+          "userNum": 26
+        },
+        {
+          "week": 48,
+          "userType": "ss_explorer",
+          "userNum": 10
+        },
+        {
+          "week": 49,
+          "userType": "ss_explorer",
+          "userNum": 10
+        },
+        {
+          "week": 50,
+          "userType": "ss_explorer",
+          "userNum": 9
+        },
+        {
+          "week": 51,
+          "userType": "ss_explorer",
+          "userNum": 7
+        },
+        {
+          "week": 52,
+          "userType": "ss_explorer",
+          "userNum": 6
+        },
+        {
+          "week": 53,
+          "userType": "ss_explorer",
+          "userNum": 21
+        },
+        {
+          "week": 1,
+          "userType": "ms_explorer",
+          "userNum": 4
+        },
+        {
+          "week": 2,
+          "userType": "ms_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 3,
+          "userType": "ms_explorer",
+          "userNum": 9
+        },
+        {
+          "week": 4,
+          "userType": "ms_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 5,
+          "userType": "ms_explorer",
+          "userNum": 17
+        },
+        {
+          "week": 6,
+          "userType": "ms_explorer",
+          "userNum": 9
+        },
+        {
+          "week": 7,
+          "userType": "ms_explorer",
+          "userNum": 16
+        },
+        {
+          "week": 8,
+          "userType": "ms_explorer",
+          "userNum": 3
+        },
+        {
+          "week": 9,
+          "userType": "ms_explorer",
+          "userNum": 2
+        },
+        {
+          "week": 10,
+          "userType": "ms_explorer",
+          "userNum": 12
+        },
+        {
+          "week": 11,
+          "userType": "ms_explorer",
+          "userNum": 17
+        },
+        {
+          "week": 12,
+          "userType": "ms_explorer",
+          "userNum": 4
+        },
+        {
+          "week": 13,
+          "userType": "ms_explorer",
+          "userNum": 18
+        },
+        {
+          "week": 14,
+          "userType": "ms_explorer",
+          "userNum": 12
+        },
+        {
+          "week": 15,
+          "userType": "ms_explorer",
+          "userNum": 6
+        },
+        {
+          "week": 16,
+          "userType": "ms_explorer",
+          "userNum": 8
+        },
+        {
+          "week": 17,
+          "userType": "ms_explorer",
+          "userNum": 6
+        },
+        {
+          "week": 18,
+          "userType": "ms_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 19,
+          "userType": "ms_explorer",
+          "userNum": 15
+        },
+        {
+          "week": 20,
+          "userType": "ms_explorer",
+          "userNum": 13
+        },
+        {
+          "week": 21,
+          "userType": "ms_explorer",
+          "userNum": 17
+        },
+        {
+          "week": 22,
+          "userType": "ms_explorer",
+          "userNum": 9
+        },
+        {
+          "week": 23,
+          "userType": "ms_explorer",
+          "userNum": 5
+        },
+        {
+          "week": 24,
+          "userType": "ms_explorer",
+          "userNum": 1
+        },
+        {
+          "week": 25,
+          "userType": "ms_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 26,
+          "userType": "ms_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 27,
+          "userType": "ms_explorer",
+          "userNum": 5
+        },
+        {
+          "week": 28,
+          "userType": "ms_explorer",
+          "userNum": 3
+        },
+        {
+          "week": 29,
+          "userType": "ms_explorer",
+          "userNum": 15
+        },
+        {
+          "week": 30,
+          "userType": "ms_explorer",
+          "userNum": 20
+        },
+        {
+          "week": 31,
+          "userType": "ms_explorer",
+          "userNum": 12
+        },
+        {
+          "week": 32,
+          "userType": "ms_explorer",
+          "userNum": 16
+        },
+        {
+          "week": 33,
+          "userType": "ms_explorer",
+          "userNum": 3
+        },
+        {
+          "week": 34,
+          "userType": "ms_explorer",
+          "userNum": 18
+        },
+        {
+          "week": 35,
+          "userType": "ms_explorer",
+          "userNum": 2
+        },
+        {
+          "week": 36,
+          "userType": "ms_explorer",
+          "userNum": 18
+        },
+        {
+          "week": 37,
+          "userType": "ms_explorer",
+          "userNum": 17
+        },
+        {
+          "week": 38,
+          "userType": "ms_explorer",
+          "userNum": 9
+        },
+        {
+          "week": 39,
+          "userType": "ms_explorer",
+          "userNum": 6
+        },
+        {
+          "week": 40,
+          "userType": "ms_explorer",
+          "userNum": 3
+        },
+        {
+          "week": 41,
+          "userType": "ms_explorer",
+          "userNum": 20
+        },
+        {
+          "week": 42,
+          "userType": "ms_explorer",
+          "userNum": 15
+        },
+        {
+          "week": 43,
+          "userType": "ms_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 44,
+          "userType": "ms_explorer",
+          "userNum": 20
+        },
+        {
+          "week": 45,
+          "userType": "ms_explorer",
+          "userNum": 19
+        },
+        {
+          "week": 46,
+          "userType": "ms_explorer",
+          "userNum": 1
+        },
+        {
+          "week": 47,
+          "userType": "ms_explorer",
+          "userNum": 9
+        },
+        {
+          "week": 48,
+          "userType": "ms_explorer",
+          "userNum": 11
+        },
+        {
+          "week": 49,
+          "userType": "ms_explorer",
+          "userNum": 20
+        },
+        {
+          "week": 50,
+          "userType": "ms_explorer",
+          "userNum": 4
+        },
+        {
+          "week": 51,
+          "userType": "ms_explorer",
+          "userNum": 3
+        },
+        {
+          "week": 52,
+          "userType": "ms_explorer",
+          "userNum": 8
+        },
+        {
+          "week": 53,
+          "userType": "ms_explorer",
+          "userNum": 1
+        }
+       ],
+
+    "events":[
+        {"category":"workshops","start":6,"end":7,"index":0,"numOfAttendees":23, "title":"ws1"},
+        {"category":"workshops","start":20,"end":21,"index":1,"numOfAttendees":33, "title":"ws3"},
+        {"category":"workshops","start":42,"end":43,"index":2,"numOfAttendees":33, "title":"ws2"},
+        {"category":"courses","start":23,"end":26,"index":3, "numOfAttendees": 24, "title":"course_A"},
+        {"category":"courses","start":31,"end":36,"index":4, "numOfAttendees": 24, "title":"course_B"}
+    ],
+
+    "frequentVisitedFeatures":
+		[
+	 {
+	   "rank": 1,
+	   "category": "Time-Slider",
+	   "overall": 0.62,
+	   "userType": "ss_explorer",
+	   "popularity": 0.5
+	 },
+	 {
+	   "rank": 1,
+	   "category": "Time-Slider",
+	   "overall": 0.62,
+	   "userType": "ms_explorer",
+	   "popularity": 0.74
+	 },
+	 {
+	   "rank": 2,
+	   "category": "Filter by Link Type",
+	   "overall": 0.85,
+	   "userType": "ss_explorer",
+	   "popularity": 0.8
+	 },
+	 {
+	   "rank": 2,
+	   "category": "Filter by Link Type",
+	   "overall": 0.85,
+	   "userType": "ms_explorer",
+	   "popularity": 0.9
+	 },
+	 {
+	   "rank": 3,
+	   "category": "Filter by Node Type",
+	   "overall": 0.52,
+	   "userType": "ss_explorer",
+	   "popularity": 0.44
+	 },
+	 {
+	   "rank": 3,
+	   "category": "Filter by Node Type",
+	   "overall": 0.52,
+	   "userType": "ms_explorer",
+	   "popularity": 0.6
+	 },
+	 {
+	   "rank": 4,
+	   "category": "Link Opacity NL",
+	   "overall": 0.52,
+	   "userType": "ss_explorer",
+	   "popularity": 0.44
+	 },
+	 {
+	   "rank": 4,
+	   "category": "Link Opacity NL",
+	   "overall": 0.52,
+	   "userType": "ms_explorer",
+	   "popularity": 0.6
+	 },
+	 {
+	   "rank": 5,
+	   "category": "Order by Algorithm",
+	   "overall": 0.6,
+	   "userType": "ss_explorer",
+	   "popularity": 0.3
+	 },
+	 {
+	   "rank": 5,
+	   "category": "Order by Algorithm",
+	   "overall": 0.6,
+	   "userType": "ms_explorer",
+	   "popularity": 0.9
+	 },
+	 {
+	   "rank": 6,
+	   "category": "Link Opacity Map",
+	   "overall": 0.52,
+	   "userType": "ss_explorer",
+	   "popularity": 0.44
+	 },
+	 {
+	   "rank": 6,
+	   "category": "Link Opacity Map",
+	   "overall": 0.52,
+	   "userType": "ms_explorer",
+	   "popularity": 0.6
+	 }
+	],
+
+    "helpResources":
+		[
+	 {
+	   "usagePerc": 0.7,
+	   "helpResource": "Network Manual",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.2,
+	   "helpResource": "Network Manual",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.4,
+	   "helpResource": "Network Manual",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.23,
+	   "helpResource": "Network Manual",
+	   "userType": "ms_explorer"
+	 },
+	 {
+	   "usagePerc": 0.9,
+	   "helpResource": "Data Formating",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.94,
+	   "helpResource": "Data Formating",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.5,
+	   "helpResource": "Data Formating",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.76,
+	   "helpResource": "Data Formating",
+	   "userType": "ms_explorer"
+	 },
+	 {
+	   "usagePerc": 0.5,
+	   "helpResource": "Video Tutorial",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.2,
+	   "helpResource": "Video Tutorial",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.23,
+	   "helpResource": "Video Tutorial",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.53,
+	   "helpResource": "Video Tutorial",
+	   "userType": "ms_explorer"
+	 },
+	 {
+	   "usagePerc": 0.4,
+	   "helpResource": "Visualization Examples",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.7,
+	   "helpResource": "Visualization Examples",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.75,
+	   "helpResource": "Visualization Examples",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.41,
+	   "helpResource": "Visualization Examples",
+	   "userType": "ms_explorer"
+	 },
+	 {
+	   "usagePerc": 0.8,
+	   "helpResource": "Data Examples",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.1,
+	   "helpResource": "Data Examples",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.22,
+	   "helpResource": "Data Examples",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.82,
+	   "helpResource": "Data Examples",
+	   "userType": "ms_explorer"
+	 },
+	 {
+	   "usagePerc": 0.87,
+	   "helpResource": "Demo",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.83,
+	   "helpResource": "Demo",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.46,
+	   "helpResource": "Demo",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.94,
+	   "helpResource": "Demo",
+	   "userType": "ms_explorer"
+	 },
+	 {
+	   "usagePerc": 0.2,
+	   "helpResource": "Tutorials",
+	   "userType": "demo"
+	 },
+	 {
+	   "usagePerc": 0.8,
+	   "helpResource": "Tutorials",
+	   "userType": "data struggler"
+	 },
+	 {
+	   "usagePerc": 0.44,
+	   "helpResource": "Tutorials",
+	   "userType": "ss_explorer"
+	 },
+	 {
+	   "usagePerc": 0.22,
+	   "helpResource": "Tutorials",
+	   "userType": "ms_explorer"
+	 }
+	],
+
+    "userExplorationTime":[
+        {"userType":"demo", "step":"HelpResource","duration":20},
+        {"userType":"demo", "step":"NetworkCreation","duration":15},
+        {"userType":"demo", "step":"NL","duration":2},
+        {"userType":"demo", "step":"Map","duration":1},
+        {"userType":"demo", "step":"Timiline","duration":3},
+        {"userType":"demo", "step":"Matrix","duration":2},
+        
+        {"userType":"ds", "step":"HelpResource","duration":10},
+        {"userType":"ds", "step":"NetworkCreation","duration":30},
+        {"userType":"ds", "step":"NL","duration":5},
+        {"userType":"ds", "step":"Map","duration":1},
+        {"userType":"ds", "step":"Timiline","duration":2},
+        {"userType":"ds", "step":"Matrix","duration":1},
+        
+        {"userType":"ss", "step":"HelpResource","duration":10},
+        {"userType":"ss", "step":"NetworkCreation","duration":10},
+        {"userType":"ss", "step":"NL","duration":20},
+        {"userType":"ss", "step":"Map","duration":12},
+        {"userType":"ss", "step":"Timiline","duration":8},
+        {"userType":"ss", "step":"Matrix","duration":6},
+        
+        {"userType":"ms", "step":"HelpResource","duration":5},
+        {"userType":"ms", "step":"NetworkCreation","duration":12},
+        {"userType":"ms", "step":"NL","duration":16},
+        {"userType":"ms", "step":"Map","duration":12},
+        {"userType":"ms", "step":"Timiline","duration":14},
+        {"userType":"ms", "step":"Matrix","duration":8}
+        ]
+
+}
