@@ -1,0 +1,175 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Help resource popularity counts by category1",
+    "description":"Help Resouces popularity",
+    "width": "container",
+    "height": "container",
+    "autosize": { "type": "fit", "contains": "padding", "resize":true },
+    "data": {
+      "values": [
+      {
+        "helpResource": "Network Manual",
+        "userType": "Demo",
+        "count": 41
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "Data_Strugglers",
+        "count": 2
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "SS_Explorers",
+        "count": 6
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "MS_Explorers",
+        "count": 5
+      },
+      {
+        "helpResource": "Data Formatting",
+        "userType": "Demo",
+        "count": 6
+      },
+      {
+        "helpResource": "Data Formatting",
+        "userType": "Data_Strugglers",
+        "count": 1
+      },
+      {
+        "helpResource": "Data Formatting",
+        "userType": "SS_Explorers",
+        "count": 2
+      },
+      {
+        "helpResource": "Data Formatting",
+        "userType": "MS_Explorers",
+        "count": 1
+      },
+      {
+        "helpResource": "Play Video",
+        "userType": "Demo",
+        "count": 48
+      },
+      {
+        "helpResource": "Play Video",
+        "userType": "Data_Strugglers",
+        "count": 13
+      },
+      {
+        "helpResource": "Play Video",
+        "userType": "SS_Explorers",
+        "count": 8
+      },
+      {
+        "helpResource": "Play Video",
+        "userType": "MS_Explorers",
+        "count": 0
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "Demo",
+        "count": 175
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "Data_Strugglers",
+        "count": 0
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "SS_Explorers",
+        "count": 7
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "MS_Explorers",
+        "count": 6
+      },
+      {
+        "helpResource": "Data Example",
+        "userType": "Demo",
+        "count": 2
+      },
+      {
+        "helpResource": "Data Example",
+        "userType": "Data_Strugglers",
+        "count": 0
+      },
+      {
+        "helpResource": "Data Example",
+        "userType": "SS_Explorers",
+        "count": 0
+      },
+      {
+        "helpResource": "Data Example",
+        "userType": "MS_Explorers",
+        "count": 1
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "Demo",
+        "count": 20
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "Data_Strugglers",
+        "count": 3
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "SS_Explorers",
+        "count": 3
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "MS_Explorers",
+        "count": 0
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "Demo",
+        "count": 29
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "Data_Strugglers",
+        "count": 2
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "SS_``Explorers",
+        "count": 2
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "MS_Explorers",
+        "count": 1
+      }
+    ]
+    },
+    "mark": {
+      "type": "bar",
+      "tooltip":true
+    },
+    "encoding": {
+      "x": {
+        "aggregate": "sum",
+        "field": "count",
+        "axis":{"domain":  false, "labelFontSize":12, "grid": true, "gridDash": [6,3]},
+        "title": null
+      },
+      "y": {"field": "helpResource", "axis":{"ticks": false, "zindex": 1, "domainWidth":1.2, "domainColor":"black", "labelFontSize":12}, "title":null},
+      "color": {
+        "field": "userType",
+        "scale": {"range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]}
+      }
+    }
+  ,
+  
+  "config":{
+    "axis": {"ticks":false},
+    "view": {"stroke": "transparent"}
+  }
+    }

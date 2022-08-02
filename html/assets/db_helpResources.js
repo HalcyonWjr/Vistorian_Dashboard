@@ -5,7 +5,7 @@ const chart7 = {
   "height": "container",
   "autosize": { "type": "fit", "contains": "padding", "resize":true },
   "data": {
-    "url": "https://gist.githubusercontent.com/HalcyonWjr/598fa622089110aae833b637edbacda5/raw/1762e78f003e08d29c8995cf738ff69e918bf346/db_fulldata.json",
+    "url": "https://gist.githubusercontent.com/HalcyonWjr/6c0d47a52e10cf2903c7324dc0814bef/raw/4b09cee787e53fc610a8fa06950af9b9949fc6a8/db_data_real.json",
     "format":{
       "type": "json",
       "property": "helpResources"
@@ -13,19 +13,24 @@ const chart7 = {
   },
   "mark": {
     "type": "bar",
+    "height": {"band": 0.85},
     "tooltip":true
   },
   "encoding": {
     "x": {
       "aggregate": "sum",
-      "field": "usagePerc",
+      "field": "percentage",
       "axis":{"format": ".0%", "domain":  false, "labelFontSize":12, "grid": true, "gridDash": [6,3]},
       "title": null
     },
-    "y": {"field": "helpResource", "axis":{"ticks": false, "zindex": 1, "domainWidth":1.2, "domainColor":"black", "labelFontSize":12}, "title":null},
+    "y": {
+      "field": "userType", 
+      "axis":{"ticks": false, "zindex": 1, "domainWidth":1.2, "domainColor":"black", "labelFontSize":12}, 
+      "title":null,
+      "sort":["demo", "data struggler", "ss_explorer", "ms_explorer"]
+      },
     "color": {
-      "field": "userType",
-      "scale": {"range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]}
+      "field": "helpResource"
     }
   }
 ,

@@ -1,4 +1,4 @@
-const data_Url = 'https://gist.githubusercontent.com/HalcyonWjr/598fa622089110aae833b637edbacda5/raw/1762e78f003e08d29c8995cf738ff69e918bf346/db_fulldata.json'
+const data_Url = 'https://gist.githubusercontent.com/HalcyonWjr/6c0d47a52e10cf2903c7324dc0814bef/raw/919b61f9fc89e8a74ab4edb02d3744eb0764b700/db_data_real.json'
 
 async function getData() {
    const response = await fetch(data_Url);
@@ -11,7 +11,7 @@ async function getData() {
    //chart2
    const userPerDay = data.usersOnline.perDay;
    const userPerWeek = data.usersOnline.perWeek;
-   const userPerMonth = data.usersOnline.perWeek;
+   const userPerMonth = data.usersOnline.perMonth;
    
    document.getElementById('userPerDay').textContent = userPerDay;
    document.getElementById('userPerWeek').textContent = userPerWeek;

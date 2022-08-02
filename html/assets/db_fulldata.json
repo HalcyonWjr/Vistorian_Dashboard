@@ -1,37 +1,59 @@
 {
 	"userComposition":
     {
-        "total":534,
+        "total":724,
         "value": 
         [
-            {"userType":"demo","userNum":298},
-            {"userType":"data_struggler","userNum":71},
-            {"userType":"ss_explorer","userNum":93},
-            {"userType":"ms_explorer","userNum":72}
+            {"userType":"demo","userNum":437},
+            {"userType":"data_struggler","userNum":120},
+            {"userType":"ss_explorer","userNum":89},
+            {"userType":"ms_explorer","userNum":78}
         ]
     },
 
     "usersOnline":{
-        "perDay":20,
-        "perWeek":40,
-        "perMonth":100,
-        "perYear":1200
+        "perDay":5,
+        "perWeek":35,
+        "perMonth":151
     },
-	
-	"monthlyUserSessions":
+  
+  "monthlyUserSessions":
     [
-        {"date":"2021-01","monthlyUser":30},
-        {"date":"2021-02","monthlyUser":34},
-        {"date":"2021-03","monthlyUser":53},
-        {"date":"2021-04","monthlyUser":42},
-        {"date":"2021-05","monthlyUser":37},
-        {"date":"2021-06","monthlyUser":89},
-        {"date":"2021-07","monthlyUser":67},
-        {"date":"2021-08","monthlyUser":48},
-        {"date":"2021-09","monthlyUser":94},
-        {"date":"2021-10","monthlyUser":74},
-        {"date":"2021-11","monthlyUser":23},
-        {"date":"2021-12","monthlyUser":12}
+        {"date":"2021-07","monthlyUser":94},
+        {"date":"2021-08","monthlyUser":124},
+        {"date":"2021-09","monthlyUser":170},
+        {"date":"2021-10","monthlyUser":113},
+        {"date":"2021-11","monthlyUser":90},
+        {"date":"2021-12","monthlyUser":124},
+        {"date":"2022-01","monthlyUser":234},
+        {"date":"2022-02","monthlyUser":330},
+        {"date":"2022-03","monthlyUser":330},
+        {"date":"2022-04","monthlyUser":222},
+        {"date":"2022-05","monthlyUser":188},
+        {"date":"2022-06","monthlyUser":256}
+    ],
+	
+	"monthlyUserSessions_completedata":
+    [
+        {"date":"2021-01","monthlyUser":0},
+        {"date":"2021-02","monthlyUser":31},
+        {"date":"2021-03","monthlyUser":20},
+        {"date":"2021-04","monthlyUser":18},
+        {"date":"2021-05","monthlyUser":23},
+        {"date":"2021-06","monthlyUser":50},
+        {"date":"2021-07","monthlyUser":94},
+        {"date":"2021-08","monthlyUser":124},
+        {"date":"2021-09","monthlyUser":170},
+        {"date":"2021-10","monthlyUser":113},
+        {"date":"2021-11","monthlyUser":90},
+        {"date":"2021-12","monthlyUser":124},
+        {"date":"2022-01","monthlyUser":234},
+        {"date":"2022-02","monthlyUser":330},
+        {"date":"2022-03","monthlyUser":330},
+        {"date":"2022-04","monthlyUser":222},
+        {"date":"2022-05","monthlyUser":188},
+        {"date":"2022-06","monthlyUser":256},
+        {"date":"2022-07","monthlyUser":18}
     ],
 
     "averageSessionTime":{
@@ -69,24 +91,46 @@
     },
 
     "returningUsers": [
-        {"category": "returning user", "value": 318},
-        {"category": "non returning", "value": 400}
+        {"category": "returning user", "value": 219},
+        {"category": "non returning", "value": 505}
+      ],
+
+    "returnRate": [
+        {"date":"2021-07","returning":43, "nonReturning":51},
+        {"date":"2021-08","returning":49, "nonReturning":75},
+        {"date":"2021-09","returning":63, "nonReturning":107},
+        {"date":"2021-10","returning":58, "nonReturning":55},
+        {"date":"2021-11","returning":19, "nonReturning":71},
+        {"date":"2021-12","returning":35, "nonReturning":89},
+        {"date":"2022-01","returning":107, "nonReturning":127},
+        {"date":"2022-02","returning":150, "nonReturning":180},
+        {"date":"2022-03","returning":151, "nonReturning":179},
+        {"date":"2022-04","returning":119, "nonReturning":103},
+        {"date":"2022-05","returning":92, "nonReturning":96},
+        {"date":"2022-06","returning":122, "nonReturning":134}
       ],
 
 
-    "returnRate": [
-        {"date":"2021-01","returning":12, "nonReturning":18},
-        {"date":"2021-02","returning":14, "nonReturning":20},
-        {"date":"2021-03","returning":13, "nonReturning":40},
-        {"date":"2021-04","returning":20, "nonReturning":22},
-        {"date":"2021-05","returning":17, "nonReturning":20},
-        {"date":"2021-06","returning":50, "nonReturning":39},
-        {"date":"2021-07","returning":47, "nonReturning":20},
-        {"date":"2021-08","returning":28, "nonReturning":20},
-        {"date":"2021-09","returning":34, "nonReturning":60},
-        {"date":"2021-10","returning":34, "nonReturning":40},
-        {"date":"2021-11","returning":10, "nonReturning":13},
-        {"date":"2021-12","returning":2, "nonReturning":10}
+    "returnRate_completedata": [
+        {"date":"2021-01","returning":0, "nonReturning":0},
+        {"date":"2021-02","returning":29, "nonReturning":2},
+        {"date":"2021-03","returning":17, "nonReturning":3},
+        {"date":"2021-04","returning":17, "nonReturning":1},
+        {"date":"2021-05","returning":21, "nonReturning":2},
+        {"date":"2021-06","returning":38, "nonReturning":12},
+        {"date":"2021-07","returning":43, "nonReturning":51},
+        {"date":"2021-08","returning":49, "nonReturning":75},
+        {"date":"2021-09","returning":63, "nonReturning":107},
+        {"date":"2021-10","returning":58, "nonReturning":55},
+        {"date":"2021-11","returning":19, "nonReturning":71},
+        {"date":"2021-12","returning":35, "nonReturning":89},
+        {"date":"2022-01","returning":107, "nonReturning":127},
+        {"date":"2022-02","returning":150, "nonReturning":180},
+        {"date":"2022-03","returning":151, "nonReturning":179},
+        {"date":"2022-04","returning":119, "nonReturning":103},
+        {"date":"2022-05","returning":92, "nonReturning":96},
+        {"date":"2022-06","returning":122, "nonReturning":134},
+        {"date":"2022-07","returning":9, "nonReturning":9}
       ],
 
       "timeline":[
@@ -1250,147 +1294,147 @@
 
     "helpResources":
 		[
-	 {
-	   "usagePerc": 0.7,
-	   "helpResource": "Network Manual",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.2,
-	   "helpResource": "Network Manual",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.4,
-	   "helpResource": "Network Manual",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.23,
-	   "helpResource": "Network Manual",
-	   "userType": "ms_explorer"
-	 },
-	 {
-	   "usagePerc": 0.9,
-	   "helpResource": "Data Formating",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.94,
-	   "helpResource": "Data Formating",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.5,
-	   "helpResource": "Data Formating",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.76,
-	   "helpResource": "Data Formating",
-	   "userType": "ms_explorer"
-	 },
-	 {
-	   "usagePerc": 0.5,
-	   "helpResource": "Video Tutorial",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.2,
-	   "helpResource": "Video Tutorial",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.23,
-	   "helpResource": "Video Tutorial",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.53,
-	   "helpResource": "Video Tutorial",
-	   "userType": "ms_explorer"
-	 },
-	 {
-	   "usagePerc": 0.4,
-	   "helpResource": "Visualization Examples",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.7,
-	   "helpResource": "Visualization Examples",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.75,
-	   "helpResource": "Visualization Examples",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.41,
-	   "helpResource": "Visualization Examples",
-	   "userType": "ms_explorer"
-	 },
-	 {
-	   "usagePerc": 0.8,
-	   "helpResource": "Data Examples",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.1,
-	   "helpResource": "Data Examples",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.22,
-	   "helpResource": "Data Examples",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.82,
-	   "helpResource": "Data Examples",
-	   "userType": "ms_explorer"
-	 },
-	 {
-	   "usagePerc": 0.87,
-	   "helpResource": "Demo",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.83,
-	   "helpResource": "Demo",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.46,
-	   "helpResource": "Demo",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.94,
-	   "helpResource": "Demo",
-	   "userType": "ms_explorer"
-	 },
-	 {
-	   "usagePerc": 0.2,
-	   "helpResource": "Tutorials",
-	   "userType": "demo"
-	 },
-	 {
-	   "usagePerc": 0.8,
-	   "helpResource": "Tutorials",
-	   "userType": "data struggler"
-	 },
-	 {
-	   "usagePerc": 0.44,
-	   "helpResource": "Tutorials",
-	   "userType": "ss_explorer"
-	 },
-	 {
-	   "usagePerc": 0.22,
-	   "helpResource": "Tutorials",
-	   "userType": "ms_explorer"
-	 }
-	],
+      {
+        "helpResource": "Network Manual",
+        "userType": "data struggler",
+        "percentage": 0.09523809524
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "data struggler",
+        "percentage": 0.04761904762
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "data struggler",
+        "percentage": 0.619047619
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "data struggler",
+        "percentage": 0
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "data struggler",
+        "percentage": 0
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "data struggler",
+        "percentage": 0.1428571429
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "data struggler",
+        "percentage": 0.09523809524
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "demo",
+        "percentage": 0.1277258567
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "demo",
+        "percentage": 0.01869158879
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "demo",
+        "percentage": 0.1495327103
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "demo",
+        "percentage": 0.5451713396
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "demo",
+        "percentage": 0.006230529595
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "demo",
+        "percentage": 0.06230529595
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "demo",
+        "percentage": 0.09034267913
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "ms_explorer",
+        "percentage": 0.3571428571
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "ms_explorer",
+        "percentage": 0.07142857143
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "ms_explorer",
+        "percentage": 0
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "ms_explorer",
+        "percentage": 0.4285714286
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "ms_explorer",
+        "percentage": 0.07142857143
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "ms_explorer",
+        "percentage": 0
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "ms_explorer",
+        "percentage": 0.07142857143
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "ss_explorer",
+        "percentage": 0.2142857143
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "ss_explorer",
+        "percentage": 0.07142857143
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "ss_explorer",
+        "percentage": 0.2857142857
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "ss_explorer",
+        "percentage": 0.25
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "ss_explorer",
+        "percentage": 0
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "ss_explorer",
+        "percentage": 0.1071428571
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "ss_explorer",
+        "percentage": 0.07142857143
+      }
+     ],
 
     "userExplorationTime":[
         {"userType":"demo", "step":"HelpResource","duration":20},

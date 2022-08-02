@@ -5,7 +5,7 @@ const chart1 = {
   "height": "container",
   "autosize": { "type": "fit", "contains": "padding", "resize":true },
     "data": {
-      "url": "https://gist.githubusercontent.com/HalcyonWjr/598fa622089110aae833b637edbacda5/raw/1762e78f003e08d29c8995cf738ff69e918bf346/db_fulldata.json",
+      "url": "https://gist.githubusercontent.com/HalcyonWjr/6c0d47a52e10cf2903c7324dc0814bef/raw/4b09cee787e53fc610a8fa06950af9b9949fc6a8/db_data_real.json",
       "format":{
         "type": "json",
         "property": "userComposition.value"

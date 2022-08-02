@@ -1,0 +1,279 @@
+{
+  "return_rate": {
+    "returning": 219,
+    "non_returning": 505
+  },
+  "avgVisitorsByMonth": {
+    "description": "Average number of users per month",
+    "returning": [
+      53,
+      89,
+      84,
+      68,
+      56,
+      80,
+      26,
+      24,
+      31,
+      29,
+      9,
+      17
+    ],
+    "non_returning": [
+      63,
+      91,
+      91,
+      52,
+      49,
+      73,
+      30,
+      37,
+      53,
+      27,
+      35,
+      44
+    ]
+  },
+  "users_composition": {
+    "description": "Number of users per user type",
+    "demo": 437,
+    "data_struggler": 120,
+    "ss_explorer": 89,
+    "ms_explorer": 78
+  },
+  "returnersVisitsByMonth": {
+    "description": "returners visits per month",
+    "2021": [
+      0,
+      29,
+      17,
+      17,
+      21,
+      38,
+      43,
+      49,
+      63,
+      58,
+      19,
+      35
+    ],
+    "2022": [
+      107,
+      150,
+      151,
+      119,
+      92,
+      122,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "nonReturnersVisitsByMonth": {
+    "description": "non-returners visits per month",
+    "2021": [
+      0,
+      2,
+      3,
+      1,
+      2,
+      12,
+      51,
+      75,
+      107,
+      55,
+      71,
+      89
+    ],
+    "2022": [
+      127,
+      180,
+      179,
+      103,
+      96,
+      134,
+      9,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "allVisitsByMonth": {
+    "description": "total visits per month",
+    "2021": [
+      0,
+      31,
+      20,
+      18,
+      23,
+      50,
+      94,
+      124,
+      170,
+      113,
+      90,
+      124
+    ],
+    "2022": [
+      234,
+      330,
+      330,
+      222,
+      188,
+      256,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "help_resouces_popularity": [
+    {
+      "helpResource": "Network Manual",
+      "userType": "Demo",
+      "count": 41
+    },
+    {
+      "helpResource": "Network Manual",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "helpResource": "Network Manual",
+      "userType": "SS_Explorers",
+      "count": 6
+    },
+    {
+      "helpResource": "Network Manual",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "Demo",
+      "count": 6
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "Demo",
+      "count": 48
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "Data_Strugglers",
+      "count": 13
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "SS_Explorers",
+      "count": 8
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "Demo",
+      "count": 175
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "SS_Explorers",
+      "count": 7
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "MS_Explorers",
+      "count": 6
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "Demo",
+      "count": 2
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "Demo",
+      "count": 20
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "Demo",
+      "count": 29
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "SS_``Explorers",
+      "count": 2
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "MS_Explorers",
+      "count": 1
+    }
+  ]
+}

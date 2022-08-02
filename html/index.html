@@ -15,9 +15,9 @@
 <header>
   <div class="header">
     <img src="img/logo.png" />
-    <a href="index.html"> > General</a>
-    <a href="page_visualization.html">> Visualisation</a>
-    <!-- <a href="#general">> User</a> -->
+    <a href="#general"> > General</a>
+    <a href="#vis">> Visualisation</a>
+    <a href="#general">> User</a>
 
     <div class="header-right">
       <h4 style="padding-top:10px ;">last updated: 05/07/2022</h4>
@@ -52,9 +52,14 @@
         <div class="item3"><h3><span id="userPerMonth"></span></h3><p>per month</p></div>  
       </div>
 
+      <section >
+
       <div id="chart2" style="width:95%; height:130px; padding: 10px;">
         <script type="text/javascript" src="assets/db_userSessions.js"></script>
         </div>
+
+        </section>
+        
 
     </div>
     <div class="item3">
@@ -70,6 +75,10 @@
       <script type="text/javascript" src="assets/db_sessionTime.js"></script>
       </div>
 
+      <div id="demo"></div>
+      <script type="text/javascript" src="assets/00_db_sessionTime.js"></script>
+
+  
     </div>  
     <div class="item4">
       <h1>User Return Rate</h1>

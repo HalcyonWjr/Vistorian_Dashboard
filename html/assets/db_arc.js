@@ -3,10 +3,11 @@ const chart9 = {
       "width": 100,
       "height": 50,
       "data": {
-        "values": [
-          {"category": "returning user", "value": 318},
-          {"category": "non returning", "value": 400}
-        ]
+        "url": "https://gist.githubusercontent.com/HalcyonWjr/6c0d47a52e10cf2903c7324dc0814bef/raw/4b09cee787e53fc610a8fa06950af9b9949fc6a8/db_data_real.json",
+        "format":{
+          "type": "json",
+          "property": "returningUsers"
+        }
       },
       "mark": {"type": "arc", "outerRadius": 40, "tooltip":true},
       "encoding": {
