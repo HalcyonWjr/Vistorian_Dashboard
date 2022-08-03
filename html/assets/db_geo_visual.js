@@ -1,4 +1,4 @@
-const nl_visual = {
+const geo_visual = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Visual Representation",
     "width": "container",
@@ -8,7 +8,7 @@ const nl_visual = {
     "url": "https://gist.githubusercontent.com/HalcyonWjr/acf7420c671a478f65dbf6f88f6045e5/raw/3467fe24509450f745013d02ab6f35bc348af65b/data_visualization.json",
     "format":{
       "type": "json",
-      "property": "nodelink.Fomatting"
+      "property": "geolocation.Fomatting"
     }
   },
   
@@ -40,4 +40,4 @@ const nl_visual = {
     }
   };
   
-  vegaEmbed("#nl_visual", nl_visual, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);
+  vegaEmbed("#geo_visual", geo_visual, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);

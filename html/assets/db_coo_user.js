@@ -1,4 +1,4 @@
-const nl_user = {
+const coo_user = {
 "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "bar miniture chart of user number per visualization",
   "width": "container",
@@ -8,7 +8,7 @@ const nl_user = {
     "url": "https://gist.githubusercontent.com/HalcyonWjr/acf7420c671a478f65dbf6f88f6045e5/raw/3467fe24509450f745013d02ab6f35bc348af65b/data_visualization.json",
     "format":{
       "type": "json",
-      "property": "nodelink.userNumber"
+      "property": "coordinated.userNumber"
     }
   },
   "mark":{
@@ -30,6 +30,6 @@ const nl_user = {
     "view": {"stroke": "transparent"}
   }
     };
-        vegaEmbed("#nl_user", nl_user, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);
+        vegaEmbed("#coo_user", coo_user, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);
 
 

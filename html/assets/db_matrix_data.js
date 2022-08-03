@@ -1,4 +1,4 @@
-const nl_data = {
+const matrix_data = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Data filtering",
   "width": "container",
@@ -8,7 +8,7 @@ const nl_data = {
     "url": "https://gist.githubusercontent.com/HalcyonWjr/acf7420c671a478f65dbf6f88f6045e5/raw/3467fe24509450f745013d02ab6f35bc348af65b/data_visualization.json",
     "format":{
       "type": "json",
-      "property": "nodelink.dataFiltering"
+      "property": "matrix.dataFiltering"
     }
   },
 
@@ -51,7 +51,7 @@ const nl_data = {
   }
 };
 
-vegaEmbed("#nl_data", nl_data, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);
+vegaEmbed("#matrix_data", matrix_data, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);
     
     
     

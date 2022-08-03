@@ -1,4 +1,4 @@
-const nl_time = {
+const timeline_time = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "average session time per visualization",
   "width": "container",
@@ -8,7 +8,7 @@ const nl_time = {
   "url": "https://gist.githubusercontent.com/HalcyonWjr/acf7420c671a478f65dbf6f88f6045e5/raw/3467fe24509450f745013d02ab6f35bc348af65b/data_visualization.json",
   "format":{
     "type": "json",
-    "property": "nodelink.averageSessionTime"
+    "property": "timeline.averageSessionTime"
   }
 },
 
@@ -48,4 +48,4 @@ const nl_time = {
   }
 };
   
-  vegaEmbed("#nl_time", nl_time, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);
+  vegaEmbed("#timeline_time", timeline_time, {mode: "vega-lite", "actions":false}).then(console.log).catch(console.warn);

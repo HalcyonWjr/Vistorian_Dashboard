@@ -1,4 +1,4 @@
-const data_Url = 'https://gist.githubusercontent.com/HalcyonWjr/6c0d47a52e10cf2903c7324dc0814bef/raw/919b61f9fc89e8a74ab4edb02d3744eb0764b700/db_data_real.json'
+const data_Url = 'https://gist.githubusercontent.com/HalcyonWjr/6c0d47a52e10cf2903c7324dc0814bef/raw/919b61f9fc89e8a74ab4edb02d3744eb0764b700/db_data_real.json'; 
 
 async function getData() {
    const response = await fetch(data_Url);
@@ -34,30 +34,29 @@ async function getData() {
 getData();
 
 
-const visData_Url = 'https://gist.githubusercontent.com/HalcyonWjr/acf7420c671a478f65dbf6f88f6045e5/raw/3ec48e6c356e3a53988ea235eea38af1b277505f/vis_nl.json'
+// const visData_Url = 'https://gist.githubusercontent.com/HalcyonWjr/acf7420c671a478f65dbf6f88f6045e5/raw/3467fe24509450f745013d02ab6f35bc348af65b/data_visualization.json';
 
+// async function getVisData() {
+//    const response = await fetch(visData_Url);
+//    const visData = await response.json();
 
-async function getVisData() {
-   const response = await fetch(visData_Url);
-   const visData = await response.json();
+//    // chart_userNum
+//    var i, nlUserNum = 0;
+//    for (i = 0; i < 12; i++) {
+//       nlUserNum += visData.nodelink.userNumber[i].userNum;
+//   }
+//    document.getElementById('userNum').textContent = nlUserNum;
 
-   // chart_userNum
-   var i, nlUserNum = 0;
-   for (i = 0; i < 12; i++) {
-      nlUserNum += visData.userNumber[i].userNum;
-  }
-   document.getElementById('userNum').textContent = nlUserNum;
+//    // //chart_aveTime
+//    var j, nlTime = 0;
+//    for (j = 0; j < 12; j++) {
+//       nlTime += visData.nodelink.averageSessionTime[j].sessionTime;
+//   }
+//    var nlAveTime = nlTime / 12
+//    var nlAveTime = nlAveTime.toFixed(2); 
+//    // console.log(nlTime, nlAveTime); 
+//    document.getElementById('nlTimeSum').textContent = nlAveTime;
 
-   // //chart_aveTime
-   var j, nlTime = 0;
-   for (j = 0; j < 12; j++) {
-      nlTime += visData.averageSessionTime[j].sessionTime;
-  }
-   var nlAveTime = nlTime / 12
-   var nlAveTime = nlAveTime.toFixed(2); 
-   // console.log(nlTime, nlAveTime); 
-   document.getElementById('nlTimeSum').textContent = nlAveTime;
+// }
 
-}
-
-getVisData();
+// getVisData();
