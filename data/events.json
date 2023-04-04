@@ -1,0 +1,86 @@
+[
+    {
+      "category": "workshop",
+      "start": "2021-06-03",
+      "index": 0,
+      "numOfAttendees": 50,
+      "title": "Visualizing and Exploring Networks with the Vistorian"
+    },
+    {
+      "category": "workshop",
+      "start": "2021-07-28",
+      "index": 1,
+      "numOfAttendees": 55,
+      "title": "Visualizing and Exploring Networks with the Vistorian (Demo)"
+    },
+    {
+      "category": "course info session",
+      "start": "2021-12-10",
+      "index": 2,
+      "numOfAttendees": 11,
+      "title": "Info session 6-weeks course on interactive visual network exploration"
+    },
+    {
+      "category": "course info session",
+      "start": "2021-12-16",
+      "index": 3,
+      "numOfAttendees": 9,
+      "title": "Info session 6-weeks course on interactive visual network exploration"
+    },
+    {
+      "category": "course session",
+      "start": "2022-01-12",
+      "index": 4,
+      "numOfAttendees": 24,
+      "title": "Week 1: Network Data Preparation"
+    },
+    {
+      "category": "course session",
+      "start": "2022-01-19",
+      "index": 5,
+      "numOfAttendees": 24,
+      "title": "Week 2: Extra Session on Network Data Preparation"
+    },
+    {
+      "category": "course session",
+      "start": "2022-01-26",
+      "index": 6,
+      "numOfAttendees": 24,
+      "title": "Week 3: Data Shaping Techniques and Challenges"
+    },
+    {
+      "category": "course session",
+      "start": "2022-02-02",
+      "index": 7,
+      "numOfAttendees": 24,
+      "title": "Week 4: Exploring Networks with Node-link Diagrams"
+    },
+    {
+      "category": "course session",
+      "start": "2022-02-09",
+      "index": 8,
+      "numOfAttendees": 24,
+      "title": "Week 5: Exploring Networks with Adjacency Matrix"
+    },
+    {
+      "category": "course session",
+      "start": "2022-02-16",
+      "index": 9,
+      "numOfAttendees": 24,
+      "title": "Week 6: Exploring Networks with Timeline, Map, and Multi-views"
+    },
+    {
+      "category": "workshop",
+      "start": "2022-06-17",
+      "index": 10,
+      "numOfAttendees": 6,
+      "title": "Visualizing and Exploring Networks with The Vistorian"
+    },
+    {
+      "category": "workshop",
+      "start": "2022-06-23",
+      "index": 11,
+      "numOfAttendees": 15,
+      "title": "Visualizing and Exploring Networks with The Vistorian (Demo)"
+    }
+  ]

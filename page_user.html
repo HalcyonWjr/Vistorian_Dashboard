@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>User Timeline Test</title>
+  
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" href="img/favicon.png" type="image/png">
+  <script src="https://unpkg.com/d3@6.7.0/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-color@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-interpolate@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3"></script>
+  <script src="https://unpkg.com/textures@1.2.0/dist/textures.js"></script>
+
+  <script src="label.js"></script>
+
+</head>
+
+<style>
+  .svg {background-color: white;}
+
+  .axis path 
+  .axis line { shape-rendering: crispEdges; }
+  .axis text { font-weight: bold; font-size: 12px; }
+
+  .eventName {font-size: 12px; font-weight: 300;}
+  .sessionName {font-size: 18px;}
+
+  #tooltip {
+    position: absolute; width: 200px; height: auto; padding: 10px; background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px; border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); 
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4); 
+    pointer-events: none;
+}
+
+  #tooltip.hidden { display: none; }
+
+  #tooltip p {
+    margin: 0; 
+    font-family: sans-serif; 
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  #timeline {
+    overflow-y: scroll;
+    
+  }
+
+  .label rect,
+  .label circle{
+    opacity: 0 !important;
+  }
+  .label text{
+      text-anchor: inherit;
+      font-size: 12px;
+  }
+  .tick line{
+      opacity: 1;
+      stroke: #ececec;
+  }
+  .tick text{
+      stroke: none;
+      fill: #6f6f6f;
+      font-size: 12px;
+  }
+
+</style>
+
+<body>
+
+<!--Header_Section-->
+<header>
+  <div class="header">
+    <img src="img/logo.png" />
+    <a href="./index.html"> > General</a>
+    <a href="./page_vis.html">> Visualisation</a>
+    <a href="./page_user.html">> User</a>
+
+    <div class="header-right">
+      <h4 style="padding-top:10px ;">last updated: 18/08/2022</h4>
+      <!-- <a class="active" href="#upload">Upload</a> -->
+    </div>
+  </div>
+</header>
+<!--Header_Section-->
+
+<section id="dashboard" class="main">
+  <div class="grid-container-user">
+    <div class="item_legend">
+      <h1>Session Timeline</h1>
+    </div>
+
+    <div class="item_timeline" style="width:100%; height:1000px; padding: 5px;">
+
+    </div>
+  </div>
+
+</section>
+
+
+<script>
+// var dataPath = "https://gist.githubusercontent.com/HalcyonWjr/8e8e869ba1f4d563d39bd97a86b5e8b1/raw/dc42c4b75f19b344b64a9d83b66ba95cd597997c/0813_test_multi.csv"; 
+
+const dataPath = "./data/0813_test_multi.csv";
+  
+var rowConverter = function(d) {
+  return {
+    usrID: d.usrID,
+    session: parseFloat(d.session),
+    event: d.event,
+    category: d.category,
+    index: parseFloat(d.index),
+    view:d.view,
+    start: parseFloat(d.start),
+    end: parseFloat(d.end)
+  }; 
+}; 
+
+//label vars and transitions
+let labels, links, labelArray = [], anchorArray = []; 
+
+// function redrawLabels(){
+//         eventLable
+//           .transition()
+//           .duration(1500)
+//           .attr("x",(d) => d.x)
+//           .attr("y",(d) => d.y);
+
+//         links
+//         .transition()
+//         .duration(1500)
+//         .attr("x2",(d) => d.x)
+//         .attr("y2",(d) => d.y);
+//       }
+
+
+d3.csv(dataPath, rowConverter)
+    .then(function(myData){
+        console.log(myData);
+
+    // calculate session length
+    var SessionID = "1"; 
+    var loopIndex = 0; 
+    var endArr = new Array();
+
+    while(loopIndex < myData.length){
+      if((myData[loopIndex]).session != SessionID){
+        SessionID = myData[loopIndex].session;
+        endArr.push({user:myData[loopIndex-1].usrID, session: myData[loopIndex-1].session, 
+          duration:myData[loopIndex-1].end});
+      }
+      loopIndex++; 
+    }
+
+    endArr.push({user:myData[loopIndex-1].usrID, session: myData[loopIndex-1].session, 
+          duration:myData[loopIndex-1].end});
+    console.log(endArr); 
+
+    // visualization view array
+    var i= 0,
+        start = 0,
+        viewArr = new Array(),
+        viewName = "",
+        tmp;
+    
+    myData[myData.length] = {view: ""};
+
+    var lastViewName = myData[0].view; 
+    var currentViewName;
+
+    for(i = 1; i < myData.length; i++){
+        if( myData[i].view != lastViewName){
+            if(lastViewName == ""){
+            // new variable 
+                tmp = {
+                    session: myData[i].session, 
+                    view: myData[i].view, 
+                    start: myData[i].start, 
+                    end:0
+                }; 
+            }
+            else if(lastViewName == tmp.view){
+                tmp.end = myData[i-1].end; 
+                viewArr.push(tmp);
+            }
+        }
+
+        lastViewName = myData[i].view; 
+    }
+    console.log(viewArr);
+
+    myData.pop();
+
+    // color selection API
+    function SelectionModel(values) {
+      const dispatch = d3.dispatch('change');
+      const state = new Set(values);
+      
+      const api = {
+        on:     (type, fn) => (dispatch.on(type, fn), api),
+        clear:  () => (clear(), api),
+        has:    value => !state.size || state.has(value),
+        set:    value => (update(value, true), api),
+        toggle: value => (update(value, !state.has(value)), api)
+      };
+      
+      function clear() {
+        if (state.size) {
+          state.clear();
+          dispatch.call('change', api, api);
+        }
+      }
+      
+      function update(value, add) {
+        if (add && !state.has(value)) {
+          state.add(value);
+          dispatch.call('change', api, api);
+        } else if (!add && state.has(value)) {
+          state.delete(value);
+          dispatch.call('change', api, api);
+        }
+      }
+
+      return api;
+    }
+
+    const selmodel = SelectionModel();
+
+    // Main view svg variables
+
+
+    var w = 1200,
+        h = 6000,
+        yOffset = 50,
+        padding = 10; 
+
+    var xScaleDomain = new Array();
+    for(let i = 1; i <= d3.max(myData, d => d.session); i++) {
+      xScaleDomain.push(i)
+    };
+    console.log(xScaleDomain);
+
+    var xScale = d3.scaleBand()
+                   .domain(xScaleDomain)
+                   .range([0, w - 50])
+                   .paddingInner(0.82)
+                   .paddingOuter(0.45)
+                   .align(0.5); 
+
+    var yScale = d3.scaleLinear()
+                   .domain([0, d3.max(myData, function (d) {
+                     return d.end;
+                   })])
+                   .range([0, h - 70]); 
+
+    var bgYScale = d3.scaleLinear()
+                   .domain([0, d3.max(endArr, function (d) {
+                     return d.duration;
+                   })])
+                   .range([0, h - 70]); 
+    
+    var viewYScale = d3.scaleLinear()
+                     .domain([0, d3.max(viewArr, function (d) {
+                        return d.end;
+                    })])
+                     .range([0, h - 70]); 
+
+    var xAxis = d3.axisTop()
+                  .scale(xScale)
+                  .ticks(xScaleDomain.length);
+    
+    var yAxis = d3.axisLeft()
+                  .scale(yScale)
+                  .ticks(10); 
+
+    var viewYAxis = d3.axisLeft()
+                      .scale(viewYScale);
+
+    
+
+    // Append the svg element                  
+    var svg = d3.select(".item_timeline")
+      .append("svg")
+      .attr("class", "svg")
+      .attr("width", w)
+      .attr("height", h)
+      .attr("id", "timeline")
+      .attr("padding", 30);
+
+    // Background layer: the grey bar of total session length
+    svg.selectAll(".bgRect")
+      .data(endArr)
+      .enter()
+      .append("rect")
+        .attr("width", xScale.bandwidth())
+        .attr("height", d => (bgYScale(d.duration)))
+        .attr("x", d => (xScale(d.session)))
+        .attr("y", 50)
+        .attr("fill", "#F6F6F6");
+
+    svg.selectAll(".sessionNo")
+      .data(endArr)
+      .enter()
+      .append("text")
+        .attr("x", d => (xScale(d.session)))
+        .attr("y", 30)
+        .text(d => "user" + d.user);
+
+    
+    // Visualization views: add texture scale
+    var t1 = textures.circles().thicker();
+    var t2 = textures.paths().d("waves").size(12).thicker();
+    // var t1 = textures.lines().size(4).strokeWidth(1);
+    // var t2 = textures.lines().orientation("3/8", "7/8").strokeWidth(1).stroke("grey").thicker();
+    // var t3 = textures.paths().d('woven').lighter().thicker();
+    var t3 = textures.paths().d("squares").lighter(); 
+    var t4 = textures.paths().d("crosses").thicker();
+    
+    var texture = [t1, t2, t3, t4];
+    
+    texture.forEach((t) => {svg.call(t);});
+
+    var viewDomain = ["node-link", "timeline", "matrix", "map"];
+
+    textureScale = d3.scaleOrdinal()
+                     .domain(viewDomain)
+                     .range(texture);
+
+    // Visualization view: append the bars next to session lane
+    svg.selectAll(".networkView")
+      .data(viewArr)
+      .enter()
+      .append("rect")
+        .attr("width", xScale.bandwidth() / 2)
+        .attr("height", d => (yScale(d.end) - yScale(d.start)))
+        .attr("x", d => (xScale(d.session)) - xScale.bandwidth() / 2 - 5)
+        .attr("y", d => (yScale(d.start) + 50))
+        .style("fill", function(d){
+            return textureScale(d.view).url();
+          }) 
+
+   // Create swimlanes
+  //  svg.selectAll("line.swimlanes")
+  //     .data(endArr)
+  //     .enter()
+  //     .append("line")
+  //       .attr("x1", d => (xScale(d.session)) + 110)
+  //       .attr("x2", d => (xScale(d.session)) + 110)
+  //       .attr("y1", 50)
+  //       .attr("y2", h - 20)
+  //       .style("stroke", "grey")
+  //       .style("stroke-dasharray", "5,5")
+  //       .style("stroke-width", "1px");
+        
+    // Adding Y axis
+    svg.append("g")
+       .attr("class", "axis")
+       .attr("transform", "translate(40,50)")
+       .call(yAxis);
+
+    // Create color lengend
+    const eventType = [
+      { index: 0, label: "data"},
+      { index: 1, label: "visualization"},
+      { index: 2, label: "logging"},
+      { index: 3, label: "help"},
+      { index: 4, label: "communication"},
+      { index: 5, label: "error"},
+      { index: 6, label: "bookmarking"}
+    ]; 
+
+    // Color coding for Event Bars
+    var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+
+    // var colorScale = d3.scaleOrdinal()
+    //                    .domain([0,1,2,3,4,5,6])
+    //                    .domain(myData.map(d => d.index))
+    //                    .range(["#4E79A7", "#F28E2B", "#E15759", "#76B7B2", "FF9DA7", "EDC948", "BAB0AC"]); 
+
+    console.log(myData.map(d => d.index))
+
+    const titlePadding = 20;
+    const entrySpacing = 28;
+    const entryRadius = 10;
+    const labelOffset = 4;
+    const baselineOffset = 4;
+  
+    function colorLegend(container, selmodel) {
+  
+      const title = container.append('text')
+        .attr('x', 0)
+        .attr('y', 0)
+        .attr('fill', 'black')
+        .attr('font-weight', 'medium')
+        .attr('font-size', '16px')
+        .text('Event category');
+    
+    // The "on" method registers event listeners
+      const entries = container.selectAll('g')
+        .data(eventType)
+        .join('g')
+          .attr('transform', d => `translate(0, ${titlePadding + d.index * entrySpacing})`)
+          .on('click', (e, d) => selmodel.toggle(d.index)) // <-- respond to clicks, register what to detect
+          .on('dblclick', () => selmodel.clear());         // <-- respond to double clicks
+      
+      const symbols = entries.append('circle')
+        .attr('cx', entryRadius)
+        .attr('r', entryRadius)
+        .attr('fill', d => color(d.index));
+      
+      const labels = entries.append('text')
+        .attr('x', 2 * entryRadius + labelOffset)
+        .attr('y', baselineOffset)
+        .attr('fill', 'black')
+        .attr('font-size', '15px')
+        .style('user-select', 'none')
+        .text(d => d.label);
+
+      // Listen to selection model, update symbol and labels upon changes
+      selmodel.on('change.legend', () => {
+        symbols.attr('fill', d => selmodel.has(d.index) ? color(d.index) : '#ccc');
+        labels.attr('fill', d => selmodel.has(d.index) ? 'black' : '#bbb');
+      });
+  }
+
+  var svgLegend = d3.select(".item_legend")
+      .append("svg")
+      .attr("width", 150)
+      .attr("height", 230);
+
+  var legend = svgLegend.append('g')
+      .attr('transform', 'translate(20, 30)')
+      .call(container => colorLegend(container, selmodel));
+  
+  function eventBars(container, selmodel) {
+      var events = container
+        .selectAll(".eventRect")
+        .data(myData)
+        .enter()
+        .append("rect")
+          .attr("width", xScale.bandwidth())
+          .attr("width", d => {
+            labelArray.push({x: xScale(d.session) + xScale.bandwidth()* 1.1, y: (yScale(d.start) + yScale(d.end)) / 2 + 50, name: d.event, width: 0.0, height: 0.0, index: d.index});
+            anchorArray.push({x: xScale(d.session) + xScale.bandwidth()* 1.1, y: (yScale(d.start) + yScale(d.end)) / 2 + 50, r: yScale(d.end) - yScale(d.start)});
+            return xScale.bandwidth()
+          })
+          .attr("height", d => (yScale(d.end) - yScale(d.start)))
+          .attr("x", d => (xScale(d.session)))
+          .attr("y", d => (yScale(d.start)) + 50)
+          .attr("fill", d => (color(d.index)));
+
+      // var eventLable = container
+      //     .selectAll(".eventName")
+      //     .data(myData)
+      //     .enter()
+      //     .append("text")
+      //       // .attr("class", "eventName")
+      //       .attr("x", d => (xScale(d.session) + xScale.bandwidth()* 1.1))
+      //       .attr("y", d => ((yScale(d.start) + yScale(d.end)) / 2 + 50))
+      //       .text(d => d.event)
+      //       .attr('text-anchor','start');
+
+      labels = svg
+          .selectAll('.label')
+          .data(labelArray)
+          .enter()
+          .append('text')
+          .text((d) => d.name)
+          .attr('font-family','sans-serif')
+          .attr('x',(d,i) => {
+            return d.x;
+          })
+          .attr('y',(d,i) => {
+            return d.y;
+          })
+          .attr('text-anchor','start')
+          .attr('font-size',10)
+          .attr("fill", "black");
+      
+
+      function redrawLabels(){
+        labels
+          .transition()
+          .duration(1500)
+          .attr("x",(d) => d.x)
+          .attr("y",(d) => d.y)
+          .attr("fill", "black");
+
+        links
+        .transition()
+        .duration(1500)
+        .attr("x2",(d) => d.x)
+        .attr("y2",(d) => d.y);
+      }
+
+      //Add height and width of label to array
+          var i = 0;
+          labels.each(function() {
+              labelArray[i].width = this.getBBox().width;
+              labelArray[i].height = this.getBBox().height;
+              i += 1;
+          });
+
+          console.log(labelArray, anchorArray); 
+
+          //Add links connecting label and circle
+          links = svg.selectAll(".link")
+          .data(labelArray)
+          .enter()
+          .append("line")
+          .attr("class", "link")
+          .attr("x1", (d) => d.x)
+          .attr("y1", (d) => d.y)
+          .attr("x2", (d) => d.x)
+          .attr("y2", (d) => d.y)
+          .attr("stroke-width", 0.2)
+          .attr("stroke", "#6f6f6f");
+      
+          //Remove overlaps
+        d3.labeler()
+          .label(labelArray)
+          .anchor(anchorArray)
+          .width(w)
+          .height(h)
+          .start(1000);
+      
+        redrawLabels();
+
+      // Add a selection model listener that updates country colors
+      selmodel.on('change.chart', () => {
+            events.attr('fill', d => selmodel.has(d.index) ? color(d.index) : '#ccc');
+            labels.attr('fill', d => selmodel.has(d.index) ? 'black' : '#bbb');
+            });
+      }
+
+      var timeline = svg.append('g')
+      // .attr('transform', 'translate(20, 30)')
+      .call(container => eventBars(container, selmodel)); 
+
+      // add visualization legend
+      var view = d3.select(".item_legend")
+                    .append("svg")
+                    .attr("width", 150)
+                    .attr("height", 200);
+
+      var legend2 = view.append('g')
+      .attr('transform', 'translate(20, 30)');
+
+      const viewTitle = legend2.append('text')
+          .attr('x', 0)
+          .attr('y', 0)
+          .attr('fill', 'black')
+          .attr('font-weight', 'medium')
+          .attr('font-size', '16px')
+          .text('Visualization view');
+
+      const addLegend = legend2.selectAll('g')
+          .data(viewDomain)
+          .join('g')
+            .attr('transform', (d,i) => `translate(0, ${titlePadding + i * entrySpacing})`);
+
+      const addTexture = addLegend.append('circle')
+          .attr('cx', entryRadius) // <-- offset symbol x-position by radius
+          .attr('r', entryRadius)
+          .style("fill", function(d, i){
+            return textureScale(d).url();
+          });
+
+      const addLabels = addLegend.append('text')
+          .attr('x', 2 * entryRadius + labelOffset) // <-- place labels to the left of symbols
+          .attr('y', baselineOffset) // <-- adjust label y-position for proper alignment
+          .attr('fill', 'black')
+          .attr('font-size', '15px')
+          .text(d => d);
+
+    })
+
+</script>
+
+
+</body>
+</html>
+
+
+

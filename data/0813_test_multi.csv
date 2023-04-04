@@ -1,0 +1,357 @@
+usrID,session,event,category,index,view,start,end
+187,1,landing first time in any Vistorian page,logging,2,,0,0
+187,1,Support Form Completion,logging,2,,0,0
+187,1,landing first time in any Vistorian page,logging,2,,18.68,19.68
+187,1,Data Formatting,help,3,,31.57,32.57
+187,1,landing first time in any Vistorian page,logging,2,,40.28,41.28
+187,1,Contact,communication,4,,48.88,49.88
+187,1,Support Form Completion,logging,2,,104.91,105.91
+187,1,Support Form Completion,logging,2,,198.24,199.24
+187,1,Support Form Completion,logging,2,,306.56,307.56
+187,2,landing first time in any Vistorian page,logging,2,,0,1
+187,2,Demo,help,3,,1.92,2.92
+187,2,landing first time in any Vistorian page,logging,2,,3.16,4.16
+187,2,Support Form Completion,logging,2,,4.8,5.8
+187,2,Column's Data Type Specified ,data,0,,9.81,16.8
+187,2,Visualization Link,visualization,1,matrix,22.46,23.46
+187,2,landing first time in any Vistorian page,logging,2,,22.89,23.89
+187,2,Error Type,error,5,,22.89,23.89
+187,2,Visiting any Visitorian Page,logging,2,,24.3,25.3
+187,2,landing first time in any Vistorian page,logging,2,,37.71,38.71
+187,2,Zoom Slider,visualization,1,matrix,37.71,44.48
+187,2,Re-Run button,visualization,1,matrix,45.11,46.07
+187,2,Label Ordering,visualization,1,matrix,47.19,49
+187,2,Re-Run button,visualization,1,matrix,50.49,51.49
+187,2,Label Ordering,visualization,1,matrix,51.82,53.75
+187,2,Support Form Completion,logging,2,,57.63,58.63
+187,2,Return to Data View,logging,2,,57.78,58.78
+187,2,landing first time in any Vistorian page,logging,2,,58.64,59.64
+187,2,Visualization Link,visualization,1,map,60.44,61.44
+187,2,landing first time in any Vistorian page,logging,2,,61.42,62.42
+187,2,Support Form Completion,logging,2,,76.77,77.77
+187,2,Return to Data View,logging,2,,76.88,77.88
+187,2,landing first time in any Vistorian page,logging,2,,77.75,78.75
+187,2,Bookmark_Consent_Display,logging,2,,78.16,79.16
+187,2,Accept Consent,logging,2,,88.53,89.53
+187,2,landing first time in any Vistorian page,logging,2,,95,96
+187,2,Support Form Completion,logging,2,,95,96
+187,2,Bookmarks file imported,bookmarking,6,,97.2,98.2
+187,2,Support Form Completion,logging,2,,98.84,99.82
+187,2,bookmarks view option selected,bookmarking,6,,99.82,100.82
+187,2,Consult Team,communication,4,,103,104
+187,2,Support Form Completion,logging,2,,112.66,113.66
+187,2,Report TechBug,communication,4,,113.37,114.37
+187,2,Support Form Completion,logging,2,,116.29,117.29
+187,2,Session ID,logging,2,,118.53,119.53
+187,2,Support Form Completion,logging,2,,127.67,141.99
+187,2,Support Form Completion,logging,2,,202.65,203.77
+187,2,bookmarks view option selected,bookmarking,6,,203.77,204.77
+187,2,Bookmarks file imported,bookmarking,6,,207.53,208.53
+187,2,Support Form Completion,logging,2,,209.32,210.32
+187,2,Bookmarks file imported,bookmarking,6,,211.22,212.22
+187,2,Support Form Completion,logging,2,,211.22,212.22
+187,2,Accept Consent,logging,2,,211.22,212.22
+187,2,landing first time in any Vistorian page,logging,2,,215.5,216.5
+187,2,Bookmarks file exported,bookmarking,6,,215.5,216.5
+187,2,Support Form Completion,logging,2,,215.5,217.97
+187,2,Accept Consent,logging,2,,226.12,227.12
+187,2,Session ID,logging,2,,228.53,229.53
+187,2,Bookmarks file exported,bookmarking,6,,230.57,231.57
+187,2,Support Form Completion,logging,2,,230.58,231.58
+187,2,Accept Consent,logging,2,,230.58,231.58
+187,2,Consult Team,communication,4,,232.44,233.44
+187,2,Support Form Completion,logging,2,,234.85,235.85
+187,2,Accept Consent,logging,2,,234.86,235.86
+187,2,Support Form Completion,logging,2,,236.51,237.51
+187,2,Accept Consent,logging,2,,236.51,237.51
+187,2,Support Form Completion,logging,2,,241.08,242.08
+187,2,Accept Consent,logging,2,,241.08,242.08
+187,2,Close Webpage/End of Activity,logging,2,,243.23,244.23
+187,2,Support Form Completion,logging,2,,291.15,292.15
+187,2,Accept Consent,logging,2,,291.15,292.15
+187,2,Support Form Completion,logging,2,,297.99,298.99
+187,2,Accept Consent,logging,2,,297.99,298.99
+187,2,Visualization Link,visualization,1,coordinated,300.6,301.6
+187,2,landing first time in any Vistorian page,logging,2,,302.12,303.12
+187,2,Visiting any Visitorian Page,logging,2,node-link,302.12,303.12
+187,2,landing first time in any Vistorian page,logging,2,,302.12,303.12
+187,2,Link&Node mouseover,visualization,1,node-link,308.35,329.59
+187,2,Link Opacity,visualization,1,node-link,338.08,339.08
+187,2,Labeling Type,visualization,1,node-link,351.88,353.61
+187,2,Link,visualization,1,node-link,353.95,355.8
+187,2,Labeling Type,visualization,1,node-link,357.61,358.61
+187,2,Link,visualization,1,node-link,358,358.75
+187,2,Labeling Type,visualization,1,node-link,360.01,361.01
+187,2,Network Manual,help,3,node-link,361.53,362.53
+187,2,Support Form Completion,logging,2,,400.53,401.53
+187,2,Feedback Completion,logging,2,,413.66,414.66
+2461,3,Visiting any Visitorian Page,logging,2,,0,1
+2461,3,New Network,data,0,,7.84,8.84
+2461,3,Visiting any Visitorian Page,logging,2,,142.62,143.62
+2461,3,Visiting any Visitorian Page,logging,2,,155.1,156.1
+2461,3,Visiting any Visitorian Page,logging,2,,373.95,377.5
+2461,3,New Network,data,0,,379.55,380.55
+2461,3,Upload new Link table,data,0,,394.87,395.87
+2461,3,Directed ,data,0,,404.91,405.91
+2461,3,upload data,data,0,,411.89,416.7
+2461,3,Column's Data Type Specified ,data,0,,431.55,432.55
+2461,3,Visualization Link,visualization,1,map,466.9,467.9
+2461,3,dat_19,data,0,node-link,466.91,467.91
+2461,3,Visiting any Visitorian Page,logging,2,,467.64,468.64
+2461,3,Visiting any Visitorian Page,logging,2,,473.49,474.49
+2461,3,New Network,data,0,,480.56,481.56
+2461,3,Upload new Link table,data,0,,490.83,491.83
+2461,3,Directed ,data,0,,494.38,495.38
+2461,3,upload data,data,0,,499.73,500.73
+2461,3,Column's Data Type Specified ,data,0,,504.42,505.42
+2461,3,upload data,data,0,,514.28,515.28
+2461,3,Visualization Link,visualization,1,node-link,524.96,525.96
+2461,3,dat_19,data,0,node-link,524.96,525.96
+2461,3,Visiting any Visitorian Page,logging,2,,525.92,526.92
+2461,3,Visiting any Visitorian Page,logging,2,node-link,526.68,527.68
+2461,3,Link,visualization,1,node-link,544.42,545.42
+2461,3,Zoom,visualization,1,node-link,546.18,547.03
+2461,3,Node,visualization,1,node-link,556.32,557.32
+2461,3,Link,visualization,1,node-link,556.37,561
+2461,3,Node,visualization,1,node-link,561.56,561.77
+2461,3,Zoom,visualization,1,node-link,571.9,575.15
+2461,3,Node,visualization,1,node-link,577.75,578.63
+2461,3,Link,visualization,1,node-link,579.3,581.43
+2461,3,Node,visualization,1,node-link,584.76,585.76
+2461,3,Link,visualization,1,node-link,585.38,585.87
+2461,3,Node,visualization,1,node-link,586.01,587.01
+2461,3,Link,visualization,1,node-link,586.52,587.52
+2461,3,Node,visualization,1,node-link,586.93,588.11
+2461,3,Link,visualization,1,node-link,589,589.84
+2461,3,Node,visualization,1,node-link,590.17,591.17
+2461,3,Link,visualization,1,node-link,591.7,592.7
+2461,3,Node,visualization,1,node-link,594.4,595.4
+2461,3,Link,visualization,1,node-link,608.07,608.44
+2461,3,Node,visualization,1,node-link,609.09,610.09
+2461,3,Link,visualization,1,node-link,610.15,611.15
+2461,3,Node,visualization,1,node-link,610.23,610.75
+2461,3,Link,visualization,1,node-link,612.01,613.57
+2461,3,Node,visualization,1,node-link,614.49,615.49
+2461,3,Link,visualization,1,node-link,616.47,617.47
+2461,3,Zoom,visualization,1,node-link,660.8,669.81
+2461,3,Link,visualization,1,node-link,671.85,672.85
+2461,3,Node,visualization,1,node-link,671.9,672.9
+2461,3,Zoom,visualization,1,node-link,675.16,676.69
+2461,3,Node,visualization,1,node-link,677.79,678.79
+2461,3,Link,visualization,1,node-link,678.17,679.17
+2461,3,Node,visualization,1,node-link,701.2,702.2
+2461,3,Link,visualization,1,node-link,702.65,704.6
+2461,3,Node,visualization,1,node-link,705.05,706.05
+2461,3,Zoom,visualization,1,node-link,745.69,746.45
+2461,3,Link,visualization,1,node-link,755.94,756.94
+2461,3,Zoom,visualization,1,node-link,765.31,765.45
+2461,3,Link,visualization,1,node-link,766.51,766.88
+2461,3,Zoom,visualization,1,node-link,767.49,768.78
+2461,3,Link,visualization,1,node-link,775.27,777.7
+2461,3,Node,visualization,1,node-link,782.3,783.3
+2461,3,Labeling Type,visualization,1,node-link,789.76,796.08
+2461,3,Node,visualization,1,node-link,839.34,840.34
+2461,3,Link,visualization,1,node-link,841.35,842.35
+2461,3,Zoom,visualization,1,node-link,842.84,843.84
+2461,3,Link,visualization,1,node-link,843.35,844.35
+2461,3,Node,visualization,1,node-link,844.35,845.35
+2461,3,Zoom,visualization,1,node-link,851.58,852.74
+2461,3,Node,visualization,1,node-link,855.42,856.86
+2461,3,Link,visualization,1,node-link,858.79,899.5
+2461,3,Node,visualization,1,node-link,900.62,901.62
+2461,3,Link,visualization,1,node-link,901.87,902.87
+2461,3,Node,visualization,1,node-link,903.03,904.03
+2461,3,Link,visualization,1,node-link,905.62,906.62
+2461,3,Node,visualization,1,node-link,907.63,909.59
+2461,3,Link,visualization,1,node-link,942.79,943.79
+2461,3,Node,visualization,1,node-link,944.03,946.78
+2461,3,Zoom,visualization,1,node-link,952.5,953.5
+2461,3,Return to Data View,logging,2,node-link,960.96,961.96
+2461,3,Visiting any Visitorian Page,logging,2,,961.42,962.42
+2461,3,Visualization Link,visualization,1,coordinated,970.22,971.22
+2461,3,Visiting any Visitorian Page,logging,2,,972.43,973.43
+2461,3,Visiting any Visitorian Page,logging,2,node-link,974.2,975.2
+2461,3,Label Ordering,visualization,1,matrix,988.81,989.81
+2461,3,Re-Run button,visualization,1,matrix,991.58,995.55
+2461,3,Zoom Slider,visualization,1,matrix,997.47,998.9
+2461,3,Node,visualization,1,node-link,1001.66,1002.66
+2461,3,Link,visualization,1,node-link,1007.62,1008.62
+2461,3,Node,visualization,1,node-link,1007.74,1008.74
+2461,3,Link,visualization,1,node-link,1007.98,1008.98
+2461,3,Node,visualization,1,node-link,1008.22,1009.22
+2461,3,Link,visualization,1,node-link,1008.4,1009.4
+2461,3,Node,visualization,1,node-link,1008.65,1009.65
+2461,3,Label Ordering,visualization,1,matrix,1029.19,1030.19
+2461,3,Visualization Link,visualization,1,dynamicego,1443.8,1444.8
+2461,3,Visiting any Visitorian Page,logging,2,,1444.58,1445.58
+2461,3,Zoom,visualization,1,dynamicego,1447.67,1453.81
+2461,3,Return to Data View,logging,2,,1456.77,1457.77
+2461,3,Visiting any Visitorian Page,logging,2,,1456.88,1457.88
+2461,3,x (delete),data,0,,1461.67,1462.67
+2461,3,Visualization Link,visualization,1,node-link,1464.97,1465.97
+2461,3,Visiting any Visitorian Page,logging,2,,1465.35,1466.35
+2461,3,Visiting any Visitorian Page,logging,2,node-link,1465.63,1466.63
+2461,3,Node,visualization,1,node-link,1477.35,1478.35
+2461,3,Zoom,visualization,1,node-link,1479.46,1480.65
+2461,3,Labeling Type,visualization,1,node-link,1484.05,1485.05
+2461,3,Link,visualization,1,node-link,1496.1,1497.02
+2461,3,Node,visualization,1,node-link,1497.09,1498.09
+2699,4,Visiting any Visitorian Page,logging,2,,0,1
+2699,4,New Network,data,0,,13.916,14.916
+2699,4,Upload new Link table,data,0,,60.784,61.784
+2699,4,Directed ,data,0,,67.208,68.208
+2699,4,upload data,data,0,,82.852,180.062
+2699,4,Column's Data Type Specified ,data,0,,189.596,276.117
+2699,4,Directed ,data,0,,279.807,284.059
+2699,4,Visiting any Visitorian Page,logging,2,,302.756,303.756
+2699,4,New Network,data,0,,305.912,306.912
+2699,4,Upload new Link table,data,0,,318.44,319.44
+2699,4,Directed ,data,0,,325.641,326.641
+2699,4,upload data,data,0,,331.83,333.59
+2699,4,Column's Data Type Specified ,data,0,,336.969,350.243
+2699,4,upload data,data,0,,355.675,360.934
+2699,4,Column's Data Type Specified ,data,0,,371.292,372.292
+2699,4,Visualization Link,visualization,1,node-link,386.206,387.206
+2699,4,dat_19,data,0,,386.209,387.209
+2699,4,Visiting any Visitorian Page,logging,2,,386.986,387.986
+2699,4,Visiting any Visitorian Page,logging,2,,387.87,388.87
+2699,4,Link,visualization,1,node-link,397.528,398.794
+2699,4,Zoom,visualization,1,node-link,397.919,399.563
+2699,4,Link,visualization,1,node-link,399.551,401.375
+2699,4,Zoom,visualization,1,node-link,400.777,401.777
+2699,4,Link,visualization,1,node-link,438.121,439.121
+2699,4,Zoom,visualization,1,node-link,438.408,439.408
+2699,4,Link,visualization,1,node-link,438.154,439.772
+2699,4,Zoom,visualization,1,node-link,439.337,440.337
+2699,4,Link,visualization,1,node-link,439.754,446.412
+2699,4,Node,visualization,1,node-link,446.652,448.012
+2699,4,Link,visualization,1,node-link,447.348,448.348
+2699,4,Node,visualization,1,node-link,447.369,448.369
+2699,4,Link,visualization,1,node-link,447.39,448.39
+2699,4,Node,visualization,1,node-link,447.408,448.429
+2699,4,Link,visualization,1,node-link,447.449,448.449
+2699,4,Node,visualization,1,node-link,447.465,448.465
+2699,4,Link,visualization,1,node-link,447.484,448.484
+2699,4,Node,visualization,1,node-link,447.5,449.215
+2699,4,Link,visualization,1,node-link,448.334,450.069
+2699,4,Node,visualization,1,node-link,449.438,451.023
+2699,4,Link,visualization,1,node-link,450.348,451.377
+2699,4,Node,visualization,1,node-link,450.413,451.413
+2699,4,Link,visualization,1,node-link,450.428,452.801
+2699,4,Node,visualization,1,node-link,453.242,454.242
+2699,4,Link,visualization,1,node-link,453.298,454.554
+2699,4,Node,visualization,1,node-link,453.589,454.589
+2699,4,Link,visualization,1,node-link,454.525,456.244
+2699,4,Zoom,visualization,1,node-link,461.731,463.582
+2699,4,Link,visualization,1,node-link,462.821,463.921
+2699,4,Labeling Type,visualization,1,node-link,478.121,480.521
+2699,4,Zoom,visualization,1,node-link,481.83,484.654
+2699,4,Link,visualization,1,node-link,484.688,485.688
+2699,4,Zoom,visualization,1,node-link,484.775,486.176
+2699,4,Link,visualization,1,node-link,485.285,496.949
+2699,4,Zoom,visualization,1,node-link,497.054,498.054
+2699,4,Link,visualization,1,node-link,497.074,498.074
+2699,4,Zoom,visualization,1,node-link,497.304,498.304
+626,5,landing first time in any Vistorian page,logging,2,,0,1
+626,5,Accept Consent,logging,2,,4.388,5.391
+626,5,Page on Blur,logging,2,,80.446,114.524
+626,5,Data Formatting,help,3,,166.356,167.356
+626,6,landing first time in any Vistorian page,logging,2,,0,1
+626,6,Visiting any Visitorian Page,logging,2,,0.978,1.978
+626,6,My Session,logging,2,,5.872,6.872
+626,6,landing first time in any Vistorian page,logging,2,,8.022,9.022
+626,6,log,logging,2,,8.022,9.022
+626,6,Accept Consent,logging,2,,8.023,9.023
+626,6,Upload Data Tables,data,0,,27.072,28.072
+626,6,Support Form Completion,logging,2,,27.101,28.101
+626,6,Accept Consent,logging,2,,27.101,28.101
+626,6,Support Form Completion,logging,2,,27.104,28.104
+626,6,Accept Consent,logging,2,,27.104,28.104
+626,6,Upload Data Tables,data,0,,34.956,35.956
+626,6,Support Form Completion,logging,2,,34.976,35.976
+626,6,Accept Consent,logging,2,,34.976,35.976
+626,6,Support Form Completion,logging,2,,34.989,35.989
+626,6,Accept Consent,logging,2,,34.989,35.989
+626,6,landing first time in any Vistorian page,logging,2,,41.921,42.921
+626,6,Support Form Completion,logging,2,,41.921,42.921
+626,6,Accept Consent,logging,2,,41.923,42.923
+626,6,Support Form Completion,logging,2,,47.733,48.733
+626,6,Accept Consent,logging,2,,47.735,48.735
+626,6,network readiness status,data,0,,47.805,48.805
+626,6,New Network,data,0,,47.806,48.806
+626,6,bookmark window,bookmarking,6,,61.203,62.203
+626,6,network readiness status,data,0,,67.411,68.414
+626,6,Select previous Link table,data,0,,67.418,68.418
+626,6,network readiness status,data,0,,74.034,75.034
+626,6,Directed ,data,0,,74.04,75.04
+626,6,network readiness status,data,0,,78.026,79.027
+626,6,Select previous Node table,data,0,,78.027,79.027
+626,6,network readiness status,data,0,,102.715,104.294
+626,6,Column's Data Type Specified ,data,0,,103.294,104.294
+626,6,network readiness status,data,0,,109.653,111.172
+626,6,Column's Data Type Specified ,data,0,,110.172,111.172
+626,6,network readiness status,data,0,,113.902,115.366
+626,6,Column's Data Type Specified ,data,0,,114.366,115.366
+626,6,network readiness status,data,0,,127.939,128.939
+626,6,Column's Data Type Specified ,data,0,,128.044,129.044
+626,6,network readiness status,data,0,,132.172,133.962
+626,6,Column's Data Type Specified ,data,0,,132.962,133.962
+626,6,Error Type,error,5,,134.76,135.76
+626,6,Support Form Completion,logging,2,,137.457,138.457
+626,6,Error Type,error,5,,137.457,138.846
+626,6,Support Form Completion,logging,2,,142.922,143.922
+626,6,Select previous Location table,data,0,,151.783,152.783
+626,6,Error Type,error,5,,172.916,173.916
+626,6,Support Form Completion,logging,2,,215.265,216.265
+626,6,Accept Consent,logging,2,,215.266,216.266
+626,6,Support Form Completion,logging,2,,226.474,227.474
+626,6,Accept Consent,logging,2,,226.476,227.476
+626,6,Support Form Completion,logging,2,,497.996,498.996
+626,6,Accept Consent,logging,2,,497.998,498.998
+626,6,Support Form Completion,logging,2,,511.207,512.207
+626,6,Accept Consent,logging,2,,511.208,512.208
+626,6,Support Form Completion,logging,2,,513.426,514.426
+626,6,Accept Consent,logging,2,,513.427,514.427
+626,6,Close Webpage/End of Activity,logging,2,,515.664,516.664
+626,6,landing first time in any Vistorian page,logging,2,,517.125,518.125
+626,6,log,logging,2,,517.125,518.125
+626,6,Accept Consent,logging,2,,517.126,518.126
+626,6,bookmark window,bookmarking,6,,517.13,518.13
+626,6,Support Form Completion,logging,2,,525.288,526.288
+626,6,Error Type,error,5,,525.289,526.289
+626,6,Support Form Completion,logging,2,,557.954,558.954
+626,6,Error Type,error,5,,560.248,561.248
+626,6,bookmark window,bookmarking,6,,576.01,577.01
+626,6,landing first time in any Vistorian page,logging,2,,580.232,581.232
+626,6,Support Form Completion,logging,2,,580.232,581.232
+626,6,Accept Consent,logging,2,,580.233,581.233
+626,6,Support Form Completion,logging,2,,580.274,581.274
+626,6,Accept Consent,logging,2,,580.274,581.274
+626,6,Support Form Completion,logging,2,,580.274,581.274
+626,6,Accept Consent,logging,2,,580.274,581.274
+626,6,bookmarks view option selected,bookmarking,6,,580.274,581.274
+626,6,Support Form Completion,logging,2,,586.666,587.666
+626,6,Accept Consent,logging,2,,586.667,587.667
+626,6,Support Form Completion,logging,2,,586.668,587.668
+626,6,Accept Consent,logging,2,,586.668,587.668
+626,6,bookmarks view option selected,bookmarking,6,,586.668,587.668
+626,6,Support Form Completion,logging,2,,589.385,590.385
+626,6,Accept Consent,logging,2,,589.386,590.386
+626,6,Support Form Completion,logging,2,,589.386,590.386
+626,6,Accept Consent,logging,2,,589.387,590.387
+626,6,bookmarks view option selected,bookmarking,6,,589.387,590.387
+626,6,bookmark window,bookmarking,6,,593.659,594.961
+626,6,Bookmarks file imported,bookmarking,6,,601.077,602.078
+626,6,Support Form Completion,logging,2,,603.774,604.774
+626,6,Accept Consent,logging,2,,603.775,604.775
+626,6,Support Form Completion,logging,2,,603.781,604.781
+626,6,Accept Consent,logging,2,,603.781,604.781
+626,6,Bookmarks file imported,bookmarking,6,,608.068,609.068
+626,6,Support Form Completion,logging,2,,608.07,609.07
+626,6,Accept Consent,logging,2,,608.07,609.07
+626,6,Session ID,logging,2,,609.443,611.433
+626,6,Support Form Completion,logging,2,,611.974,612.974
+626,6,Accept Consent,logging,2,,611.977,612.977
+626,6,bookmark window,bookmarking,6,,614.597,615.597
+626,6,Support Form Completion,logging,2,,625.398,626.398
+626,6,Accept Consent,logging,2,,625.399,626.399
