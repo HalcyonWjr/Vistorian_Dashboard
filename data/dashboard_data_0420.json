@@ -1,0 +1,5919 @@
+{
+  "avgVisitorsByMonth": {
+    "description": "Average number of users per month",
+    "returning": [
+      104,
+      205,
+      239,
+      97,
+      50,
+      68,
+      80,
+      59,
+      52,
+      57,
+      56,
+      43
+    ],
+    "non_returning": [
+      56,
+      63,
+      81,
+      34,
+      29,
+      37,
+      28,
+      35,
+      54,
+      45,
+      52,
+      41
+    ]
+  },
+  "returnersVisitsByMonth": {
+    "description": "returners visits per month",
+    "2021": [
+      0,
+      29,
+      17,
+      17,
+      21,
+      38,
+      43,
+      46,
+      59,
+      67,
+      17,
+      36
+    ],
+    "2022": [
+      212,
+      482,
+      510,
+      239,
+      131,
+      168,
+      198,
+      131,
+      98,
+      104,
+      151,
+      94
+    ],
+    "2023": [
+      100,
+      106,
+      192,
+      36,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "nonReturnersVisitsByMonth": {
+    "description": "non-returners visits per month",
+    "2021": [
+      0,
+      2,
+      4,
+      1,
+      2,
+      12,
+      49,
+      72,
+      102,
+      58,
+      71,
+      87
+    ],
+    "2022": [
+      118,
+      125,
+      136,
+      84,
+      85,
+      100,
+      37,
+      34,
+      60,
+      77,
+      85,
+      36
+    ],
+    "2023": [
+      51,
+      62,
+      103,
+      18,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "allVisitsByMonth": {
+    "description": "total visits per month",
+    "2021": [
+      0,
+      31,
+      21,
+      18,
+      23,
+      50,
+      92,
+      118,
+      161,
+      125,
+      88,
+      123
+    ],
+    "2022": [
+      330,
+      607,
+      646,
+      323,
+      216,
+      268,
+      235,
+      165,
+      158,
+      181,
+      236,
+      130
+    ],
+    "2023": [
+      151,
+      168,
+      295,
+      54,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "return_rate": {
+    "description": "total number of returning users vs non-returning",
+    "returning": 627,
+    "non_returning": 1671
+  },
+  "users_composition": {
+    "description": "Number of users per user type",
+    "demo": 1450,
+    "data_struggler": 160,
+    "ss_explorer": 269,
+    "ms_explorer": 419
+  },
+  "timeline": [
+    {
+      "week": 0,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 22
+    },
+    {
+      "week": 0,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 11
+    },
+    {
+      "week": 1,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 1,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 19
+    },
+    {
+      "week": 1,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 23
+    },
+    {
+      "week": 2,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 2,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 28
+    },
+    {
+      "week": 2,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 12
+    },
+    {
+      "week": 3,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 3,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 39
+    },
+    {
+      "week": 3,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 15
+    },
+    {
+      "week": 4,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 3
+    },
+    {
+      "week": 4,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 31
+    },
+    {
+      "week": 4,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 15
+    },
+    {
+      "week": 5,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 4
+    },
+    {
+      "week": 5,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 39
+    },
+    {
+      "week": 5,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 6,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 6,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 19
+    },
+    {
+      "week": 6,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 10
+    },
+    {
+      "week": 7,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 1
+    },
+    {
+      "week": 7,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 42
+    },
+    {
+      "week": 7,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 15
+    },
+    {
+      "week": 8,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 8,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 8,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 9,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 9,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 32
+    },
+    {
+      "week": 9,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 42
+    },
+    {
+      "week": 10,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 10,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 37
+    },
+    {
+      "week": 10,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 26
+    },
+    {
+      "week": 11,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 11,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 35
+    },
+    {
+      "week": 11,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 17
+    },
+    {
+      "week": 12,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 12,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 40
+    },
+    {
+      "week": 12,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 13,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 13,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 13,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 14,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 1
+    },
+    {
+      "week": 14,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 18
+    },
+    {
+      "week": 14,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 10
+    },
+    {
+      "week": 15,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 1
+    },
+    {
+      "week": 15,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 33
+    },
+    {
+      "week": 15,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 16,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 17,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 2
+    },
+    {
+      "week": 17,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 17,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 31
+    },
+    {
+      "week": 18,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 22
+    },
+    {
+      "week": 19,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 20,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 3
+    },
+    {
+      "week": 20,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 17
+    },
+    {
+      "week": 20,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 21,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 6
+    },
+    {
+      "week": 21,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 21,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 22,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 4
+    },
+    {
+      "week": 22,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 22,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 23,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 4
+    },
+    {
+      "week": 23,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 27
+    },
+    {
+      "week": 23,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 24,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 2
+    },
+    {
+      "week": 24,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 30
+    },
+    {
+      "week": 24,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 25,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 3
+    },
+    {
+      "week": 25,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 27
+    },
+    {
+      "week": 25,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 5
+    },
+    {
+      "week": 26,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 19
+    },
+    {
+      "week": 26,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 27,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 7
+    },
+    {
+      "week": 27,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 23
+    },
+    {
+      "week": 27,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 10
+    },
+    {
+      "week": 28,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 28,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 29,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 25
+    },
+    {
+      "week": 29,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 19
+    },
+    {
+      "week": 29,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 30,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 30,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 30,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 31,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 31,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 31,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 32,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 28
+    },
+    {
+      "week": 32,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 10
+    },
+    {
+      "week": 32,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 33,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 10
+    },
+    {
+      "week": 33,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 34,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 17
+    },
+    {
+      "week": 34,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 23
+    },
+    {
+      "week": 34,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 35,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 35,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 36,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 18
+    },
+    {
+      "week": 36,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 36,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 37,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 37,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 37,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 38,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 31
+    },
+    {
+      "week": 38,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 33
+    },
+    {
+      "week": 38,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 39,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 39,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 39,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 17
+    },
+    {
+      "week": 40,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 19
+    },
+    {
+      "week": 40,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 41,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 16
+    },
+    {
+      "week": 41,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 45
+    },
+    {
+      "week": 41,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 42,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 14
+    },
+    {
+      "week": 42,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 26
+    },
+    {
+      "week": 42,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 9
+    },
+    {
+      "week": 43,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 21
+    },
+    {
+      "week": 43,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 14
+    },
+    {
+      "week": 44,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 22
+    },
+    {
+      "week": 44,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 45,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 45,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 45,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 46,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 23
+    },
+    {
+      "week": 46,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 10
+    },
+    {
+      "week": 46,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 47,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 20
+    },
+    {
+      "week": 47,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 23
+    },
+    {
+      "week": 47,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 48,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 20
+    },
+    {
+      "week": 48,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 9
+    },
+    {
+      "week": 48,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 24
+    },
+    {
+      "week": 49,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 12
+    },
+    {
+      "week": 49,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 50,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 33
+    },
+    {
+      "week": 50,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 6
+    },
+    {
+      "week": 50,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 51,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 51,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 13
+    },
+    {
+      "week": 51,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 3
+    },
+    {
+      "week": 52,
+      "year": "2021",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2022",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2023",
+      "userType": "Demo",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 0,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 1,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 1,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 1,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 2,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 2,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 2,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 3,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 3,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 9
+    },
+    {
+      "week": 3,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 4,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 4,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 15
+    },
+    {
+      "week": 4,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 5,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 5,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 10
+    },
+    {
+      "week": 5,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 6,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 6,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 4
+    },
+    {
+      "week": 6,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 7,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 7,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 7
+    },
+    {
+      "week": 7,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 8,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 8,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 8,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 9,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 9,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 9,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 9
+    },
+    {
+      "week": 10,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 10,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 10,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 11,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 11,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 5
+    },
+    {
+      "week": 11,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 12,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 12,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 12,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 13,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 13,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 7
+    },
+    {
+      "week": 13,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 14,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 14,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 14,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 15,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 15,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 15,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 16,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 17,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 17,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 17,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 18,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 19,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 20,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 5
+    },
+    {
+      "week": 20,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 20,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 21,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 21,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 21,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 22,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 22,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 22,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 23,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 23,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 23,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 24,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 24,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 24,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 25,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 25,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 25,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 26,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 26,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 27,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 27,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 27,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 29,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 8
+    },
+    {
+      "week": 29,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 29,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 30,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 30,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 30,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 31,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 31,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 31,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 32,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 32,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 32,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 34,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 34,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 34,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 36,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 36,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 36,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 37,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 37,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 37,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 38,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 4
+    },
+    {
+      "week": 38,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 38,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 39,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 39,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 39,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 41,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 8
+    },
+    {
+      "week": 41,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 41,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 42,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 42,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 42,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 43,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 44,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 45,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 45,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 45,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 46,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 46,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 46,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 47,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 47,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 47,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 48,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 48,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 3
+    },
+    {
+      "week": 48,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 50,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 50,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 50,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 51,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "week": 51,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 1
+    },
+    {
+      "week": 51,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2021",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2022",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2023",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 1,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 1,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 1,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 2,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 2,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 2,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 3,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 3,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 3,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 4,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 4,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 4,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 5,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 5,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 5,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 6,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 6,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 6,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 7,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 7,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 6
+    },
+    {
+      "week": 7,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 8,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 8,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 8,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 6
+    },
+    {
+      "week": 9,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 9,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 16
+    },
+    {
+      "week": 9,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 10,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 10,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 10,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 6
+    },
+    {
+      "week": 11,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 11,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 9
+    },
+    {
+      "week": 11,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 12,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 12,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 12,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 13,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 13,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 13,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 14,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 14,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 14,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 15,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 15,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 15,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 16,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 17,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 17,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 17,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 10
+    },
+    {
+      "week": 18,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 20,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 20,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 20,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 21,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 21,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 21,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 22,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 22,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 10
+    },
+    {
+      "week": 22,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 23,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 23,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 23,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 24,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 24,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 18
+    },
+    {
+      "week": 24,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 25,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 25,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 25,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 27,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 27,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 27,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 29,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 11
+    },
+    {
+      "week": 29,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 29,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 30,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 6
+    },
+    {
+      "week": 30,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 30,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 31,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 31,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 31,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 32,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 32,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 32,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 33,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 34,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 34,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 34,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 35,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 36,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 36,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 36,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 37,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 37,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 37,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 38,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 22
+    },
+    {
+      "week": 38,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 38,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 39,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 39,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 39,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 40,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 41,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 8
+    },
+    {
+      "week": 41,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 41,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 42,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 42,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 42,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 43,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 45,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 45,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 45,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 46,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 46,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 46,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 47,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 47,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 47,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 48,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 48,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 48,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 49,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 50,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 50,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 50,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 51,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 51,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 51,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2021",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2022",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2023",
+      "userType": "SS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 0,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 0,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 1,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 1,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 37
+    },
+    {
+      "week": 1,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 10
+    },
+    {
+      "week": 2,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 2,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 36
+    },
+    {
+      "week": 2,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 29
+    },
+    {
+      "week": 3,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 3,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 102
+    },
+    {
+      "week": 3,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 23
+    },
+    {
+      "week": 4,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 4,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 143
+    },
+    {
+      "week": 4,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 26
+    },
+    {
+      "week": 5,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 5,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 79
+    },
+    {
+      "week": 5,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 18
+    },
+    {
+      "week": 6,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 6,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 65
+    },
+    {
+      "week": 6,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 20
+    },
+    {
+      "week": 7,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 8
+    },
+    {
+      "week": 7,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 122
+    },
+    {
+      "week": 7,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 24
+    },
+    {
+      "week": 8,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 8,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 117
+    },
+    {
+      "week": 8,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 19
+    },
+    {
+      "week": 9,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 9,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 107
+    },
+    {
+      "week": 9,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 60
+    },
+    {
+      "week": 10,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 10
+    },
+    {
+      "week": 10,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 93
+    },
+    {
+      "week": 10,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 43
+    },
+    {
+      "week": 11,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 11,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 132
+    },
+    {
+      "week": 11,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 16
+    },
+    {
+      "week": 12,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 12,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 61
+    },
+    {
+      "week": 12,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 21
+    },
+    {
+      "week": 13,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 6
+    },
+    {
+      "week": 13,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 68
+    },
+    {
+      "week": 13,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 17
+    },
+    {
+      "week": 14,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 14,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 66
+    },
+    {
+      "week": 14,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 15,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 15,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 40
+    },
+    {
+      "week": 15,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 16,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 12
+    },
+    {
+      "week": 16,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 17,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 17,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 11
+    },
+    {
+      "week": 17,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 18,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 18,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 24
+    },
+    {
+      "week": 18,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 19,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 6
+    },
+    {
+      "week": 19,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 39
+    },
+    {
+      "week": 19,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 20,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 20,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 15
+    },
+    {
+      "week": 20,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 21,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 21,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 18
+    },
+    {
+      "week": 21,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 22,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 9
+    },
+    {
+      "week": 22,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 25
+    },
+    {
+      "week": 22,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 23,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 23,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 21
+    },
+    {
+      "week": 23,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 24,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 24,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 45
+    },
+    {
+      "week": 24,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 25,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 25,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 17
+    },
+    {
+      "week": 25,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 26,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 57
+    },
+    {
+      "week": 26,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 27,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 27,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 41
+    },
+    {
+      "week": 27,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 28,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 28,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 17
+    },
+    {
+      "week": 28,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 29,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 19
+    },
+    {
+      "week": 29,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 21
+    },
+    {
+      "week": 29,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 30,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 30,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 11
+    },
+    {
+      "week": 30,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 31,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 2
+    },
+    {
+      "week": 31,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 16
+    },
+    {
+      "week": 31,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 32,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 32,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 17
+    },
+    {
+      "week": 32,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 33,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 33,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 33,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 34,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 34,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 41
+    },
+    {
+      "week": 34,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 35,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 35,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 19
+    },
+    {
+      "week": 35,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 36,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 9
+    },
+    {
+      "week": 36,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 11
+    },
+    {
+      "week": 36,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 37,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 37,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 14
+    },
+    {
+      "week": 37,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 38,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 8
+    },
+    {
+      "week": 38,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 13
+    },
+    {
+      "week": 38,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 39,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 39,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 11
+    },
+    {
+      "week": 39,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 40,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 12
+    },
+    {
+      "week": 40,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 13
+    },
+    {
+      "week": 40,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 41,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 11
+    },
+    {
+      "week": 41,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 18
+    },
+    {
+      "week": 41,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 42,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 42,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 10
+    },
+    {
+      "week": 42,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 43,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 35
+    },
+    {
+      "week": 43,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 44,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 15
+    },
+    {
+      "week": 44,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 45,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 4
+    },
+    {
+      "week": 45,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 40
+    },
+    {
+      "week": 45,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 46,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 5
+    },
+    {
+      "week": 46,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 20
+    },
+    {
+      "week": 46,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 47,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 3
+    },
+    {
+      "week": 47,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 37
+    },
+    {
+      "week": 47,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 48,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 48,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 24
+    },
+    {
+      "week": 48,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 49,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 49,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 18
+    },
+    {
+      "week": 49,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 50,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 50,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 7
+    },
+    {
+      "week": 50,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 51,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 1
+    },
+    {
+      "week": 51,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 13
+    },
+    {
+      "week": 51,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2021",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2022",
+      "userType": "MS_Explorers",
+      "count": 0
+    },
+    {
+      "week": 52,
+      "year": "2023",
+      "userType": "MS_Explorers",
+      "count": 0
+    }
+  ],
+  "visual_representation": [
+    {
+      "category": "Edge Gap",
+      "value": 32
+    },
+    {
+      "category": "Labelling",
+      "value": 3299
+    },
+    {
+      "category": "Link Opacity",
+      "value": 31
+    },
+    {
+      "category": "Link Width",
+      "value": 53
+    },
+    {
+      "category": "Node Opacity",
+      "value": 28
+    },
+    {
+      "category": "Node Size",
+      "value": 45
+    },
+    {
+      "category": "Time Slider",
+      "value": 765
+    }
+  ],
+  "visual_Representation_byUser": [
+    {
+      "category": "Edge Gap",
+      "value": 24
+    },
+    {
+      "category": "Labelling",
+      "value": 490
+    },
+    {
+      "category": "Link Opacity",
+      "value": 29
+    },
+    {
+      "category": "Link Width",
+      "value": 47
+    },
+    {
+      "category": "Node Opacity",
+      "value": 28
+    },
+    {
+      "category": "Node Size",
+      "value": 44
+    },
+    {
+      "category": "Time Slider",
+      "value": 214
+    }
+  ],
+  "help_resouces_popularity": [
+    {
+      "helpResource": "Network Manual",
+      "userType": "Demo",
+      "count": 72
+    },
+    {
+      "helpResource": "Network Manual",
+      "userType": "Data_Strugglers",
+      "count": 10
+    },
+    {
+      "helpResource": "Network Manual",
+      "userType": "SS_Explorers",
+      "count": 72
+    },
+    {
+      "helpResource": "Network Manual",
+      "userType": "MS_Explorers",
+      "count": 355
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "Demo",
+      "count": 19
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "Data_Strugglers",
+      "count": 2
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "SS_Explorers",
+      "count": 10
+    },
+    {
+      "helpResource": "Data Formatting",
+      "userType": "MS_Explorers",
+      "count": 12
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "Demo",
+      "count": 144
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "Data_Strugglers",
+      "count": 6
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "SS_Explorers",
+      "count": 8
+    },
+    {
+      "helpResource": "Play Video",
+      "userType": "MS_Explorers",
+      "count": 37
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "Demo",
+      "count": 884
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "SS_Explorers",
+      "count": 95
+    },
+    {
+      "helpResource": "Visualization Examples",
+      "userType": "MS_Explorers",
+      "count": 869
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "Demo",
+      "count": 6
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "Data_Strugglers",
+      "count": 0
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "SS_Explorers",
+      "count": 1
+    },
+    {
+      "helpResource": "Data Example",
+      "userType": "MS_Explorers",
+      "count": 2
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "Demo",
+      "count": 70
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "Data_Strugglers",
+      "count": 6
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "SS_Explorers",
+      "count": 29
+    },
+    {
+      "helpResource": "Demo",
+      "userType": "MS_Explorers",
+      "count": 59
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "Demo",
+      "count": 80
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "Data_Strugglers",
+      "count": 15
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "SS_Explorers",
+      "count": 60
+    },
+    {
+      "helpResource": "Tutorials",
+      "userType": "MS_Explorers",
+      "count": 240
+    }
+  ],
+  "features_used_filtering": [
+    {
+      "feature": "Time Slider",
+      "SS_Explorers": 43,
+      "MS_Explorers": 123
+    },
+    {
+      "feature": "Link Type",
+      "SS_Explorers": 1,
+      "MS_Explorers": 4
+    },
+    {
+      "feature": "Node Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Matrix Order",
+      "SS_Explorers": 70,
+      "MS_Explorers": 207
+    },
+    {
+      "feature": "Search",
+      "SS_Explorers": 2,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Zoom",
+      "SS_Explorers": 199,
+      "MS_Explorers": 369
+    },
+    {
+      "feature": "Hover",
+      "SS_Explorers": 208,
+      "MS_Explorers": 379
+    },
+    {
+      "feature": "Select",
+      "SS_Explorers": 81,
+      "MS_Explorers": 237
+    }
+  ],
+  "nodelink_users": [
+    {
+      "description": "Number of Nodelink users per month in each year "
+    },
+    [
+      {
+        "year": "2021",
+        "userPerMonth": [
+          0,
+          13,
+          14,
+          13,
+          9,
+          22,
+          35,
+          42,
+          65,
+          44,
+          34,
+          39
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2022",
+        "userPerMonth": [
+          157,
+          361,
+          346,
+          173,
+          122,
+          169,
+          150,
+          118,
+          95,
+          92,
+          118,
+          82
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2023",
+        "userPerMonth": [
+          97,
+          89,
+          154,
+          28,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  ],
+  "matrix_users": [
+    {
+      "description": "Number of Matrix users per month in each year"
+    },
+    [
+      {
+        "year": "2021",
+        "userPerMonth": [
+          0,
+          4,
+          4,
+          3,
+          4,
+          13,
+          17,
+          14,
+          37,
+          16,
+          13,
+          15
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2022",
+        "userPerMonth": [
+          45,
+          174,
+          172,
+          48,
+          42,
+          79,
+          89,
+          43,
+          30,
+          44,
+          45,
+          21
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2023",
+        "userPerMonth": [
+          24,
+          38,
+          82,
+          7,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  ],
+  "timeline_users": [
+    {
+      "description": "Number of Timeline users per month in each year"
+    },
+    [
+      {
+        "year": "2021",
+        "userPerMonth": [
+          0,
+          4,
+          3,
+          2,
+          3,
+          11,
+          15,
+          9,
+          31,
+          22,
+          8,
+          15
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2022",
+        "userPerMonth": [
+          25,
+          93,
+          130,
+          41,
+          31,
+          67,
+          72,
+          39,
+          27,
+          39,
+          50,
+          16
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2023",
+        "userPerMonth": [
+          17,
+          27,
+          50,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  ],
+  "map_users": [
+    {
+      "description": "Number of Map users per month in each year"
+    },
+    [
+      {
+        "year": "2021",
+        "userPerMonth": [
+          0,
+          5,
+          5,
+          2,
+          1,
+          14,
+          16,
+          13,
+          30,
+          26,
+          17,
+          14
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2022",
+        "userPerMonth": [
+          52,
+          86,
+          124,
+          67,
+          42,
+          59,
+          91,
+          38,
+          28,
+          43,
+          47,
+          26
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2023",
+        "userPerMonth": [
+          31,
+          23,
+          56,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  ],
+  "mat_nl_users": [
+    {
+      "description": "Number of Mat-NL users per month in each year"
+    },
+    [
+      {
+        "year": "2021",
+        "userPerMonth": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          7,
+          4,
+          4,
+          23,
+          3,
+          3,
+          5
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2022",
+        "userPerMonth": [
+          11,
+          65,
+          117,
+          20,
+          33,
+          48,
+          56,
+          21,
+          18,
+          24,
+          26,
+          14
+        ]
+      }
+    ],
+    [
+      {
+        "year": "2023",
+        "userPerMonth": [
+          9,
+          18,
+          45,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  ],
+  "features_used_nodelink": [
+    {
+      "feature": "Time Slider",
+      "SS_Explorers": 42,
+      "MS_Explorers": 137
+    },
+    {
+      "feature": "Link Type",
+      "SS_Explorers": 1,
+      "MS_Explorers": 4
+    },
+    {
+      "feature": "Node Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Search",
+      "SS_Explorers": 2,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Zoom",
+      "SS_Explorers": 189,
+      "MS_Explorers": 366
+    },
+    {
+      "feature": "Edge Gap",
+      "SS_Explorers": 8,
+      "MS_Explorers": 14
+    },
+    {
+      "feature": "Labelling",
+      "SS_Explorers": 114,
+      "MS_Explorers": 271
+    },
+    {
+      "feature": "Link Opacity",
+      "SS_Explorers": 4,
+      "MS_Explorers": 23
+    },
+    {
+      "feature": "Link Width",
+      "SS_Explorers": 11,
+      "MS_Explorers": 32
+    },
+    {
+      "feature": "Node Opacity",
+      "SS_Explorers": 1,
+      "MS_Explorers": 19
+    },
+    {
+      "feature": "Node Size",
+      "SS_Explorers": 3,
+      "MS_Explorers": 37
+    },
+    {
+      "feature": "Hover",
+      "SS_Explorers": 208,
+      "MS_Explorers": 379
+    },
+    {
+      "feature": "Select",
+      "SS_Explorers": 81,
+      "MS_Explorers": 237
+    }
+  ],
+  "features_used_matrix": [
+    {
+      "feature": "Time Slider",
+      "SS_Explorers": 35,
+      "MS_Explorers": 125
+    },
+    {
+      "feature": "Link Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Node Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Search",
+      "SS_Explorers": 2,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Zoom",
+      "SS_Explorers": 73,
+      "MS_Explorers": 198
+    },
+    {
+      "feature": "Labelling",
+      "SS_Explorers": 72,
+      "MS_Explorers": 209
+    },
+    {
+      "feature": "Hover",
+      "SS_Explorers": 104,
+      "MS_Explorers": 297
+    }
+  ],
+  "features_used_timeline": [
+    {
+      "feature": "Time Slider",
+      "SS_Explorers": 29,
+      "MS_Explorers": 117
+    },
+    {
+      "feature": "Link Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 2
+    },
+    {
+      "feature": "Node Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Search",
+      "SS_Explorers": 2,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Zoom",
+      "SS_Explorers": 50,
+      "MS_Explorers": 154
+    },
+    {
+      "feature": "Labelling",
+      "SS_Explorers": 0,
+      "MS_Explorers": 0
+    },
+    {
+      "feature": "Hover",
+      "SS_Explorers": 70,
+      "MS_Explorers": 219
+    }
+  ],
+  "features_used_map": [
+    {
+      "feature": "Time Slider",
+      "SS_Explorers": 31,
+      "MS_Explorers": 121
+    },
+    {
+      "feature": "Link Type",
+      "SS_Explorers": 1,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Node Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Search",
+      "SS_Explorers": 2,
+      "MS_Explorers": 2
+    },
+    {
+      "feature": "Zoom",
+      "SS_Explorers": 77,
+      "MS_Explorers": 253
+    },
+    {
+      "feature": "Edge Gap",
+      "SS_Explorers": 4,
+      "MS_Explorers": 14
+    },
+    {
+      "feature": "Labelling",
+      "SS_Explorers": 43,
+      "MS_Explorers": 194
+    },
+    {
+      "feature": "Link Opacity",
+      "SS_Explorers": 1,
+      "MS_Explorers": 22
+    },
+    {
+      "feature": "Link Width",
+      "SS_Explorers": 8,
+      "MS_Explorers": 25
+    },
+    {
+      "feature": "Node Overlap",
+      "SS_Explorers": 0,
+      "MS_Explorers": 3
+    },
+    {
+      "feature": "Opacity of Positionless Nodes",
+      "SS_Explorers": 2,
+      "MS_Explorers": 2
+    },
+    {
+      "feature": "Hover",
+      "SS_Explorers": 68,
+      "MS_Explorers": 250
+    },
+    {
+      "feature": "Select",
+      "SS_Explorers": 31,
+      "MS_Explorers": 174
+    }
+  ],
+  "features_used_mat_nl": [
+    {
+      "feature": "Time Slider",
+      "SS_Explorers": 26,
+      "MS_Explorers": 111
+    },
+    {
+      "feature": "Link Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Node Type",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Search",
+      "SS_Explorers": 0,
+      "MS_Explorers": 1
+    },
+    {
+      "feature": "Zoom",
+      "SS_Explorers": 64,
+      "MS_Explorers": 238
+    },
+    {
+      "feature": "Edge Gap",
+      "SS_Explorers": 1,
+      "MS_Explorers": 13
+    },
+    {
+      "feature": "Labelling",
+      "SS_Explorers": 43,
+      "MS_Explorers": 203
+    },
+    {
+      "feature": "Link Opacity",
+      "SS_Explorers": 1,
+      "MS_Explorers": 22
+    },
+    {
+      "feature": "Link Width",
+      "SS_Explorers": 5,
+      "MS_Explorers": 25
+    },
+    {
+      "feature": "Node Opacity",
+      "SS_Explorers": 0,
+      "MS_Explorers": 18
+    },
+    {
+      "feature": "Node Size",
+      "SS_Explorers": 1,
+      "MS_Explorers": 36
+    },
+    {
+      "feature": "Hover",
+      "SS_Explorers": 64,
+      "MS_Explorers": 241
+    },
+    {
+      "feature": "Select",
+      "SS_Explorers": 30,
+      "MS_Explorers": 191
+    },
+    {
+      "feature": "Matrix Zoom",
+      "SS_Explorers": 47,
+      "MS_Explorers": 177
+    },
+    {
+      "feature": "Matrix Labelling",
+      "SS_Explorers": 43,
+      "MS_Explorers": 179
+    }
+  ],
+  "avergae_sessionTime": [
+    {
+      "vis_type": "all",
+      "Session duration unit": " minutes"
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "all_users",
+      "min_sTime": 0.08,
+      "avg_sTime": 13.81,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.2,
+      "q3_sTime": 17.82
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Data_Strugglers",
+      "min_sTime": 0.1,
+      "avg_sTime": 18.48,
+      "max_sTime": 165.29,
+      "q1_sTime": 1.21,
+      "q3_sTime": 20.07
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Data_Strugglers",
+      "Total_num_sessions": 196,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.36,
+      "max_numSessions": 7,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Data_Strugglers",
+      "min_numSessions": 0.11,
+      "avg_numSessions": 25.15,
+      "max_numSessions": 218.02,
+      "q1_numSessions": 1.44,
+      "q3_numSessions": 29.98
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Demo",
+      "min_sTime": 0.09,
+      "avg_sTime": 4.39,
+      "max_sTime": 59.57,
+      "q1_sTime": 0.43,
+      "q3_sTime": 4.92
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Demo",
+      "Total_num_sessions": 914,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.38,
+      "max_numSessions": 16,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 1.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Demo",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 6.05,
+      "max_numSessions": 126.83,
+      "q1_numSessions": 0.51,
+      "q3_numSessions": 6.09
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "MS_Explorers",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.33,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.73,
+      "q3_sTime": 19.86
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "MS_Explorers",
+      "Total_num_sessions": 3251,
+      "min_numSessions": 1,
+      "avg_numSessions": 7.81,
+      "max_numSessions": 69,
+      "q1_numSessions": 2.0,
+      "q3_numSessions": 10.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "MS_Explorers",
+      "min_numSessions": 0.31,
+      "avg_numSessions": 119.82,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 35.99,
+      "q3_numSessions": 163.87
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "SS_Explorers",
+      "min_sTime": 0.12,
+      "avg_sTime": 20.88,
+      "max_sTime": 184.58,
+      "q1_sTime": 5.06,
+      "q3_sTime": 30.27
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "SS_Explorers",
+      "Total_num_sessions": 387,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.45,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "SS_Explorers",
+      "min_numSessions": 0.48,
+      "avg_numSessions": 30.38,
+      "max_numSessions": 195.14,
+      "q1_numSessions": 7.05,
+      "q3_numSessions": 45.37
+    }
+  ],
+  "avergae_sessionTime_matnl": [
+    {
+      "vis_type": "matnl",
+      "Session duration unit": " minutes"
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Data_Strugglers",
+      "min_sTime": 2.34,
+      "avg_sTime": 71.85,
+      "max_sTime": 165.29,
+      "q1_sTime": 41.74,
+      "q3_sTime": 165.29
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Data_Strugglers",
+      "Total_num_sessions": 21,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.62,
+      "max_numSessions": 2,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Data_Strugglers",
+      "min_numSessions": 9.94,
+      "avg_numSessions": 116.07,
+      "max_numSessions": 218.02,
+      "q1_numSessions": 41.74,
+      "q3_numSessions": 218.02
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Demo",
+      "min_sTime": 0.1,
+      "avg_sTime": 6.73,
+      "max_sTime": 47.95,
+      "q1_sTime": 0.61,
+      "q3_sTime": 9.57
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Demo",
+      "Total_num_sessions": 139,
+      "min_numSessions": 1,
+      "avg_numSessions": 2.78,
+      "max_numSessions": 16,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 3.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Demo",
+      "min_numSessions": 0.46,
+      "avg_numSessions": 18.72,
+      "max_numSessions": 126.83,
+      "q1_numSessions": 2.79,
+      "q3_numSessions": 20.91
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "MS_Explorers",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.76,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.85,
+      "q3_sTime": 19.87
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "MS_Explorers",
+      "Total_num_sessions": 2509,
+      "min_numSessions": 1,
+      "avg_numSessions": 10.16,
+      "max_numSessions": 69,
+      "q1_numSessions": 3.0,
+      "q3_numSessions": 11.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "MS_Explorers",
+      "min_numSessions": 4.95,
+      "avg_numSessions": 160.09,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 63.41,
+      "q3_numSessions": 230.73
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "SS_Explorers",
+      "min_sTime": 0.12,
+      "avg_sTime": 29.1,
+      "max_sTime": 184.58,
+      "q1_sTime": 6.31,
+      "q3_sTime": 45.68
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "SS_Explorers",
+      "Total_num_sessions": 128,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.66,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "SS_Explorers",
+      "min_numSessions": 1.71,
+      "avg_numSessions": 48.37,
+      "max_numSessions": 195.14,
+      "q1_numSessions": 17.23,
+      "q3_numSessions": 71.92
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "all_matnl_users",
+      "min_sTime": 0.08,
+      "avg_sTime": 16.34,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.79,
+      "q3_sTime": 21.18
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "all_matnl_users",
+      "Total_num_sessions": 128,
+      "min_numSessions": 1,
+      "avg_numSessions": 7.23,
+      "max_numSessions": 69,
+      "q1_numSessions": 2.0,
+      "q3_numSessions": 10.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "all_matnl_users",
+      "min_numSessions": 0.46,
+      "avg_numSessions": 118.12,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 30.38,
+      "q3_numSessions": 170.47
+    },
+    {
+      "Description": "statistics average session time per month",
+      "2021": [
+        0.0,
+        26.123907138095237,
+        0.0,
+        0.0,
+        0.0,
+        12.23320555,
+        32.34405277222222,
+        49.87835221111111,
+        33.420218913513516,
+        27.91882221666667,
+        32.70188666,
+        23.448672218749994
+      ],
+      "2022": [
+        11.85381327425475,
+        18.94084513123197,
+        12.255457574506767,
+        8.633792408867517,
+        10.35417341054852,
+        36.51822062526457,
+        10.06642520236887,
+        21.122909371354165,
+        13.256524846198836,
+        15.005587129824566,
+        20.227305767102376,
+        11.507746207323233
+      ],
+      "2023": [
+        11.341447978205126,
+        22.887422883333336,
+        16.11657648709057,
+        23.4205592537037,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "avergae_sessionTime_nodelink": [
+    {
+      "vis_type": "nodelink",
+      "Session duration unit": " minutes"
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Data_Strugglers",
+      "min_sTime": 0.3,
+      "avg_sTime": 34.19,
+      "max_sTime": 165.29,
+      "q1_sTime": 7.48,
+      "q3_sTime": 49.49
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Data_Strugglers",
+      "Total_num_sessions": 83,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.51,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Data_Strugglers",
+      "min_numSessions": 0.55,
+      "avg_numSessions": 51.59,
+      "max_numSessions": 218.02,
+      "q1_numSessions": 11.38,
+      "q3_numSessions": 51.89
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Demo",
+      "min_sTime": 0.09,
+      "avg_sTime": 4.77,
+      "max_sTime": 59.57,
+      "q1_sTime": 0.49,
+      "q3_sTime": 5.82
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Demo",
+      "Total_num_sessions": 687,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.48,
+      "max_numSessions": 16,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 1.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Demo",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 7.07,
+      "max_numSessions": 126.83,
+      "q1_numSessions": 0.67,
+      "q3_numSessions": 7.05
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "MS_Explorers",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.37,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.75,
+      "q3_sTime": 19.86
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "MS_Explorers",
+      "Total_num_sessions": 3238,
+      "min_numSessions": 1,
+      "avg_numSessions": 7.9,
+      "max_numSessions": 69,
+      "q1_numSessions": 2.0,
+      "q3_numSessions": 10.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "MS_Explorers",
+      "min_numSessions": 0.31,
+      "avg_numSessions": 121.4,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 37.17,
+      "q3_numSessions": 170.28
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "SS_Explorers",
+      "min_sTime": 0.12,
+      "avg_sTime": 21.53,
+      "max_sTime": 184.58,
+      "q1_sTime": 5.24,
+      "q3_sTime": 31.21
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "SS_Explorers",
+      "Total_num_sessions": 369,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.47,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "SS_Explorers",
+      "min_numSessions": 0.48,
+      "avg_numSessions": 31.66,
+      "max_numSessions": 195.14,
+      "q1_numSessions": 8.51,
+      "q3_numSessions": 47.22
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "all_nodelink_users",
+      "min_sTime": 0.08,
+      "avg_sTime": 14.58,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.39,
+      "q3_sTime": 18.88
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "all_nodelink_users",
+      "Total_num_sessions": 369,
+      "min_numSessions": 1,
+      "avg_numSessions": 3.71,
+      "max_numSessions": 69,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 3.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "all_nodelink_users",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 54.1,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 2.55,
+      "q3_numSessions": 62.9
+    },
+    {
+      "Description": "statistics average session time per month",
+      "2021": [
+        0.0,
+        16.44012257419355,
+        16.03081827311828,
+        24.21244607254902,
+        24.920046659999997,
+        14.7369809996124,
+        16.1824624952381,
+        21.962712987288143,
+        20.365484343292685,
+        14.313652511006289,
+        16.791520447348482,
+        16.228952611666667
+      ],
+      "2022": [
+        11.715402292911888,
+        18.710126516124426,
+        11.816974389359332,
+        8.592392649680711,
+        10.792590879856116,
+        25.705973841004177,
+        10.31387973441736,
+        17.5240644832244,
+        9.577568091536458,
+        11.388205156047196,
+        17.147604837192095,
+        9.885027617901237
+      ],
+      "2023": [
+        11.031075750699301,
+        15.259722806737587,
+        13.404694332124693,
+        16.52691160959596,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "avergae_sessionTime_matrix": [
+    {
+      "vis_type": "matrix",
+      "Session duration unit": " minutes"
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Data_Strugglers",
+      "min_sTime": 1.44,
+      "avg_sTime": 48.5,
+      "max_sTime": 165.29,
+      "q1_sTime": 12.75,
+      "q3_sTime": 52.73
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Data_Strugglers",
+      "Total_num_sessions": 48,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.71,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Data_Strugglers",
+      "min_numSessions": 4.4,
+      "avg_numSessions": 83.15,
+      "max_numSessions": 218.02,
+      "q1_numSessions": 29.29,
+      "q3_numSessions": 135.11
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Demo",
+      "min_sTime": 0.1,
+      "avg_sTime": 5.53,
+      "max_sTime": 59.57,
+      "q1_sTime": 0.54,
+      "q3_sTime": 6.2
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Demo",
+      "Total_num_sessions": 349,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.78,
+      "max_numSessions": 16,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Demo",
+      "min_numSessions": 0.15,
+      "avg_numSessions": 9.85,
+      "max_numSessions": 126.83,
+      "q1_numSessions": 1.15,
+      "q3_numSessions": 8.66
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "MS_Explorers",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.56,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.78,
+      "q3_sTime": 19.86
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "MS_Explorers",
+      "Total_num_sessions": 2879,
+      "min_numSessions": 1,
+      "avg_numSessions": 9.14,
+      "max_numSessions": 69,
+      "q1_numSessions": 3.0,
+      "q3_numSessions": 11.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "MS_Explorers",
+      "min_numSessions": 0.55,
+      "avg_numSessions": 142.17,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 43.17,
+      "q3_numSessions": 197.06
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "SS_Explorers",
+      "min_sTime": 0.12,
+      "avg_sTime": 26.99,
+      "max_sTime": 184.58,
+      "q1_sTime": 7.72,
+      "q3_sTime": 40.6
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "SS_Explorers",
+      "Total_num_sessions": 209,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.6,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "SS_Explorers",
+      "min_numSessions": 1.56,
+      "avg_numSessions": 43.07,
+      "max_numSessions": 195.14,
+      "q1_numSessions": 15.35,
+      "q3_numSessions": 64.26
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "all_matrix_users",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.69,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.68,
+      "q3_sTime": 20.06
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "all_matrix_users",
+      "Total_num_sessions": 209,
+      "min_numSessions": 1,
+      "avg_numSessions": 5.2,
+      "max_numSessions": 69,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 5.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "all_matrix_users",
+      "min_numSessions": 0.15,
+      "avg_numSessions": 81.62,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 7.75,
+      "q3_numSessions": 100.53
+    },
+    {
+      "Description": "statistics average session time per month",
+      "2021": [
+        0.0,
+        21.319274353846154,
+        25.49542962037037,
+        39.67199333,
+        20.271877075,
+        13.670328118229168,
+        19.80421799466667,
+        34.210726536419756,
+        26.921767604088057,
+        17.684082900854698,
+        21.79362897826087,
+        18.368923978861787
+      ],
+      "2022": [
+        11.82732878270945,
+        19.139431724508242,
+        12.076561301843675,
+        9.013150654331861,
+        10.459368549312712,
+        28.79062607124352,
+        10.876230783707037,
+        19.890973159463275,
+        11.341033536497893,
+        12.293890309684688,
+        18.476609489631763,
+        11.020267995111112
+      ],
+      "2023": [
+        10.378872833024689,
+        20.064173057912463,
+        14.490176568433192,
+        21.67229122105263,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "avergae_sessionTime_timeline": [
+    {
+      "vis_type": "timeline",
+      "Session duration unit": " minutes"
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Data_Strugglers",
+      "min_sTime": 0.28,
+      "avg_sTime": 26.65,
+      "max_sTime": 118.53,
+      "q1_sTime": 7.44,
+      "q3_sTime": 48.81
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Data_Strugglers",
+      "Total_num_sessions": 26,
+      "min_numSessions": 1,
+      "avg_numSessions": 2.17,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.75,
+      "q3_numSessions": 3.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Data_Strugglers",
+      "min_numSessions": 1.85,
+      "avg_numSessions": 57.73,
+      "max_numSessions": 163.93,
+      "q1_numSessions": 29.29,
+      "q3_numSessions": 62.89
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Demo",
+      "min_sTime": 0.09,
+      "avg_sTime": 5.22,
+      "max_sTime": 47.95,
+      "q1_sTime": 0.58,
+      "q3_sTime": 6.06
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Demo",
+      "Total_num_sessions": 320,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.72,
+      "max_numSessions": 16,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Demo",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 8.98,
+      "max_numSessions": 126.83,
+      "q1_numSessions": 0.85,
+      "q3_numSessions": 8.44
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "MS_Explorers",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.27,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.7,
+      "q3_sTime": 19.17
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "MS_Explorers",
+      "Total_num_sessions": 2445,
+      "min_numSessions": 1,
+      "avg_numSessions": 10.68,
+      "max_numSessions": 69,
+      "q1_numSessions": 3.0,
+      "q3_numSessions": 15.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "MS_Explorers",
+      "min_numSessions": 0.55,
+      "avg_numSessions": 163.04,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 47.94,
+      "q3_numSessions": 243.45
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "SS_Explorers",
+      "min_sTime": 0.12,
+      "avg_sTime": 29.06,
+      "max_sTime": 98.81,
+      "q1_sTime": 12.45,
+      "q3_sTime": 42.9
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "SS_Explorers",
+      "Total_num_sessions": 137,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.51,
+      "max_numSessions": 3,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "SS_Explorers",
+      "min_numSessions": 0.54,
+      "avg_numSessions": 43.75,
+      "max_numSessions": 123.86,
+      "q1_numSessions": 15.67,
+      "q3_numSessions": 67.11
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "all_timeline_users",
+      "min_sTime": 0.08,
+      "avg_sTime": 14.92,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.56,
+      "q3_sTime": 19.13
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "all_timeline_users",
+      "Total_num_sessions": 137,
+      "min_numSessions": 1,
+      "avg_numSessions": 5.65,
+      "max_numSessions": 69,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 5.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "all_timeline_users",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 84.32,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 5.16,
+      "q3_numSessions": 109.79
+    },
+    {
+      "Description": "statistics average session time per month",
+      "2021": [
+        0.0,
+        20.43195713571429,
+        27.807638083333334,
+        39.67199333,
+        21.684530547222224,
+        13.120868582051283,
+        15.688352772916666,
+        35.86772082291667,
+        30.69083942439025,
+        17.132929161666667,
+        21.50524681825397,
+        15.253125575193796
+      ],
+      "2022": [
+        9.72702214306488,
+        17.0796436259162,
+        11.974279594764148,
+        7.1577015090017815,
+        10.248515771333336,
+        29.6094780076687,
+        10.568204408000012,
+        18.598243822839503,
+        9.933263325925926,
+        13.628868110869568,
+        21.36690394419751,
+        11.428053519871794
+      ],
+      "2023": [
+        8.486118150746266,
+        12.332506870634917,
+        14.116742178735636,
+        25.29826969242424,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "avergae_sessionTime_map": [
+    {
+      "vis_type": "map",
+      "Session duration unit": " minutes"
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Data_Strugglers",
+      "min_sTime": 3.92,
+      "avg_sTime": 29.27,
+      "max_sTime": 51.89,
+      "q1_sTime": 13.39,
+      "q3_sTime": 48.13
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Data_Strugglers",
+      "Total_num_sessions": 23,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.44,
+      "max_numSessions": 3,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Data_Strugglers",
+      "min_numSessions": 3.92,
+      "avg_numSessions": 42.08,
+      "max_numSessions": 62.89,
+      "q1_numSessions": 36.89,
+      "q3_numSessions": 54.64
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "Demo",
+      "min_sTime": 0.09,
+      "avg_sTime": 5.94,
+      "max_sTime": 59.57,
+      "q1_sTime": 0.7,
+      "q3_sTime": 6.86
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "Demo",
+      "Total_num_sessions": 353,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.78,
+      "max_numSessions": 16,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "Demo",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 10.6,
+      "max_numSessions": 126.83,
+      "q1_numSessions": 1.6,
+      "q3_numSessions": 10.85
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "MS_Explorers",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.51,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.8,
+      "q3_sTime": 19.71
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "MS_Explorers",
+      "Total_num_sessions": 2590,
+      "min_numSessions": 1,
+      "avg_numSessions": 9.63,
+      "max_numSessions": 69,
+      "q1_numSessions": 3.0,
+      "q3_numSessions": 11.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "MS_Explorers",
+      "min_numSessions": 1.41,
+      "avg_numSessions": 149.3,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 42.15,
+      "q3_numSessions": 215.07
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "SS_Explorers",
+      "min_sTime": 0.12,
+      "avg_sTime": 27.11,
+      "max_sTime": 184.58,
+      "q1_sTime": 7.19,
+      "q3_sTime": 37.88
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "SS_Explorers",
+      "Total_num_sessions": 136,
+      "min_numSessions": 1,
+      "avg_numSessions": 1.48,
+      "max_numSessions": 4,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 2.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "SS_Explorers",
+      "min_numSessions": 1.71,
+      "avg_numSessions": 40.08,
+      "max_numSessions": 195.14,
+      "q1_numSessions": 15.12,
+      "q3_numSessions": 61.05
+    },
+    {
+      "Description": "statistics on sessions duration(time)",
+      "UserType": "all_map_users",
+      "min_sTime": 0.08,
+      "avg_sTime": 15.03,
+      "max_sTime": 210.62,
+      "q1_sTime": 1.7,
+      "q3_sTime": 19.17
+    },
+    {
+      "Description": "statistics on sessions count(number)",
+      "UserType": "all_map_users",
+      "Total_num_sessions": 136,
+      "min_numSessions": 1,
+      "avg_numSessions": 5.39,
+      "max_numSessions": 69,
+      "q1_numSessions": 1.0,
+      "q3_numSessions": 5.0
+    },
+    {
+      "Description": "statistics on total exploration duration spent by a single user(time)",
+      "UserType": "all_map_users",
+      "min_numSessions": 0.09,
+      "avg_numSessions": 81.08,
+      "max_numSessions": 850.59,
+      "q1_numSessions": 6.65,
+      "q3_numSessions": 101.23
+    },
+    {
+      "Description": "statistics average session time per month",
+      "2021": [
+        0.0,
+        20.43195713571429,
+        14.872499993137254,
+        0.0,
+        24.739416654166668,
+        16.348068974074078,
+        21.356896292592594,
+        32.40369860138889,
+        29.734695343410856,
+        15.109545647463767,
+        18.184248916129032,
+        19.789458123170736
+      ],
+      "2022": [
+        11.982254924178413,
+        17.103569805507476,
+        11.88087429637242,
+        9.758698871157167,
+        11.257863971326158,
+        29.139101001893952,
+        10.598476037829473,
+        18.36631999623188,
+        10.149887574183003,
+        13.850464504509809,
+        21.56071816491226,
+        11.34511595751174
+      ],
+      "2023": [
+        10.460145159666663,
+        20.873250796787147,
+        12.321651811386138,
+        10.158962495833334,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+usrID,logID,view,event,category,index,start,end,userSession
+2699,dat_1,,New Network,data,0,0,1,1
+2699,dat_2_LT,,Upload new Link table,data,0,46,47,1
+2699,dat_2,,upload data,data,0,68,69,1
+2699,dat_2,,upload data,data,0,73,74,1
+2699,dat_2,,upload data,data,0,166,167,1
+2699,dat_11,,Specify Column: target,data,0,175,176,1
+2699,dat_11,,Specify Column: target,data,0,188,189,1
+2699,dat_11,,Specify Column: target,data,0,195,196,1
+2699,dat_11,,Specify Column: target,data,0,198,199,1
+2699,dat_11,,Specify Column: target,data,0,219,220,1
+2699,dat_11,,Specify Column: target,data,0,253,254,1
+2699,dat_11,,Specify Column: target,data,0,255,256,1
+2699,dat_11,,Specify Column: target,data,0,258,263,1
+2699,log_2,,Visit Page ,logging,2,288,289,1
+2699,dat_1,,New Network,data,0,291,292,1
+2699,dat_2_LT,,Upload new Link table,data,0,304,305,1
+2699,dat_2,,upload data,data,0,317,320,1
+2699,dat_11,,Specify Column: target,data,0,323,324,1
+2699,dat_11,,Specify Column: target,data,0,325,326,1
+2699,dat_11,,Specify Column: target,data,0,336,337,1
+2699,dat_2,,upload data,data,0,341,342,1
+2699,dat_2,,upload data,data,0,347,348,1
+2699,dat_11,,Specify Column: target,data,0,357,358,1
+2699,vis_1,,Visualization Link,visualization,1,372,373,1
+2699,log_2,Node-Link,Visit Page Node-Link,logging,2,373,374,1
+2699,vis_32,Node-Link,Link,visualization,1,383,384,1
+2699,vis_41,Node-Link,Zoom,visualization,1,384,385,1
+2699,vis_32,Node-Link,Link,visualization,1,385,387,1
+2699,vis_41,Node-Link,Zoom,visualization,1,386,387,1
+2699,vis_32,Node-Link,Link,visualization,1,424,425,1
+2699,vis_41,Node-Link,Zoom,visualization,1,424,425,1
+2699,vis_32,Node-Link,Link,visualization,1,424,425,1
+2699,vis_41,Node-Link,Zoom,visualization,1,425,426,1
+2699,vis_32,Node-Link,Link,visualization,1,425,426,1
+2699,vis_32,Node-Link,Link,visualization,1,431,433,1
+2699,vis_30,Node-Link,Node,visualization,1,432,434,1
+2699,vis_32,Node-Link,Link,visualization,1,433,434,1
+2699,vis_30,Node-Link,Node,visualization,1,433,434,1
+2699,vis_32,Node-Link,Link,visualization,1,433,434,1
+2699,vis_30,Node-Link,Node,visualization,1,433,434,1
+2699,vis_32,Node-Link,Link,visualization,1,433,434,1
+2699,vis_30,Node-Link,Node,visualization,1,433,434,1
+2699,vis_32,Node-Link,Link,visualization,1,433,434,1
+2699,vis_30,Node-Link,Node,visualization,1,433,435,1
+2699,vis_32,Node-Link,Link,visualization,1,434,436,1
+2699,vis_30,Node-Link,Node,visualization,1,435,437,1
+2699,vis_32,Node-Link,Link,visualization,1,436,437,1
+2699,vis_30,Node-Link,Node,visualization,1,436,437,1
+2699,vis_32,Node-Link,Link,visualization,1,436,437,1
+2699,vis_31,Node-Link,Link_click,visualization,1,436,437,1
+2699,vis_32,Node-Link,Link,visualization,1,436,439,1
+2699,vis_30,Node-Link,Node,visualization,1,439,440,1
+2699,vis_32,Node-Link,Link,visualization,1,439,440,1
+2699,vis_30,Node-Link,Node,visualization,1,439,440,1
+2699,vis_32,Node-Link,Link,visualization,1,440,443,1
+2699,vis_41,Node-Link,Zoom,visualization,1,447,449,1
+2699,vis_32,Node-Link,Link,visualization,1,448,450,1
+2699,vis_9,Node-Link,Nodelink Labeling-Automatic/importance,visualization,1,464,465,1
+2699,vis_9,Node-Link,Nodelink Labeling-Hide All,visualization,1,465,466,1
+2699,vis_9,Node-Link,Nodelink Labeling-Show All,visualization,1,466,467,1
+2699,vis_41,Node-Link,Zoom,visualization,1,467,471,1
+2699,vis_32,Node-Link,Link,visualization,1,470,471,1
+2699,vis_41,Node-Link,Zoom,visualization,1,470,472,1
+2699,vis_32,Node-Link,Link,visualization,1,471,473,1
+2699,vis_32,Node-Link,Link,visualization,1,478,480,1
+2699,vis_32,Node-Link,Link,visualization,1,482,484,1
+2699,vis_41,Node-Link,Zoom,visualization,1,483,484,1
+2699,vis_32,Node-Link,Link,visualization,1,483,484,1
+2699,vis_41,Node-Link,Zoom,visualization,1,483,484,1
+2699,vis_32,Node-Link,Link,visualization,1,483,486,1

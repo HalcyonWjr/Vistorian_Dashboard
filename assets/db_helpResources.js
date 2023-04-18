@@ -15,13 +15,13 @@ const chart7 = {
   "mark": {
     "type": "bar",
     "height": {"band": 0.85},
-    "tooltip":true
+    "tooltip": true
   },
   "encoding": {
     "x": {
       "aggregate": "sum",
       "field": "percbyFeature",
-      "axis":{"format": ".0%", "domain":  false, "labelFontSize":12, "grid": true, "gridDash": [6,3]},
+      "axis":{"format": ".0%", "domain": [0,1], "labelFontSize":12, "grid": true, "gridDash": [6,3]},
       "title": null
     },
     "y": {
@@ -32,7 +32,12 @@ const chart7 = {
       },
     "color": {
       "field": "helpResource"
-    }
+    },
+    "tooltip": [
+      {"field": "userType", "type": "nominal"},
+      {"field": "helpResource", "type": "nominal"},
+      {"field": "percbyFeature", "type": "quantitative", "format": ".2%"}     
+    ]
   }
 ,
 

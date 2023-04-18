@@ -1,0 +1,375 @@
+usrID,logID,view,event,category,index,start,end,userSession,userID+session,session
+2596,dat_1,,New Network,data,0,0,1,1,2596_1,1
+2596,dat_2_NT,,Upload new Node table,data,0,404,405,1,2596_1,1
+2596,dat_2,,upload data,data,0,418,419,1,2596_1,1
+2596,dat_2,,upload data,data,0,425,426,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,449,450,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,469,470,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,491,492,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,494,495,1,2596_1,1
+2596,vis_1,,Visualization Link,visualization,1,509,510,1,2596_1,1
+2596,log_2,Node-Link,Visit Page Node-Link,logging,2,511,513,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,519,524,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,537,538,1,2596_1,1
+2596,log_2,,Visit Page ,logging,2,542,543,1,2596_1,1
+2596,dat_1,,New Network,data,0,549,550,1,2596_1,1
+2596,dat_2_NT,,Upload new Node table,data,0,562,563,1,2596_1,1
+2596,dat_2,,upload data,data,0,570,571,1,2596_1,1
+2596,dat_2,,upload data,data,0,573,574,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,584,585,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,588,589,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,592,593,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,595,596,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,599,600,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,602,603,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,606,607,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,608,609,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,612,613,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,616,617,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,621,622,1,2596_1,1
+2596,dat_11,,Specify Column: Add Relation,data,0,633,634,1,2596_1,1
+2596,vis_1,,Visualization Link,visualization,1,643,644,1,2596_1,1
+2596,log_2,Node-Link,Visit Page Node-Link,logging,2,644,646,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,651,652,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,654,656,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,656,660,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,662,664,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,665,666,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,666,668,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,667,668,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,667,668,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,679,683,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,682,683,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,688,689,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,688,689,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,688,689,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,733,737,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,737,739,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,738,739,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,738,740,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,739,740,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,743,745,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,747,748,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,748,749,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,748,749,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,748,749,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,749,750,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,776,779,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,779,783,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,782,783,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,782,783,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,782,783,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,782,784,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,784,786,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,792,796,1,2596_1,1
+2596,vis_30,Node-Link,Node,visualization,1,811,812,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,823,828,1,2596_1,1
+2596,vis_32,Node-Link,Link,visualization,1,1476,1477,1,2596_1,1
+2596,vis_41,Node-Link,Zoom,visualization,1,1477,1479,1,2596_1,1
+2596,log_2,,Visit Page ,logging,2,0,1,2,2596_2,2
+2596,log_2,,Visit Page ,logging,2,5,6,2,2596_2,2
+2596,dat_1,,New Network,data,0,6,7,2,2596_2,2
+2596,dat_2_NT,,Upload new Node table,data,0,36,37,2,2596_2,2
+2596,dat_2,,upload data,data,0,66,67,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,87,88,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,89,90,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,97,98,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,99,100,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,102,103,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,106,107,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,110,111,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,113,114,2,2596_2,2
+2596,dat_11,,Specify Column: Add Relation,data,0,115,118,2,2596_2,2
+2596,vis_1,,Visualization Link,visualization,1,133,134,2,2596_2,2
+2596,log_2,Map,Visit Page Map,logging,2,134,135,2,2596_2,2
+2596,vis_41,Map,Zoom,visualization,1,189,190,2,2596_2,2
+2596,vis_41,Map,Zoom,visualization,1,196,197,2,2596_2,2
+2596,log_4,Map,Return to Data View,logging,2,200,201,2,2596_2,2
+2596,log_2,,Visit Page ,logging,2,200,201,2,2596_2,2
+2596,vis_1,,Visualization Link,visualization,1,216,217,2,2596_2,2
+2596,log_2,Node-Link,Visit Page Node-Link,logging,2,218,219,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,226,227,2,2596_2,2
+2596,vis_41,Node-Link,Zoom,visualization,1,229,230,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,230,231,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,233,234,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,236,237,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,238,239,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,246,247,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,249,250,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,253,254,2,2596_2,2
+2596,vis_30,Node-Link,Node,visualization,1,257,258,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,264,265,2,2596_2,2
+2596,vis_31,Node-Link,Link_click,visualization,1,267,268,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,283,284,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,292,293,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,303,304,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,327,328,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,364,365,2,2596_2,2
+2596,vis_32,Node-Link,Link,visualization,1,418,419,2,2596_2,2
+2596,log_2,,Visit Page ,logging,2,0,1,3,2596_3,3
+2596,log_2,,Visit Page ,logging,2,3,4,3,2596_3,3
+2596,dat_1,,New Network,data,0,4,5,3,2596_3,3
+2596,dat_2_NT,,Upload new Node table,data,0,91,92,3,2596_3,3
+2596,log_2,,Visit Page ,logging,2,0,1,4,2596_4,4
+2596,hlp_4,,Vis Example(s),help,3,1,2,4,2596_4,4
+2596,log_2,Node-Link,Visit Page Node-Link,logging,2,2,5,4,2596_4,4
+2596,vis_32,Node-Link,Link,visualization,1,9,10,4,2596_4,4
+2596,log_2,,Visit Page ,logging,2,26,27,4,2596_4,4
+2596,dat_1,,New Network,data,0,115,116,4,2596_4,4
+2596,dat_2_NT,,Upload new Node table,data,0,124,125,4,2596_4,4
+2596,dat_2,,upload data,data,0,284,285,4,2596_4,4
+2596,dat_2,,upload data,data,0,290,291,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,298,299,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,300,301,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,307,308,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,309,310,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,314,315,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,319,320,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,325,326,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,331,332,4,2596_4,4
+2596,dat_11,,Specify Column: Add Relation,data,0,0,1,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,5,6,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,23,24,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,28,29,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,33,34,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,36,37,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,325,326,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,328,329,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,333,334,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,336,337,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,339,340,5,2596_5,5
+2596,dat_11,,Specify Column: Add Relation,data,0,342,343,5,2596_5,5
+2596,log_2,Node-Link,Visit Page Node-Link,logging,2,353,355,5,2596_5,5
+2596,vis_41,Node-Link,Zoom,visualization,1,364,367,5,2596_5,5
+2596,vis_41,Node-Link,Zoom,visualization,1,373,377,5,2596_5,5
+2596,vis_41,Node-Link,Zoom,visualization,1,391,394,5,2596_5,5
+2596,vis_32,Node-Link,Link,visualization,1,393,394,5,2596_5,5
+2596,vis_30,Node-Link,Node,visualization,1,394,395,5,2596_5,5
+2596,vis_32,Node-Link,Link,visualization,1,394,395,5,2596_5,5
+2596,log_4,Node-Link,Return to Data View,logging,2,398,399,5,2596_5,5
+2596,log_2,,Visit Page ,logging,2,398,399,5,2596_5,5
+2596,vis_1,,Visualization Link,visualization,1,419,420,5,2596_5,5
+2596,log_2,Matrix,Visit Page Matrix,logging,2,419,420,5,2596_5,5
+2596,log_4,Matrix,Return to Data View,logging,2,427,428,5,2596_5,5
+2596,log_2,,Visit Page ,logging,2,427,428,5,2596_5,5
+2596,vis_1,,Visualization Link,visualization,1,430,431,5,2596_5,5
+2596,log_2,Timeline,Visit Page Timeline,logging,2,431,432,5,2596_5,5
+2596,vis_41,Timeline,Zoom,visualization,1,435,440,5,2596_5,5
+482,dat_2_DT,,Upload Data Tables,data,0,0,1,1,482_1,6
+482,dat_1,,New Network,data,0,14,15,1,482_1,6
+482,bkm_8,,bookmark window,bookmarking,6,46,47,1,482_1,6
+482,dat_3_LK,,Select previous Link table,data,0,55,56,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,98,99,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,106,107,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,108,109,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,113,115,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,124,125,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,128,129,1,482_1,6
+482,dat_11,,Specify Column: location_source,data,0,139,140,1,482_1,6
+482,vis_1,Node-Link,Visualization Link,visualization,1,251,252,1,482_1,6
+482,bkm_8,Node-Link,bookmark window,bookmarking,6,252,253,1,482_1,6
+482,log_2,,Visit Page ,logging,2,254,255,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,301,303,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,303,304,1,482_1,6
+482,vis_30,Node-Link,Node,visualization,1,303,304,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,303,304,1,482_1,6
+482,vis_30,Node-Link,Node,visualization,1,304,305,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,304,307,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,306,307,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,306,309,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,308,312,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,315,319,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,326,327,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,351,352,1,482_1,6
+482,bkm_8,Node-Link,bookmark window,bookmarking,6,360,361,1,482_1,6
+482,bkm_8,Node-Link,bookmark window,bookmarking,6,372,373,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,374,376,1,482_1,6
+482,vis_9,Node-Link,Nodelink Labeling-Automatic/importance,visualization,1,377,378,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,378,380,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,382,386,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,426,427,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,472,473,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,505,508,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,512,514,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,515,517,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,525,527,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,528,541,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,545,548,1,482_1,6
+482,vis_31,Node-Link,Link_click,visualization,1,547,548,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,549,550,1,482_1,6
+482,vis_30,Node-Link,Node,visualization,1,549,550,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,549,550,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,550,551,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,551,552,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,554,555,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,571,573,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,573,574,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,574,575,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,574,575,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,578,579,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,579,580,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,586,587,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,638,640,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,639,642,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,641,646,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,659,661,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,740,745,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,752,753,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,778,781,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,786,788,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,787,788,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,788,789,1,482_1,6
+482,log_4,Node-Link,Return to Data View,logging,2,789,790,1,482_1,6
+482,err,,Error Type,error,5,791,792,1,482_1,6
+482,bkm_8,,bookmark window,bookmarking,6,791,792,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,794,799,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,817,818,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,849,853,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,853,854,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,853,854,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,853,854,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,853,854,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,854,855,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,854,856,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,857,862,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,881,883,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,905,907,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,920,921,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,928,930,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1047,1048,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1066,1067,1,482_1,6
+482,log_12,Node-Link,Close Webpage/End of Activity,logging,2,1070,1071,1,482_1,6
+482,dat_1,,New Network,data,0,1083,1084,1,482_1,6
+482,dat_4,,x (delete),data,0,1086,1087,1,482_1,6
+482,vis_1,Node-Link,Visualization Link,visualization,1,1096,1097,1,482_1,6
+482,bkm_8,Node-Link,bookmark window,bookmarking,6,1097,1098,1,482_1,6
+482,log_2,,Visit Page ,logging,2,1098,1099,1,482_1,6
+482,log_12,,Close Webpage/End of Activity,logging,2,1109,1110,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,1113,1114,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1114,1117,1,482_1,6
+482,vis_31,Node-Link,Link_click,visualization,1,1116,1118,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1117,1124,1,482_1,6
+482,vis_31,Node-Link,Link_click,visualization,1,1124,1125,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1124,1126,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,1125,1128,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1128,1129,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1178,1186,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1199,1202,1,482_1,6
+482,vis_31,Node-Link,Link_click,visualization,1,1201,1202,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1201,1202,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1264,1265,1,482_1,6
+482,vis_1,Matrix,Visualization Link,visualization,1,1272,1273,1,482_1,6
+482,err,Matrix,Error Type,error,5,1273,1274,1,482_1,6
+482,log_2,Matrix,Visit Page Matrix,logging,2,1275,1276,1,482_1,6
+482,bkm_8,Matrix,bookmark window,bookmarking,6,1275,1276,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1354,1355,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1358,1359,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1360,1361,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1600,1602,1,482_1,6
+482,vis_43,Matrix,Temporal Exploration (move),visualization,1,1653,1654,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1690,1693,1,482_1,6
+482,vis_35,Matrix,Ordering Algorithm,visualization,1,1695,1696,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1697,1698,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1702,1703,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1740,1741,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1749,1750,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1751,1752,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1754,1755,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1814,1815,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1819,1821,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1830,1831,1,482_1,6
+482,vis_43,Matrix,Temporal Exploration (move),visualization,1,1837,1838,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1838,1839,1,482_1,6
+482,vis_35,Matrix,Ordering Algorithm,visualization,1,1865,1866,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1873,1874,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1875,1876,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1878,1879,1,482_1,6
+482,vis_43,Matrix,Temporal Exploration (move),visualization,1,1883,1884,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1884,1885,1,482_1,6
+482,vis_34,Matrix,Zoom Slider,visualization,1,1887,1888,1,482_1,6
+482,vis_35,Matrix,Ordering Algorithm,visualization,1,1896,1897,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1897,1898,1,482_1,6
+482,vis_36,Matrix,Re-Run button,visualization,1,1899,1900,1,482_1,6
+482,vis_1,Matrix,Visualization Link,visualization,1,1923,1924,1,482_1,6
+482,bkm_8,Coordinated,bookmark window,bookmarking,6,1924,1925,1,482_1,6
+482,log_2,,Visit Page ,logging,2,1925,1927,1,482_1,6
+482,vis_30,Node-Link,Node,visualization,1,1942,1943,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1943,1945,1,482_1,6
+482,vis_30,Node-Link,Node,visualization,1,1944,1945,1,482_1,6
+482,vis_41,Node-Link,Zoom,visualization,1,1946,1948,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1949,1958,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1961,1968,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1970,1974,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,1976,1977,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2051,2052,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2075,2077,1,482_1,6
+482,vis_34,Node-Link,Zoom Slider,visualization,1,2088,2089,1,482_1,6
+482,vis_34,Node-Link,Zoom Slider,visualization,1,2091,2092,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2092,2094,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2105,2107,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2185,2186,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2188,2189,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2215,2216,1,482_1,6
+482,vis_1,Timeline,Visualization Link,visualization,1,2218,2219,1,482_1,6
+482,bkm_8,Timeline,bookmark window,bookmarking,6,2219,2220,1,482_1,6
+482,log_2,Timeline,Visit Page Timeline,logging,2,2221,2222,1,482_1,6
+482,dat_3_LO,,Select previous Location table,data,0,2443,2444,1,482_1,6
+482,vis_1,Map,Visualization Link,visualization,1,2515,2516,1,482_1,6
+482,bkm_8,Map,bookmark window,bookmarking,6,2516,2517,1,482_1,6
+482,log_2,Map,Visit Page Map,logging,2,2517,2518,1,482_1,6
+482,vis_41,Map,Zoom,visualization,1,2536,2538,1,482_1,6
+482,vis_41,Map,Zoom,visualization,1,2553,2555,1,482_1,6
+482,vis_41,Map,Zoom,visualization,1,2567,2568,1,482_1,6
+482,vis_41,Map,Zoom,visualization,1,2614,2615,1,482_1,6
+482,vis_43,Map,Temporal Exploration (move),visualization,1,2645,2646,1,482_1,6
+482,vis_43,Map,Temporal Exploration (move),visualization,1,2710,2711,1,482_1,6
+482,vis_43,Map,Temporal Exploration (move),visualization,1,2728,2729,1,482_1,6
+482,vis_41,Map,Zoom,visualization,1,2811,2813,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2939,2940,1,482_1,6
+482,vis_32,Node-Link,Link,visualization,1,2950,2953,1,482_1,6
+482,log_12,,Close Webpage/End of Activity,logging,2,0,3,2,482_2,7
+482,log_2,,Visit Page ,logging,2,0,1,3,482_3,8
+482,err,,Error Type,error,5,22,23,3,482_3,8
+482,bkm_8,,bookmark window,bookmarking,6,23,24,3,482_3,8
+482,vis_1,,Visualization Link,visualization,1,351,352,3,482_3,8
+482,bkm_8,Coordinated,bookmark window,bookmarking,6,352,353,3,482_3,8
+482,log_2,,Visit Page ,logging,2,355,356,3,482_3,8
+482,vis_30,Node-Link,Node,visualization,1,361,362,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,363,364,3,482_3,8
+482,vis_41,Node-Link,Zoom,visualization,1,364,366,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,365,367,3,482_3,8
+482,vis_30,Node-Link,Node,visualization,1,369,370,3,482_3,8
+482,vis_41,Node-Link,Zoom,visualization,1,370,371,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,371,372,3,482_3,8
+482,vis_41,Node-Link,Zoom,visualization,1,373,374,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,374,376,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,383,384,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,387,390,3,482_3,8
+482,vis_41,Node-Link,Zoom,visualization,1,391,392,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,392,393,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,395,396,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,418,419,3,482_3,8
+482,vis_32,Node-Link,Link,visualization,1,448,450,3,482_3,8
+482,vis_41,Node-Link,Zoom,visualization,1,450,453,3,482_3,8
+482,log_12,,Close Webpage/End of Activity,logging,2,0,1,4,482_4,9
+411,dat_2_LK,,Upload new Link table,data,0,0,1,1,411_1,10
+411,log_12,,Close Webpage/End of Activity,logging,2,136,137,1,411_1,10
+411,log_2,,Visit Page ,logging,2,0,1,2,411_2,11
+411,hlp_3,,Play Video,help,3,32,33,2,411_2,11
+411,err,,Error Type,error,5,105,106,2,411_2,11
+411,bkm_8,,bookmark window,bookmarking,6,124,125,2,411_2,11
+411,log_12,,Close Webpage/End of Activity,logging,2,127,128,2,411_2,11
+411,dat_5,,Delete Network,data,0,127,128,2,411_2,11
+411,hlp_3,,Play Video,help,3,910,911,2,411_2,11
+411,hlp_3,,Play Video,help,3,931,932,2,411_2,11
+411,hlp_2,,Data Formatting,help,3,937,938,2,411_2,11
+411,hlp_3,,Play Video,help,3,1051,1052,2,411_2,11
+411,hlp_3,,Play Video,help,3,1189,1190,2,411_2,11
+411,hlp_3,,Play Video,help,3,1282,1283,2,411_2,11
+411,hlp_3,,Play Video,help,3,1311,1312,2,411_2,11
+411,hlp_3,,Play Video,help,3,1472,1473,2,411_2,11
+411,hlp_3,,Play Video,help,3,0,1,3,411_3,12
+411,hlp_3,,Play Video,help,3,0,1,4,411_4,13
+411,hlp_3,,Play Video,help,3,0,1,5,411_5,14
+411,hlp_3,,Play Video,help,3,6,7,5,411_5,14
+411,hlp_3,,Play Video,help,3,27,28,5,411_5,14

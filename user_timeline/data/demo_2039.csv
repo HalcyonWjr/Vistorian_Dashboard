@@ -1,0 +1,241 @@
+﻿user,ts,category,action,label,value,ip,referer
+2039,1646576031512,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/dataview?session=0
+2039,1646576031512,log_2,load,webpage,/dataview,90.90.210.78,https://vistorian.net/dataview?session=0
+2039,1646576037194,dat_1,data view,new network,created,90.90.210.78,https://vistorian.net/dataview?session=0
+2039,1646576059546,hlp_8,dataview,tutorials,click,90.90.210.78,https://vistorian.net/dataview?session=0
+2039,1646576576786,log_2,index,webpage,load,90.90.210.78,https://vistorian.net/
+2039,1646576583428,hlp_4,index,Node Link Example,click,90.90.210.78,https://vistorian.net/
+2039,1646576583828,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646576583828,log_2,load,webpage,/nodelink/,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646576584422,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576584422,log_2,node link,webpage,load,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576590472,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576590811,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576590868,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576590994,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576591884,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576592174,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576592260,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576592394,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576592782,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576592847,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576592899,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576593032,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576593088,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576593249,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576593322,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576593593,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576594207,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576594274,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576597008,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576597598,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576597658,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576598185,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576598299,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576598361,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576598989,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576599407,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576599452,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576600283,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576600410,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576601361,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576601925,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576602782,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576602864,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576602925,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576602950,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646576602970,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576603048,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576603114,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576603143,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646576603175,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576603225,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576603258,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646576627236,log_4,/nodelink/,Return to Data View Button,Clicked,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646576627375,log_2,load,webpage,/dataview,90.90.210.78,https://vistorian.net/dataview?session=0&datasetName=demo_scientists
+2039,1646576634469,log_2,index,webpage,load,90.90.210.78,https://vistorian.net/
+2039,1646576643108,log_2,load,webpage,/dataview,90.90.210.78,https://vistorian.net/dataview?session=0&datasetName=demo_scientists
+2039,1646576648403,log_2,load,webpage,/nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576648869,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576648869,log_2,node link,webpage,load,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576680790,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576681590,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576681682,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576682805,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576682948,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683042,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683127,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683192,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683271,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683367,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683445,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683523,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683608,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683700,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683786,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683874,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576683957,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576684046,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576684121,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576684208,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576684297,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576684386,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576685431,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576685513,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698011,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698194,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698267,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698345,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698399,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698448,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698660,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698746,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698830,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698870,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698908,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698952,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576698987,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576699093,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576699188,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576699222,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576699225,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576699287,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576699328,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576699360,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576699386,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576699875,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576699917,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576699977,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576700043,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576700061,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576700115,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576700188,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576700220,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576700255,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576700284,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576700360,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576700397,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576701466,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576701532,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576701561,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576701639,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576701749,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576701779,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576701845,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576701937,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576701979,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576702003,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702029,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576702055,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702098,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576702577,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702608,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576702696,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702734,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576702775,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702850,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702891,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576702920,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576702937,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576702998,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703093,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703135,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576703169,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703203,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576703237,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703278,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576703359,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703423,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703462,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576703489,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703512,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576703566,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703606,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576703663,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703752,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703783,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576703852,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703900,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576703933,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576703980,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576704186,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704265,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704306,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576704323,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704395,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704445,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576704479,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704523,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576704556,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704598,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576704615,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/
+2039,1646576704647,vis_41,zoom,True,nodelink,90.90.210.78,https://vistorian.net/nodelink?session=0&datasetName=demo_scientists
+2039,1646576704806,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576705339,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576706405,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576706622,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576706679,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576707256,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576708691,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576709175,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646576709256,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646663917904,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/
+2039,1646663917904,log_2,index,webpage,load,90.90.210.78,https://vistorian.net/
+2039,1646663921264,hlp_4,index,Node Link Example,click,90.90.210.78,https://vistorian.net/
+2039,1646663921494,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646663921494,log_2,load,webpage,/nodelink/,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=demo_scientists
+2039,1646663921869,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1646663921869,log_2,node link,webpage,load,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=demo_scientists
+2039,1647437823479,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/
+2039,1647437823479,log_2,index,webpage,load,90.90.210.78,https://vistorian.net/
+2039,1647437827916,hlp_4,index,Node Link Example,click,90.90.210.78,https://vistorian.net/
+2039,1647437829099,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2039,1647437829099,log_2,load,webpage,/nodelink/,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2039,1647437829694,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437829694,log_2,node link,webpage,load,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437835589,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437836124,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437837056,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437838573,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437838883,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437839319,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437839908,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437840441,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437840582,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437841045,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437841213,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437841744,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437842592,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437843164,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437843804,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437843921,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437845068,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437845973,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437846440,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437846625,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437846837,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437846999,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437847196,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437847625,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437848018,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437848255,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437848546,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437857540,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437858006,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437858707,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437859267,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,90.90.210.78,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2039,1647437863372,log_4,/nodelink/,Return to Data View Button,Clicked,90.90.210.78,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2039,1647437863581,log_2,load,webpage,/dataview/,90.90.210.78,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2039,1647437886978,vis_1,data view,Create Visualization,map,90.90.210.78,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2039,1647437888475,_trace,document.location,href,0dca6cbd-5bd6-4088-821c-d285ce22b30f,90.90.210.78,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2039,1647437888476,log_2,load,webpage,/map/,90.90.210.78,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2039,1647437906447,vis_41,zoom,True,map,90.90.210.78,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2039,1647437906453,vis_41,zoom,True,map,90.90.210.78,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2039,1647437906651,vis_41,zoom,True,map,90.90.210.78,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2039,1647437906656,vis_41,zoom,True,map,90.90.210.78,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2039,1647437912941,log_4,/map/,Return to Data View Button,Clicked,90.90.210.78,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2039,1647437912998,log_2,load,webpage,/dataview/,90.90.210.78,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2039,1647437948838,hlp_8,dataview,tutorials,click,90.90.210.78,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2039,1647441627926,log_2,index,webpage,load,90.90.210.78,https://vistorian.net/
+2039,1647441673910,log_2,index,webpage,load,90.90.210.78,https://vistorian.net/
+2039,1647444184931,log_2,load,webpage,/dataview/,90.90.210.78,https://vistorian.net/dataview/?session=0

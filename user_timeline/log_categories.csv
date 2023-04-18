@@ -1,0 +1,116 @@
+﻿log_ID,log_title,log_category
+_trace,_trace_log,logging
+log,log,logging
+log_1,landing first time in any Vistorian page,logging
+log_2,Visiting any Visitorian Page,logging
+log_3,My Session,logging
+log_4,Return to Data View,logging
+log_11,Session ID,logging
+log_5,Bookmark_Consent_Display,logging
+log_6,Email Entered,logging
+log_7,download Consent,logging
+log_8,Email Me Questionnaire,logging
+log_9,Accept Consent,logging
+log_10,Disable Logging,logging
+log_11,Show/Hide SessionID,logging
+log_12,Close Webpage/End of Activity,logging
+log_13,No Activity,logging
+1og_17,Page on Focus,logging
+log_18,Page on Blur,logging
+log_14,Open Feedback Form,logging
+log_15,Feedback Completion,logging
+log_16,Feedback Cancelation,logging
+log_17,Support Form Completion,logging
+log_18,Support Form Cancellation,logging
+dat_1,New Network,data
+dat_2,upload data,data
+dat_2_DT,Upload Data Tables,data
+dat_2_LK,Upload new Link table,data
+dat_2_NT,Upload new Node table,data
+dat_2_LO,Upload new Location table,data
+dat_2_LT,Upload new Link table,data
+dat_3_LK,Select previous Link table,data
+dat_3_NT,Select previous Node table,data
+dat_3_LO,Select previous Location table,data
+dat_4,x (delete),data
+dat_5,Delete Network,data
+dat_6,Empty Browser Cache,data
+dat_7,download network data,data
+dat_8,Export CSV file,data
+dat_9,Change Network Name,data
+dat_10,Table's Data Cell ,data
+dat_11,Specify Column: ,data
+dat_12,Directed ,data
+dat_13,Update location coordinates,data
+dat_14,Extract locations from node and link tables,data
+dat_15,Search,data
+dat_16,Sorting by Table Header,data
+dat_17,Network save,data
+dat_18,network readiness status,data
+dat_19,Network size,data
+vis_1,Visualization Link,visualization
+vis_2,Save Visualziation,visualization
+vis_3,Email Visualization,visualization
+vis_4,Link Opacity,visualization
+vis_5,Node Opacity,visualization
+vis_6,Node Size,visualization
+vis_7,Edge Gap,visualization
+vis_8,Link Width,visualization
+vis_9,Nodelink Labeling,visualization
+vis_10,Search,visualization
+vis_11,Find,visualization
+vis_12,Clear Search,visualization
+vis_13,Add Node/link,visualization
+vis_14,Show/Hide Node/link,visualization
+vis_15,Color show/hide (Node),visualization
+vis_16,Color Change (Node),visualization
+vis_17,x (delete) Node Group,visualization
+vis_18,Up-Arrow  Node Group,visualization
+vis_19,Down-Arrow Node Group,visualization
+vis_22,Color show/hide Link,visualization
+vis_23,Color Change Link,visualization
+vis_24,x (delete) Link Group,visualization
+vis_25,Up-Arrow  Link Group,visualization
+vis_26,Down-Arrow Link Group,visualization
+vis_27,Temporal Exploration (Min Value),visualization
+vis_43,Temporal Exploration (move),visualization
+vis_28,Temporal Exploration (Max Value),visualization
+vis_29,Node,visualization
+vis_30,Node,visualization
+vis_31,Link,visualization
+vis_32,Link,visualization
+vis_33,Unfilltering,visualization
+vis_34,Zoom Slider,visualization
+vis_35,Ordering Algorithm,visualization
+vis_36,Re-Run button,visualization
+vis_37,Label Ordering,visualization
+vis_38,Node Overlap,visualization
+vis_39,Link Opacity,visualization
+vis_40,Opacity of Positionless Nodes,visualization
+vis_41,Zoom,visualization
+vis_42,Satellite,visualization
+hlp_1,Network Manual,help
+hlp_2,Data Formatting,help
+hlp_3,Play Video,help
+hlp_4,Vis Example(s),help
+hlp_5,Data Example,help
+hlp_6,Demo,help
+hlp_7,Visualization Link❗️,help
+hlp_8,Tutorials,help
+com_1,GitHub,communication
+com_2,Contact,communication
+com_3,Consult Team,communication
+com_4,Report TechBug,communication
+err,Error Type,error
+bkm_1,Add New Bookmark,bookmarking
+bkm_2,bookmark changes/updates,bookmarking
+bkm_3,bookmark type specified,bookmarking
+bkm_4,single bookmark,bookmarking
+bkm_5,bookmark state,bookmarking
+bkm_6,bookmark analysis type,bookmarking
+bkm_7,bookmarks view option selected,bookmarking
+bkm_8,bookmark window,bookmarking
+bkm_9,Bookmarks file exported,bookmarking
+bkm_10,Bookmarks file imported,bookmarking
+bkm_11,New Bookmark Created ,bookmarking
+bkm_12,New Bookmark Created ,bookmarking

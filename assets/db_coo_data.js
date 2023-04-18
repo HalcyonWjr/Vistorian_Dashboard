@@ -22,18 +22,18 @@ const coo_data = {
           "paddingInner": 0.2,
           "paddingOuter": 0.3
         },
-        "sort": {"field": "count", "order":"descending"},
+        "sort": {"field": "value", "order":"descending"},
         "axis":{"labelAlign":"left", "labelPadding":85, "ticks":false, "zindex": 1, "domainWidth":1.2, "domainColor":"black", "labelFontSize":12}},
-      "x":{"field":"count", "type":"quantitative", "axis":null, "stack": null}
+      "x":{"field":"value", "type":"quantitative", "axis":null, "stack": null}
     },
   
     "layer": [{
         "mark": {"type": "bar", "color": "#CFE6FF"},
-        "encoding": {"x": {"field": "count", "type":"quantitative"}}
+        "encoding": {"x": {"field": "value", "type":"quantitative"}}
       },
       {
         "mark": {"type": "text", "align": "left", "dx": 6},
-        "encoding": {"text": {"field": "count", "type": "quantitative"}}
+        "encoding": {"text": {"field": "value", "type": "quantitative"}}
       }],
   
       "config": {

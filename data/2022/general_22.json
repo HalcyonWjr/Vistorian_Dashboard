@@ -1,0 +1,1849 @@
+{
+	"userComposition":
+    {
+        "total":1370,
+        "value": 
+        [
+            {"userType":"demo","userNum":961},
+            {"userType":"data_struggler","userNum":98},
+            {"userType":"ss_explorer","userNum":151},
+            {"userType":"ms_explorer","userNum":160}
+        ]
+    },
+
+    "usersOnline":{
+        "perDay":5,
+        "perWeek":32,
+        "perMonth":137
+    },
+  
+  "monthlyUserSessions":
+    [
+      {"date":"2021-08","monthlyUser":118},
+      {"date":"2021-09","monthlyUser":159},
+      {"date":"2021-10","monthlyUser":124},
+      {"date":"2021-11","monthlyUser":88},
+      {"date":"2021-12","monthlyUser":121},
+      {"date":"2022-01","monthlyUser":233},
+      {"date":"2022-02","monthlyUser":275},
+      {"date":"2022-03","monthlyUser":273},
+      {"date":"2022-04","monthlyUser":207},
+      {"date":"2022-05","monthlyUser":172},
+      {"date":"2022-06","monthlyUser":199},
+      {"date":"2022-07","monthlyUser":121}
+    ],
+	
+	"monthlyUserSessions_completedata":
+    [
+        {"date":"2021-01","monthlyUser":0},
+        {"date":"2021-02","monthlyUser":31},
+        {"date":"2021-03","monthlyUser":21},
+        {"date":"2021-04","monthlyUser":18},
+        {"date":"2021-05","monthlyUser":23},
+        {"date":"2021-06","monthlyUser":50},
+        {"date":"2021-07","monthlyUser":92},
+        {"date":"2021-08","monthlyUser":118},
+        {"date":"2021-09","monthlyUser":159},
+        {"date":"2021-10","monthlyUser":124},
+        {"date":"2021-11","monthlyUser":88},
+        {"date":"2021-12","monthlyUser":121},
+        {"date":"2022-01","monthlyUser":233},
+        {"date":"2022-02","monthlyUser":275},
+        {"date":"2022-03","monthlyUser":273},
+        {"date":"2022-04","monthlyUser":207},
+        {"date":"2022-05","monthlyUser":172},
+        {"date":"2022-06","monthlyUser":199},
+        {"date":"2022-07","monthlyUser":121},
+        {"date":"2022-08","monthlyUser":17}
+    ],
+
+    "averageSessionTime":{
+        "unit":"minutes",
+        "allUser": 127,   
+        "value":[{
+            "userType":"Demo", 
+            "min":0.09,
+            "q1":0.46,
+            "ave":5.46,
+            "q3":6.44,
+            "max":59.57
+        },{
+            "userType":"Data_Struggler", 
+            "min":0.1,
+            "q1":1.38,
+            "ave":12.32,
+            "q3":18.28,
+            "max":75.23
+        },{
+            "userType":"SS_Explorer",
+            "min":0.12,
+            "q1":5.06,
+            "ave":21.01,
+            "q3":30.27,
+            "max":184.58
+        },{
+            "userType":"MS_Explorer",
+            "min":0.09,
+            "q1":1.87,
+            "ave":16.41,
+            "q3":22.47,
+            "max":210.62
+        }]
+    },
+
+    "returningUsers": [
+        {"category": "returning user", "value": 271},
+        {"category": "non returning", "value": 1099}
+      ],
+
+    "returnRate": [
+      {"date":"2021-08","returning":46, "nonReturning":72},
+      {"date":"2021-09","returning":59, "nonReturning":100},
+      {"date":"2021-10","returning":67, "nonReturning":57},
+      {"date":"2021-11","returning":17, "nonReturning":71},
+      {"date":"2021-12","returning":35, "nonReturning":86},
+      {"date":"2022-01","returning":114, "nonReturning":119},
+      {"date":"2022-02","returning":162, "nonReturning":113},
+      {"date":"2022-03","returning":155, "nonReturning":118},
+      {"date":"2022-04","returning":123, "nonReturning":84},
+      {"date":"2022-05","returning":92, "nonReturning":80},
+      {"date":"2022-06","returning":118, "nonReturning":81},
+      {"date":"2022-07","returning":82, "nonReturning":39}
+      ],
+
+
+    "returnRate_completedata": [
+        {"date":"2021-01","returning":0, "nonReturning":0},
+        {"date":"2021-02","returning":29, "nonReturning":2},
+        {"date":"2021-03","returning":17, "nonReturning":4},
+        {"date":"2021-04","returning":17, "nonReturning":1},
+        {"date":"2021-05","returning":21, "nonReturning":2},
+        {"date":"2021-06","returning":38, "nonReturning":12},
+        {"date":"2021-07","returning":43, "nonReturning":49},
+        {"date":"2021-08","returning":46, "nonReturning":72},
+        {"date":"2021-09","returning":59, "nonReturning":100},
+        {"date":"2021-10","returning":67, "nonReturning":57},
+        {"date":"2021-11","returning":17, "nonReturning":71},
+        {"date":"2021-12","returning":35, "nonReturning":86},
+        {"date":"2022-01","returning":114, "nonReturning":119},
+        {"date":"2022-02","returning":162, "nonReturning":113},
+        {"date":"2022-03","returning":155, "nonReturning":118},
+        {"date":"2022-04","returning":123, "nonReturning":84},
+        {"date":"2022-05","returning":92, "nonReturning":80},
+        {"date":"2022-06","returning":118, "nonReturning":81},
+        {"date":"2022-07","returning":82, "nonReturning":39},
+        {"date":"2022-08","returning":8, "nonReturning":9}
+      ],
+
+      "timeline":[
+        {
+          "date": "2021-05-24",
+          "userType": "Demo",
+          "count": 3
+        },
+        {
+          "date": "2021-05-24",
+          "userType": "Data_Strugglers",
+          "count": 5
+        },
+        {
+          "date": "2021-05-24",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-05-24",
+          "userType": "MS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2021-05-31",
+          "userType": "Demo",
+          "count": 6
+        },
+        {
+          "date": "2021-05-31",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-05-31",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-05-31",
+          "userType": "MS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2021-06-07",
+          "userType": "Demo",
+          "count": 4
+        },
+        {
+          "date": "2021-06-07",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-06-07",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-06-07",
+          "userType": "MS_Explorers",
+          "count": 9
+        },
+        {
+          "date": "2021-06-14",
+          "userType": "Demo",
+          "count": 4
+        },
+        {
+          "date": "2021-06-14",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-06-14",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-06-14",
+          "userType": "MS_Explorers",
+          "count": 3
+        },
+        {
+          "date": "2021-06-21",
+          "userType": "Demo",
+          "count": 2
+        },
+        {
+          "date": "2021-06-21",
+          "userType": "Data_Strugglers",
+          "count": 3
+        },
+        {
+          "date": "2021-06-21",
+          "userType": "SS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2021-06-21",
+          "userType": "MS_Explorers",
+          "count": 7
+        },
+        {
+          "date": "2021-06-28",
+          "userType": "Demo",
+          "count": 3
+        },
+        {
+          "date": "2021-06-28",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-06-28",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-06-28",
+          "userType": "MS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-07-05",
+          "userType": "Demo",
+          "count": 5
+        },
+        {
+          "date": "2021-07-05",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-07-05",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-07-05",
+          "userType": "MS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-07-12",
+          "userType": "Demo",
+          "count": 7
+        },
+        {
+          "date": "2021-07-12",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-07-12",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-07-12",
+          "userType": "MS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-07-19",
+          "userType": "Demo",
+          "count": 10
+        },
+        {
+          "date": "2021-07-19",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-07-19",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-07-19",
+          "userType": "MS_Explorers",
+          "count": 5
+        },
+        {
+          "date": "2021-07-26",
+          "userType": "Demo",
+          "count": 25
+        },
+        {
+          "date": "2021-07-26",
+          "userType": "Data_Strugglers",
+          "count": 8
+        },
+        {
+          "date": "2021-07-26",
+          "userType": "SS_Explorers",
+          "count": 11
+        },
+        {
+          "date": "2021-07-26",
+          "userType": "MS_Explorers",
+          "count": 19
+        },
+        {
+          "date": "2021-08-02",
+          "userType": "Demo",
+          "count": 24
+        },
+        {
+          "date": "2021-08-02",
+          "userType": "Data_Strugglers",
+          "count": 3
+        },
+        {
+          "date": "2021-08-02",
+          "userType": "SS_Explorers",
+          "count": 6
+        },
+        {
+          "date": "2021-08-02",
+          "userType": "MS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-08-09",
+          "userType": "Demo",
+          "count": 21
+        },
+        {
+          "date": "2021-08-09",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-08-09",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-08-09",
+          "userType": "MS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2021-08-16",
+          "userType": "Demo",
+          "count": 28
+        },
+        {
+          "date": "2021-08-16",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-08-16",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-08-16",
+          "userType": "MS_Explorers",
+          "count": 3
+        },
+        {
+          "date": "2021-08-23",
+          "userType": "Demo",
+          "count": 13
+        },
+        {
+          "date": "2021-08-23",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-08-23",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-08-23",
+          "userType": "MS_Explorers",
+          "count": 5
+        },
+        {
+          "date": "2021-08-30",
+          "userType": "Demo",
+          "count": 17
+        },
+        {
+          "date": "2021-08-30",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-08-30",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-08-30",
+          "userType": "MS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2021-09-06",
+          "userType": "Demo",
+          "count": 24
+        },
+        {
+          "date": "2021-09-06",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-09-06",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-09-06",
+          "userType": "MS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-09-13",
+          "userType": "Demo",
+          "count": 18
+        },
+        {
+          "date": "2021-09-13",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-09-13",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2021-09-13",
+          "userType": "MS_Explorers",
+          "count": 9
+        },
+        {
+          "date": "2021-09-20",
+          "userType": "Demo",
+          "count": 22
+        },
+        {
+          "date": "2021-09-20",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-09-20",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2021-09-20",
+          "userType": "MS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2021-09-27",
+          "userType": "Demo",
+          "count": 31
+        },
+        {
+          "date": "2021-09-27",
+          "userType": "Data_Strugglers",
+          "count": 4
+        },
+        {
+          "date": "2021-09-27",
+          "userType": "SS_Explorers",
+          "count": 22
+        },
+        {
+          "date": "2021-09-27",
+          "userType": "MS_Explorers",
+          "count": 8
+        },
+        {
+          "date": "2021-10-04",
+          "userType": "Demo",
+          "count": 24
+        },
+        {
+          "date": "2021-10-04",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2021-10-04",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-10-04",
+          "userType": "MS_Explorers",
+          "count": 3
+        },
+        {
+          "date": "2021-10-11",
+          "userType": "Demo",
+          "count": 17
+        },
+        {
+          "date": "2021-10-11",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-10-11",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-10-11",
+          "userType": "MS_Explorers",
+          "count": 12
+        },
+        {
+          "date": "2021-10-18",
+          "userType": "Demo",
+          "count": 16
+        },
+        {
+          "date": "2021-10-18",
+          "userType": "Data_Strugglers",
+          "count": 8
+        },
+        {
+          "date": "2021-10-18",
+          "userType": "SS_Explorers",
+          "count": 8
+        },
+        {
+          "date": "2021-10-18",
+          "userType": "MS_Explorers",
+          "count": 11
+        },
+        {
+          "date": "2021-10-25",
+          "userType": "Demo",
+          "count": 14
+        },
+        {
+          "date": "2021-10-25",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-10-25",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-10-25",
+          "userType": "MS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2021-11-01",
+          "userType": "Demo",
+          "count": 9
+        },
+        {
+          "date": "2021-11-01",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-01",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-01",
+          "userType": "MS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-08",
+          "userType": "Demo",
+          "count": 14
+        },
+        {
+          "date": "2021-11-08",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-08",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-08",
+          "userType": "MS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-15",
+          "userType": "Demo",
+          "count": 13
+        },
+        {
+          "date": "2021-11-15",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2021-11-15",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2021-11-15",
+          "userType": "MS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2021-11-22",
+          "userType": "Demo",
+          "count": 23
+        },
+        {
+          "date": "2021-11-22",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2021-11-22",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-11-22",
+          "userType": "MS_Explorers",
+          "count": 5
+        },
+        {
+          "date": "2021-11-29",
+          "userType": "Demo",
+          "count": 20
+        },
+        {
+          "date": "2021-11-29",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-11-29",
+          "userType": "SS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2021-11-29",
+          "userType": "MS_Explorers",
+          "count": 3
+        },
+        {
+          "date": "2021-12-06",
+          "userType": "Demo",
+          "count": 19
+        },
+        {
+          "date": "2021-12-06",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-12-06",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-12-06",
+          "userType": "MS_Explorers",
+          "count": 7
+        },
+        {
+          "date": "2021-12-13",
+          "userType": "Demo",
+          "count": 24
+        },
+        {
+          "date": "2021-12-13",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-12-13",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-12-13",
+          "userType": "MS_Explorers",
+          "count": 6
+        },
+        {
+          "date": "2021-12-20",
+          "userType": "Demo",
+          "count": 33
+        },
+        {
+          "date": "2021-12-20",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2021-12-20",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-12-20",
+          "userType": "MS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2021-12-27",
+          "userType": "Demo",
+          "count": 13
+        },
+        {
+          "date": "2021-12-27",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2021-12-27",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2021-12-27",
+          "userType": "MS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-01-03",
+          "userType": "Demo",
+          "count": 22
+        },
+        {
+          "date": "2022-01-03",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-01-03",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-01-03",
+          "userType": "MS_Explorers",
+          "count": 3
+        },
+        {
+          "date": "2022-01-10",
+          "userType": "Demo",
+          "count": 19
+        },
+        {
+          "date": "2022-01-10",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-01-10",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-01-10",
+          "userType": "MS_Explorers",
+          "count": 18
+        },
+        {
+          "date": "2022-01-17",
+          "userType": "Demo",
+          "count": 28
+        },
+        {
+          "date": "2022-01-17",
+          "userType": "Data_Strugglers",
+          "count": 3
+        },
+        {
+          "date": "2022-01-17",
+          "userType": "SS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2022-01-17",
+          "userType": "MS_Explorers",
+          "count": 25
+        },
+        {
+          "date": "2022-01-24",
+          "userType": "Demo",
+          "count": 37
+        },
+        {
+          "date": "2022-01-24",
+          "userType": "Data_Strugglers",
+          "count": 8
+        },
+        {
+          "date": "2022-01-24",
+          "userType": "SS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2022-01-24",
+          "userType": "MS_Explorers",
+          "count": 37
+        },
+        {
+          "date": "2022-01-31",
+          "userType": "Demo",
+          "count": 30
+        },
+        {
+          "date": "2022-01-31",
+          "userType": "Data_Strugglers",
+          "count": 11
+        },
+        {
+          "date": "2022-01-31",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-01-31",
+          "userType": "MS_Explorers",
+          "count": 32
+        },
+        {
+          "date": "2022-02-07",
+          "userType": "Demo",
+          "count": 41
+        },
+        {
+          "date": "2022-02-07",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-02-07",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-02-07",
+          "userType": "MS_Explorers",
+          "count": 31
+        },
+        {
+          "date": "2022-02-14",
+          "userType": "Demo",
+          "count": 19
+        },
+        {
+          "date": "2022-02-14",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-02-14",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-02-14",
+          "userType": "MS_Explorers",
+          "count": 24
+        },
+        {
+          "date": "2022-02-21",
+          "userType": "Demo",
+          "count": 39
+        },
+        {
+          "date": "2022-02-21",
+          "userType": "Data_Strugglers",
+          "count": 6
+        },
+        {
+          "date": "2022-02-21",
+          "userType": "SS_Explorers",
+          "count": 6
+        },
+        {
+          "date": "2022-02-21",
+          "userType": "MS_Explorers",
+          "count": 30
+        },
+        {
+          "date": "2022-02-28",
+          "userType": "Demo",
+          "count": 20
+        },
+        {
+          "date": "2022-02-28",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-02-28",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-02-28",
+          "userType": "MS_Explorers",
+          "count": 27
+        },
+        {
+          "date": "2022-03-07",
+          "userType": "Demo",
+          "count": 29
+        },
+        {
+          "date": "2022-03-07",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2022-03-07",
+          "userType": "SS_Explorers",
+          "count": 5
+        },
+        {
+          "date": "2022-03-07",
+          "userType": "MS_Explorers",
+          "count": 25
+        },
+        {
+          "date": "2022-03-14",
+          "userType": "Demo",
+          "count": 34
+        },
+        {
+          "date": "2022-03-14",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2022-03-14",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2022-03-14",
+          "userType": "MS_Explorers",
+          "count": 26
+        },
+        {
+          "date": "2022-03-21",
+          "userType": "Demo",
+          "count": 33
+        },
+        {
+          "date": "2022-03-21",
+          "userType": "Data_Strugglers",
+          "count": 4
+        },
+        {
+          "date": "2022-03-21",
+          "userType": "SS_Explorers",
+          "count": 7
+        },
+        {
+          "date": "2022-03-21",
+          "userType": "MS_Explorers",
+          "count": 32
+        },
+        {
+          "date": "2022-03-28",
+          "userType": "Demo",
+          "count": 38
+        },
+        {
+          "date": "2022-03-28",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-03-28",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-03-28",
+          "userType": "MS_Explorers",
+          "count": 19
+        },
+        {
+          "date": "2022-04-04",
+          "userType": "Demo",
+          "count": 13
+        },
+        {
+          "date": "2022-04-04",
+          "userType": "Data_Strugglers",
+          "count": 7
+        },
+        {
+          "date": "2022-04-04",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-04-04",
+          "userType": "MS_Explorers",
+          "count": 30
+        },
+        {
+          "date": "2022-04-11",
+          "userType": "Demo",
+          "count": 19
+        },
+        {
+          "date": "2022-04-11",
+          "userType": "Data_Strugglers",
+          "count": 3
+        },
+        {
+          "date": "2022-04-11",
+          "userType": "SS_Explorers",
+          "count": 6
+        },
+        {
+          "date": "2022-04-11",
+          "userType": "MS_Explorers",
+          "count": 26
+        },
+        {
+          "date": "2022-04-18",
+          "userType": "Demo",
+          "count": 34
+        },
+        {
+          "date": "2022-04-18",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-04-18",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-04-18",
+          "userType": "MS_Explorers",
+          "count": 16
+        },
+        {
+          "date": "2022-04-25",
+          "userType": "Demo",
+          "count": 23
+        },
+        {
+          "date": "2022-04-25",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-04-25",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-04-25",
+          "userType": "MS_Explorers",
+          "count": 9
+        },
+        {
+          "date": "2022-05-02",
+          "userType": "Demo",
+          "count": 21
+        },
+        {
+          "date": "2022-05-02",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-05-02",
+          "userType": "SS_Explorers",
+          "count": 4
+        },
+        {
+          "date": "2022-05-02",
+          "userType": "MS_Explorers",
+          "count": 10
+        },
+        {
+          "date": "2022-05-09",
+          "userType": "Demo",
+          "count": 28
+        },
+        {
+          "date": "2022-05-09",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-05-09",
+          "userType": "SS_Explorers",
+          "count": 8
+        },
+        {
+          "date": "2022-05-09",
+          "userType": "MS_Explorers",
+          "count": 16
+        },
+        {
+          "date": "2022-05-16",
+          "userType": "Demo",
+          "count": 16
+        },
+        {
+          "date": "2022-05-16",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-05-16",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-05-16",
+          "userType": "MS_Explorers",
+          "count": 19
+        },
+        {
+          "date": "2022-05-23",
+          "userType": "Demo",
+          "count": 16
+        },
+        {
+          "date": "2022-05-23",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-05-23",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-05-23",
+          "userType": "MS_Explorers",
+          "count": 14
+        },
+        {
+          "date": "2022-05-30",
+          "userType": "Demo",
+          "count": 20
+        },
+        {
+          "date": "2022-05-30",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2022-05-30",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2022-05-30",
+          "userType": "MS_Explorers",
+          "count": 13
+        },
+        {
+          "date": "2022-06-06",
+          "userType": "Demo",
+          "count": 20
+        },
+        {
+          "date": "2022-06-06",
+          "userType": "Data_Strugglers",
+          "count": 2
+        },
+        {
+          "date": "2022-06-06",
+          "userType": "SS_Explorers",
+          "count": 8
+        },
+        {
+          "date": "2022-06-06",
+          "userType": "MS_Explorers",
+          "count": 12
+        },
+        {
+          "date": "2022-06-13",
+          "userType": "Demo",
+          "count": 22
+        },
+        {
+          "date": "2022-06-13",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-06-13",
+          "userType": "SS_Explorers",
+          "count": 6
+        },
+        {
+          "date": "2022-06-13",
+          "userType": "MS_Explorers",
+          "count": 20
+        },
+        {
+          "date": "2022-06-20",
+          "userType": "Demo",
+          "count": 25
+        },
+        {
+          "date": "2022-06-20",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-06-20",
+          "userType": "SS_Explorers",
+          "count": 6
+        },
+        {
+          "date": "2022-06-20",
+          "userType": "MS_Explorers",
+          "count": 27
+        },
+        {
+          "date": "2022-06-27",
+          "userType": "Demo",
+          "count": 25
+        },
+        {
+          "date": "2022-06-27",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-06-27",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2022-06-27",
+          "userType": "MS_Explorers",
+          "count": 13
+        },
+        {
+          "date": "2022-07-04",
+          "userType": "Demo",
+          "count": 17
+        },
+        {
+          "date": "2022-07-04",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-07-04",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-07-04",
+          "userType": "MS_Explorers",
+          "count": 14
+        },
+        {
+          "date": "2022-07-11",
+          "userType": "Demo",
+          "count": 15
+        },
+        {
+          "date": "2022-07-11",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-07-11",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-07-11",
+          "userType": "MS_Explorers",
+          "count": 14
+        },
+        {
+          "date": "2022-07-18",
+          "userType": "Demo",
+          "count": 11
+        },
+        {
+          "date": "2022-07-18",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2022-07-18",
+          "userType": "SS_Explorers",
+          "count": 0
+        },
+        {
+          "date": "2022-07-18",
+          "userType": "MS_Explorers",
+          "count": 8
+        },
+        {
+          "date": "2022-07-25",
+          "userType": "Demo",
+          "count": 10
+        },
+        {
+          "date": "2022-07-25",
+          "userType": "Data_Strugglers",
+          "count": 1
+        },
+        {
+          "date": "2022-07-25",
+          "userType": "SS_Explorers",
+          "count": 1
+        },
+        {
+          "date": "2022-07-25",
+          "userType": "MS_Explorers",
+          "count": 12
+        },
+        {
+          "date": "2022-08-01",
+          "userType": "Demo",
+          "count": 10
+        },
+        {
+          "date": "2022-08-01",
+          "userType": "Data_Strugglers",
+          "count": 0
+        },
+        {
+          "date": "2022-08-01",
+          "userType": "SS_Explorers",
+          "count": 2
+        },
+        {
+          "date": "2022-08-01",
+          "userType": "MS_Explorers",
+          "count": 5
+        }
+       ],
+
+    "events":[
+      {
+        "category": "workshop",
+        "start": "2021-06-03",
+        "index": 0,
+        "numOfAttendees": 50,
+        "title": "Visualizing and Exploring Networks with the Vistorian"
+      },
+      {
+        "category": "workshop",
+        "start": "2021-07-28",
+        "index": 1,
+        "numOfAttendees": 55,
+        "title": "Visualizing and Exploring Networks with the Vistorian (Demo)"
+      },
+      {
+        "category": "course info session",
+        "start": "2021-12-10",
+        "index": 2,
+        "numOfAttendees": 11,
+        "title": "Info session 6-weeks course on interactive visual network exploration"
+      },
+      {
+        "category": "course info session",
+        "start": "2021-12-16",
+        "index": 3,
+        "numOfAttendees": 9,
+        "title": "Info session 6-weeks course on interactive visual network exploration"
+      },
+      {
+        "category": "course session",
+        "start": "2022-01-12",
+        "index": 4,
+        "numOfAttendees": 24,
+        "title": "Week 1: Network Data Preparation"
+      },
+      {
+        "category": "course session",
+        "start": "2022-01-19",
+        "index": 5,
+        "numOfAttendees": 24,
+        "title": "Week 2: Extra Session on Network Data Preparation"
+      },
+      {
+        "category": "course session",
+        "start": "2022-01-26",
+        "index": 6,
+        "numOfAttendees": 24,
+        "title": "Week 3: Data Shaping Techniques and Challenges"
+      },
+      {
+        "category": "course session",
+        "start": "2022-02-02",
+        "index": 7,
+        "numOfAttendees": 24,
+        "title": "Week 4: Exploring Networks with Node-link Diagrams"
+      },
+      {
+        "category": "course session",
+        "start": "2022-02-09",
+        "index": 8,
+        "numOfAttendees": 24,
+        "title": "Week 5: Exploring Networks with Adjacency Matrix"
+      },
+      {
+        "category": "course session",
+        "start": "2022-02-16",
+        "index": 9,
+        "numOfAttendees": 24,
+        "title": "Week 6: Exploring Networks with Timeline, Map, and Multi-views"
+      },
+      {
+        "category": "workshop",
+        "start": "2022-06-17",
+        "index": 10,
+        "numOfAttendees": 6,
+        "title": "Visualizing and Exploring Networks with The Vistorian"
+      },
+      {
+        "category": "workshop",
+        "start": "2022-06-23",
+        "index": 11,
+        "numOfAttendees": 15,
+        "title": "Visualizing and Exploring Networks with The Vistorian (Demo)"
+      }
+    ],
+
+     "frequentVisitedFeatures":
+     [
+      {
+        "rank": 1,
+        "category": "Time-Slider",
+        "overall": 72,
+        "userType": "SS_Explorerss",
+        "count": 30,
+        "popularity": 0.416666667
+      },
+      {
+        "rank": 1,
+        "category": "Time-Slider",
+        "overall": 72,
+        "userType": "MS_Explorers",
+        "count": 42,
+        "popularity": 0.583333333
+      },
+      {
+        "rank": 2,
+        "category": "Filter by Link Type",
+        "overall": 5,
+        "userType": "SS_Explorerss",
+        "count": 1,
+        "popularity": 0.2
+      },
+      {
+        "rank": 2,
+        "category": "Filter by Link Type",
+        "overall": 5,
+        "userType": "MS_Explorers",
+        "count": 4,
+        "popularity": 0.8
+      },
+      {
+        "rank": 3,
+        "category": "Filter by Node Type",
+        "overall": 1,
+        "userType": "SS_Explorerss",
+        "count": 0,
+        "popularity": 0
+      },
+      {
+        "rank": 3,
+        "category": "Filter by Node Type",
+        "overall": 1,
+        "userType": "MS_Explorers",
+        "count": 1,
+        "popularity": 1
+      },
+      {
+        "rank": 4,
+        "category": "Matrix Order",
+        "overall": 97,
+        "userType": "SS_Explorerss",
+        "count": 41,
+        "popularity": 0.422680412
+      },
+      {
+        "rank": 4,
+        "category": "Matrix Order",
+        "overall": 97,
+        "userType": "MS_Explorers",
+        "count": 56,
+        "popularity": 0.577319588
+      },
+      {
+        "rank": 5,
+        "category": "Search",
+        "overall": 5,
+        "userType": "SS_Explorerss",
+        "count": 2,
+        "popularity": 0.4
+      },
+      {
+        "rank": 5,
+        "category": "Search",
+        "overall": 5,
+        "userType": "MS_Explorers",
+        "count": 3,
+        "popularity": 0.6
+      },
+      {
+        "rank": 6,
+        "category": "Zoom",
+        "overall": 220,
+        "userType": "SS_Explorerss",
+        "count": 100,
+        "popularity": 0.454545455
+      },
+      {
+        "rank": 6,
+        "category": "Zoom",
+        "overall": 220,
+        "userType": "MS_Explorers",
+        "count": 120,
+        "popularity": 0.545454545
+      },
+      {
+        "rank": 7,
+        "category": "Hover",
+        "overall": 237,
+        "userType": "SS_Explorerss",
+        "count": 109,
+        "popularity": 0.459915612
+      },
+      {
+        "rank": 7,
+        "category": "Hover",
+        "overall": 237,
+        "userType": "MS_Explorers",
+        "count": 128,
+        "popularity": 0.540084388
+      },
+      {
+        "rank": 8,
+        "category": "Select",
+        "overall": 109,
+        "userType": "SS_Explorerss",
+        "count": 42,
+        "popularity": 0.385321101
+      },
+      {
+        "rank": 8,
+        "category": "Select",
+        "overall": 109,
+        "userType": "MS_Explorers",
+        "count": 67,
+        "popularity": 0.614678899
+      }
+     ],
+
+    "helpResources":
+		[
+      {
+        "helpResource": "Network Manual",
+        "userType": "Data_Strugglers",
+        "count": 8,
+        "percbyUser": 0.05,
+        "percbyFeature": 0.258064516
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "Data_Strugglers",
+        "count": 2,
+        "percbyUser": 0.046511628,
+        "percbyFeature": 0.064516129
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "Data_Strugglers",
+        "count": 6,
+        "percbyUser": 0.030769231,
+        "percbyFeature": 0.193548387
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "Data_Strugglers",
+        "count": 0,
+        "percbyUser": 0,
+        "percbyFeature": 0
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "Data_Strugglers",
+        "count": 0,
+        "percbyUser": 0,
+        "percbyFeature": 0
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "Data_Strugglers",
+        "count": 6,
+        "percbyUser": 0.036585366,
+        "percbyFeature": 0.193548387
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "Data_Strugglers",
+        "count": 9,
+        "percbyUser": 0.072,
+        "percbyFeature": 0.290322581
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "Demo",
+        "count": 52,
+        "percbyUser": 0.325,
+        "percbyFeature": 0.066924067
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "Demo",
+        "count": 19,
+        "percbyUser": 0.441860465,
+        "percbyFeature": 0.024453024
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "Demo",
+        "count": 144,
+        "percbyUser": 0.738461538,
+        "percbyFeature": 0.185328185
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "Demo",
+        "count": 449,
+        "percbyUser": 0.621023513,
+        "percbyFeature": 0.577863578
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "Demo",
+        "count": 6,
+        "percbyUser": 0.666666667,
+        "percbyFeature": 0.007722008
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "Demo",
+        "count": 70,
+        "percbyUser": 0.426829268,
+        "percbyFeature": 0.09009009
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "Demo",
+        "count": 37,
+        "percbyUser": 0.296,
+        "percbyFeature": 0.047619048
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "MS_Explorers",
+        "count": 66,
+        "percbyUser": 0.4125,
+        "percbyFeature": 0.149659864
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "MS_Explorers",
+        "count": 12,
+        "percbyUser": 0.279069767,
+        "percbyFeature": 0.027210884
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "MS_Explorers",
+        "count": 37,
+        "percbyUser": 0.18974359,
+        "percbyFeature": 0.083900227
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "MS_Explorers",
+        "count": 207,
+        "percbyUser": 0.286307054,
+        "percbyFeature": 0.469387755
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "MS_Explorers",
+        "count": 2,
+        "percbyUser": 0.222222222,
+        "percbyFeature": 0.004535147
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "MS_Explorers",
+        "count": 59,
+        "percbyUser": 0.359756098,
+        "percbyFeature": 0.133786848
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "MS_Explorers",
+        "count": 58,
+        "percbyUser": 0.464,
+        "percbyFeature": 0.131519274
+      },
+      {
+        "helpResource": "Network Manual",
+        "userType": "SS_Explorers",
+        "count": 34,
+        "percbyUser": 0.2125,
+        "percbyFeature": 0.2
+      },
+      {
+        "helpResource": "Data Formating",
+        "userType": "SS_Explorers",
+        "count": 10,
+        "percbyUser": 0.23255814,
+        "percbyFeature": 0.058823529
+      },
+      {
+        "helpResource": "Video Tutorial",
+        "userType": "SS_Explorers",
+        "count": 8,
+        "percbyUser": 0.041025641,
+        "percbyFeature": 0.047058824
+      },
+      {
+        "helpResource": "Visualization Examples",
+        "userType": "SS_Explorers",
+        "count": 51,
+        "percbyUser": 0.092669433,
+        "percbyFeature": 0.394117647
+      },
+      {
+        "helpResource": "Data Examples",
+        "userType": "SS_Explorers",
+        "count": 1,
+        "percbyUser": 0.111111111,
+        "percbyFeature": 0.005882353
+      },
+      {
+        "helpResource": "Demo",
+        "userType": "SS_Explorers",
+        "count": 29,
+        "percbyUser": 0.176829268,
+        "percbyFeature": 0.170588235
+      },
+      {
+        "helpResource": "Tutorials",
+        "userType": "SS_Explorers",
+        "count": 21,
+        "percbyUser": 0.168,
+        "percbyFeature": 0.123529412
+      }
+     ],
+
+    "userExplorationTime":[
+        
+        {"userType":"Demo", "step":"NL","duration":8.41},
+        {"userType":"Demo", "step":"Map","duration":12.1},
+        {"userType":"Demo", "step":"Timiline","duration":8.95},
+        {"userType":"Demo", "step":"Matrix","duration":11.82},
+        {"userType":"Demo", "step":"Mat_NL","duration":19.83},
+
+        {"userType":"Data_Struggler", "step":"NL","duration":29.23},
+        {"userType":"Data_Struggler", "step":"Map","duration":39.76},
+        {"userType":"Data_Struggler", "step":"Timiline","duration":42.76},
+        {"userType":"Data_Struggler", "step":"Matrix","duration":38.22},
+        {"userType":"Data_Struggler", "step":"Mat_NL","duration":18.89},
+        
+        {"userType":"SS_Explorer", "step":"NL","duration":30.22},
+        {"userType":"SS_Explorer", "step":"Map","duration":38.87},
+        {"userType":"SS_Explorer", "step":"Timiline","duration":44.73},
+        {"userType":"SS_Explorer", "step":"Matrix","duration":41.21},
+        {"userType":"SS_Explorer", "step":"Mat_NL","duration":47.24},
+        
+
+        {"userType":"MS_Explorer", "step":"NL","duration":107.25},
+        {"userType":"MS_Explorer", "step":"Map","duration":137.34},
+        {"userType":"MS_Explorer", "step":"Timiline","duration":163.38},
+        {"userType":"MS_Explorer", "step":"Matrix","duration":131.49},
+        {"userType":"MS_Explorer", "step":"Mat_NL","duration":151.6}
+        
+        ]
+
+}

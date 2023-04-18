@@ -8,52 +8,78 @@ const chart3 = {
         "property": "averageSessionTime.value"
       }
     },
-  "facet": {
-    "row": {
-      "field": "userType", "type": "nominal", "title": null,
-      "sort": ["demo", "data_struggler", "ss_explorer", "ms_explorer"],
-      "header": null
-      // "header": {"labelAngle": 0, "labelAlign":"left", "labelFontSize":12}
-    }
-  },
-  "spacing": 2,
-  "spec": {
-      "width":300,
-      "layer": [
-        {
-          "mark": {"type": "rule"},
-          "encoding": {
-            "x": {
-              "field": "min",
-              "type": "quantitative",
-              "scale": {"zero": false},
-              "title": null,
-              "axis":{"labelFontSize":11, "ticks": false}
-            },
-            "x2": {"field": "max"}
-          }
+    "hconcat": [
+      {
+        "height": "container",
+        "width": 180,
+        "encoding": {
+          "y": {"field": "userType", "type": "nominal", "title": null, "sort": ["demo", "data_struggler", "ss_explorer", "ms_explorer"]}
         },
-        {
-          "mark": {"type": "bar", "size": 20, "stroke":"black", "tooltip": {"content": "data"}},
-          "encoding": {
-            "x": {"field": "q1", "type": "quantitative"},
-            "x2": {"field": "q3"},
-            "color": {
-              "field": "userType",
-              "type": "nominal",
-              "legend": null,
-              "scale": {
-                "range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]
+        "layer": [
+          {
+            "mark": {"type": "rule", "clip": true},
+            "encoding": {
+              "x": {
+                "field": "min",
+                "type": "quantitative",
+                "scale": {"zero": false, "domain": [0, 35]},
+                "title": null,
+                "axis":{"labelFontSize":11, "ticks": false}
+  
+              },
+              "x2": {"field": "max"}
+            }
+          },
+          {
+            "mark": {"type": "bar", "size": 20, "stroke":"black", "tooltip":{"content": "data"}},
+            "encoding": {
+              "x": {"field": "q1", "type": "quantitative"},
+              "x2": {"field": "q3"},
+              "color": {
+                "field": "userType",
+                "type": "nominal",
+                "legend": null,
+                "scale": {
+                  "range": ["#CFE6FF", "#E8F3FF", "#489FFF", "#8EC4FF"]
+                }
               }
             }
+          },
+          {
+            "mark": {"type": "tick", "color": "black", "size": 20, "width": 3},
+            "encoding": {"x": {"field": "ave", "type": "quantitative"}}
+          }
+        ]
+      },
+      {
+        "height": "container",
+        "width": 80,
+        "encoding": {
+          "y": {
+            "field": "userType",
+            "type": "nominal",
+            "title": null,
+            "axis": null
           }
         },
-        {
-          "mark": {"type": "tick", "color": "black", "size": 20,"width":2},
-          "encoding": {"x": {"field": "ave", "type": "quantitative"}}
-        }
-      ]
-  },
+        "layer": [
+          {
+            "mark": {"type": "rule", "clip": true},
+            "encoding": {
+              "x": {
+                "field": "min",
+                "type": "quantitative",
+                "scale": {"zero": false, "domain": [50, 200]},
+                "title": null,
+                "axis":{"labelFontSize":11, "ticks": false}
+              },
+              "x2": {"field": "max"}
+            }
+          }
+        ]
+      }
+    ],
+    "spacing": 10,
   "resolve": {"scale": {"x": "independent"}},
   "config": {"tick": {"thickness": 2}, "view": {"stroke": "transparent"}}
     };

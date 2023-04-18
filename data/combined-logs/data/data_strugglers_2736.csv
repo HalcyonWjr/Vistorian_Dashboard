@@ -1,0 +1,17 @@
+usrID,logID,view,event,category,index,start,end,userSession
+2736,dat_4,,x (delete),data,0,0,1,1
+2736,dat_1,,New Network,data,0,3,4,1
+2736,dat_2_DT,,Upload Data Tables,data,0,15,16,1
+2736,dat_2_DT,,Upload Data Tables,data,0,266,267,1
+2736,dat_2_LT,,Upload new Link table,data,0,278,279,1
+2736,dat_2,,upload data,data,0,295,296,1
+2736,dat_2,,upload data,data,0,316,317,1
+2736,dat_11,,Specify Column: location_source,data,0,326,327,1
+2736,dat_11,,Specify Column: location_source,data,0,332,333,1
+2736,dat_11,,Specify Column: location_source,data,0,336,337,1
+2736,dat_11,,Specify Column: location_source,data,0,340,341,1
+2736,dat_11,,Specify Column: location_source,data,0,367,368,1
+2736,dat_11,,Specify Column: location_source,data,0,371,372,1
+2736,dat_2,,upload data,data,0,741,742,1
+2736,dat_2,,upload data,data,0,746,747,1
+2736,log_2,,Visit Page ,logging,2,0,1,2

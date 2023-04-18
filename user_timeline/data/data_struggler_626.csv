@@ -1,0 +1,158 @@
+user,uuid,ts,category,action,label,value
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636730932662,log_1,Vistorian Trace,Session,Start
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636730932662,log_2,index,webpage,load
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636730937050,log_9,start logging,webpage,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636730937053,log_9,VistorianLab,ON,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636731013108,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636731047186,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636731099018,hlp_2,index,Data Formating,click
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636731100268,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1636731337219,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049410607,log_1,Vistorian Trace,Session,Start
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049410607,log_3,index,my session href,click
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049411585,log_2,index,webpage,load
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049416479,log_3,index,my session href,click
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049416503,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049418629,log_1,Vistorian Trace,Session,Start
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049418629,log,load,webpage,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049418630,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049426235,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049437679,dat_2_DT,data view,DataTables_FileUpload,new file upload
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049437708,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049437708,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049437710,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049437711,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049437711,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049444205,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049445563,dat_2_DT,data view,DataTables_FileUpload,new file upload
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049445583,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049445583,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049445595,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049445596,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049445596,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049452527,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049452528,log_1,Vistorian Trace,Session,Start
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049452528,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049452530,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049458337,log_18,page,blur,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049458340,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049458342,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049458412,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049458413,dat_1,data view,new network,created
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049471810,bkm_8, bookmark window ,minimized,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049478018,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049478019,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049478021,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049478021,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049478025,dat_3_LK,data view,LinkTable_select, LK selected
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049484641,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049484641,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049484647,dat_12,data view,directed checkbox,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049488633,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049488634,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049488634,dat_3_NT,data view,NodeTable_select, NT selected
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049513322,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049513322,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049513901,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049513901,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049513901,dat_11,data view,Column Data Type Specified,label
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049520260,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049520261,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049520779,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049520779,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049520779,dat_11,data view,Column Data Type Specified,label
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049524509,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049524509,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049524973,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049524973,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049524973,dat_11,data view,Column Data Type Specified,shape
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049538546,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049538546,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049538651,dat_11,data view,Column Data Type Specified,location_source
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049542779,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049542780,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049543569,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049543569,dat_18,data view,network_status,False
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049543569,dat_11,data view,Column Data Type Specified,target
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049545367,err,Uncaught TypeError: Cannot read properties of undefined (reading 'add') https://vistorian.online/lib/vistorian-web.js23219,{},/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049548064,log_17, Support Request Form ,Displayed,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049548064,err,Uncaught TypeError: Cannot read properties of undefined (reading 'add') https://vistorian.online/lib/vistorian-web.js23219,{},/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049549453,err,Uncaught TypeError: Cannot read properties of undefined (reading 'add') https://vistorian.online/lib/vistorian-web.js23219,{},/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049553529,log_17,Support Request Form,Submiited,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049562390,dat_3_LO,data view,LocationTable_select, LO selected
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049583523,err,Uncaught TypeError: Cannot read properties of undefined (reading 'add') https://vistorian.online/lib/vistorian-web.js23219,{},/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049619169,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049625872,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049625873,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049628394,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049637081,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049637083,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049638197,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049638855,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049908598,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049908603,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049908605,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049910156,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049918950,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049921807,log_18,page,blur,/
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049921814,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049921815,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049923427,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049924033,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049924034,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049926271,log_12,page,close,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049927732,log_1,Vistorian Trace,Session,Start
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049927732,log,load,webpage,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049927733,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049927737,bkm_8, bookmark window ,minimized,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049935895,log_17, Support Request Form ,Displayed,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049935896,err,Uncaught TypeError: Cannot read properties of undefined (reading 'add') https://vistorian.online/lib/vistorian-web.js23219,{},/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049968561,log_17,Support Request Form,Submiited,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049970855,err,Uncaught TypeError: Cannot read properties of undefined (reading 'add') https://vistorian.online/lib/vistorian-web.js23219,{},/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049986617,bkm_8, bookmark window ,maximized,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990836,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990839,log_1,Vistorian Trace,Session,Start
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990839,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990840,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990881,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990881,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990881,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990881,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049990881,bkm_7, show current view bookmarks,selected,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049997273,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049997274,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049997275,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049997275,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049997275,bkm_7, show all bookmarks (view),selected,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049999992,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049999993,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049999993,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049999994,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637049999994,bkm_7, show current view bookmarks,selected,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050004266,bkm_8, bookmark window ,minimized,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050005568,bkm_8, bookmark window ,maximized,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050011684,bkm_10, bookmark file imported,True,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050011685,bkm_10,/web/dataview.html,bookmark_tool,Bookmarks File Imported
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050011817,log_18,page,blur,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050014381,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050014382,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050014386,log_18,page,blur,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050014388,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050014388,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050018675,bkm_10,/web/dataview.html,bookmark_tool,Bookmarks File Cleared
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050018677,log_18,page,blur,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050018677,log_17,page,focus,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050018677,log_9,VistorianLab,ON,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050020050,log_11, Session ID Button,Show,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050021040,log_11, Session ID Button,hide,/web/dataview.html
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050022578,log_18,page,blur,logbook
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050022581,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050022584,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050025204,bkm_8, bookmark window ,minimized,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050030531,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050036005,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050036006,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637050037099,log_18,page,blur,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637052294850,log_17,page,focus,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637052294850,log_9,VistorianLab,ON,dataview
+626,918cb6bb-997f-4d2e-8de8-319f7e91b847,1637052295734,log_12,page,close,/web/dataview.html

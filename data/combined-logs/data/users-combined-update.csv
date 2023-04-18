@@ -1,0 +1,67 @@
+usrID,logID,view,event,category,index,start,end,userSession,userID+session,session
+626,hlp_2,,Data Formatting,help,3,0,1,1,626_1,1
+626,log_2,,Visit Page ,logging,2,0,1,2,626_2,2
+626,dat_2_DT,,Upload Data Tables,data,0,26,27,2,626_2,2
+626,dat_2_DT,,Upload Data Tables,data,0,34,35,2,626_2,2
+626,dat_1,,New Network,data,0,47,48,2,626_2,2
+626,bkm_8,,bookmark window,bookmarking,6,60,61,2,626_2,2
+626,dat_3_LK,,Select previous Link table,data,0,67,68,2,626_2,2
+626,dat_3_NT,,Select previous Node table,data,0,77,78,2,626_2,2
+626,dat_11,,Specify Column: label,data,0,102,103,2,626_2,2
+626,dat_11,,Specify Column: label,data,0,109,110,2,626_2,2
+626,dat_11,,Specify Column: label,data,0,113,114,2,626_2,2
+626,dat_11,,Specify Column: label,data,0,127,128,2,626_2,2
+626,dat_11,,Specify Column: label,data,0,132,133,2,626_2,2
+626,err,,Error Type,error,5,134,135,2,626_2,2
+626,err,,Error Type,error,5,137,139,2,626_2,2
+626,dat_3_LO,,Select previous Location table,data,0,151,152,2,626_2,2
+626,err,,Error Type,error,5,172,173,2,626_2,2
+626,log_12,,Close Webpage/End of Activity,logging,2,515,516,2,626_2,2
+626,bkm_8,,bookmark window,bookmarking,6,516,517,2,626_2,2
+626,err,,Error Type,error,5,524,525,2,626_2,2
+626,err,,Error Type,error,5,559,560,2,626_2,2
+626,bkm_8,,bookmark window,bookmarking,6,575,576,2,626_2,2
+626,bkm_7,,bookmarks view option selected,bookmarking,6,579,580,2,626_2,2
+626,bkm_7,,bookmarks view option selected,bookmarking,6,586,587,2,626_2,2
+626,bkm_7,,bookmarks view option selected,bookmarking,6,588,589,2,626_2,2
+626,bkm_8,,bookmark window,bookmarking,6,593,595,2,626_2,2
+626,bkm_10,,Bookmarks file imported,bookmarking,6,600,601,2,626_2,2
+626,bkm_10,,Bookmarks file imported,bookmarking,6,607,608,2,626_2,2
+626,bkm_8,,bookmark window,bookmarking,6,614,615,2,626_2,2
+626,log_12,,Close Webpage/End of Activity,logging,2,0,1,3,626_3,3
+2736,dat_4,,x (delete),data,0,0,1,1,2736_1,4
+2736,dat_1,,New Network,data,0,3,4,1,2736_1,4
+2736,dat_2_DT,,Upload Data Tables,data,0,15,16,1,2736_1,4
+2736,dat_2_DT,,Upload Data Tables,data,0,266,267,1,2736_1,4
+2736,dat_2_LT,,Upload new Link table,data,0,278,279,1,2736_1,4
+2736,dat_2,,upload data,data,0,295,296,1,2736_1,4
+2736,dat_2,,upload data,data,0,316,317,1,2736_1,4
+2736,dat_11,,Specify Column: location_source,data,0,326,327,1,2736_1,4
+2736,dat_11,,Specify Column: location_source,data,0,332,333,1,2736_1,4
+2736,dat_11,,Specify Column: location_source,data,0,336,337,1,2736_1,4
+2736,dat_11,,Specify Column: location_source,data,0,340,341,1,2736_1,4
+2736,dat_11,,Specify Column: location_source,data,0,367,368,1,2736_1,4
+2736,dat_11,,Specify Column: location_source,data,0,371,372,1,2736_1,4
+2736,dat_2,,upload data,data,0,741,742,1,2736_1,4
+2736,dat_2,,upload data,data,0,746,747,1,2736_1,4
+2736,log_2,,Visit Page ,logging,2,0,1,2,2736_2,5
+519,bkm_8,,bookmark window,bookmarking,6,0,1,1,519_1,6
+519,dat_2_DT,,Upload Data Tables,data,0,6,7,1,519_1,6
+519,dat_2_DT,,Upload Data Tables,data,0,10,11,1,519_1,6
+519,dat_1,,New Network,data,0,12,13,1,519_1,6
+519,dat_2_LK,,Upload new Link table,data,0,29,30,1,519_1,6
+519,log_12,,Close Webpage/End of Activity,logging,2,50,51,1,519_1,6
+519,err,,Error Type,error,5,75,76,1,519_1,6
+519,bkm_8,,bookmark window,bookmarking,6,76,77,1,519_1,6
+519,log_12,,Close Webpage/End of Activity,logging,2,80,81,1,519_1,6
+519,err,,Error Type,error,5,81,82,1,519_1,6
+519,bkm_8,,bookmark window,bookmarking,6,81,82,1,519_1,6
+519,log_12,,Close Webpage/End of Activity,logging,2,84,85,1,519_1,6
+519,log_2,,Visit Page ,logging,2,0,1,2,519_2,7
+519,bkm_8,,bookmark window,bookmarking,6,15,16,2,519_2,7
+519,dat_11,,Specify Column: location_source,data,0,32,33,2,519_2,7
+519,dat_11,,Specify Column: location_source,data,0,36,37,2,519_2,7
+519,dat_11,,Specify Column: location_source,data,0,38,41,2,519_2,7
+519,dat_11,,Specify Column: location_source,data,0,47,48,2,519_2,7
+519,dat_11,,Specify Column: location_source,data,0,52,53,2,519_2,7
+519,log_12,,Close Webpage/End of Activity,logging,2,73,74,2,519_2,7

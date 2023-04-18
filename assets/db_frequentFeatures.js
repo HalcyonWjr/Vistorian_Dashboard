@@ -37,7 +37,7 @@ const chart6 = {
       "title": null
     },
     "yOffset": {"field": "userType", "sort": ["ss_explorer", "ms_explorer"]},
-    "color": {"field": "userType", "scale": {"range": ["#8EC4FF", "#489FFF"]}}
+    "color": {"field": "userType", "scale": {"range": ["#489FFF", "#8EC4FF"]}}
   },
   "layer": [
     {"mark": {"type": "bar", "tooltip": true}},

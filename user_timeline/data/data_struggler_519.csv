@@ -1,0 +1,100 @@
+user,uuid,ts,category,action,label,value
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928812794,log_3,index,my session href,click
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928812794,log_1,Vistorian Trace,Session,Start
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928814420,log_2,index,webpage,load
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928821362,log_9,start logging,webpage,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928821363,log_9,VistorianLab,ON,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928830978,log_3,index,my session href,click
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928830993,log_18,page,blur,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928832603,log_1,Vistorian Trace,Session,Start
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928832603,log,load,webpage,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928832604,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928842067,bkm_8, bookmark window ,minimized,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928845558,log_18,page,blur,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928848479,log_17,page,focus,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928848480,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928848629,dat_2_DT,data view,DataTables_FileUpload,new file upload
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928849854,log_18,page,blur,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928852439,log_17,page,focus,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928852440,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928852552,dat_2_DT,data view,DataTables_FileUpload,new file upload
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928854879,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928854880,dat_1,data view,new network,created
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928865632,dat_9,data view,network name,updated
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928865764,dat_12,data view,directed checkbox,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928867799,log_18,page,blur,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871151,log_17,page,focus,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871152,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871291,dat_2_LK,data view,LinkTable_FileUpload,new LK file upload
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871620,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871620,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871621,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871621,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871776,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928871776,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928892095,log_18,page,blur,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928892187,log_12,page,close,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928916568,log_18,page,blur,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928917261,err,Uncaught ReferenceError: startVisGuide is not defined http://vistorian.online/web/dataview.html?session=1632928814048153,{},/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928917261,log_1,Vistorian Trace,Session,Start
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928918648,log,load,webpage,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928918648,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928918654,bkm_8, bookmark window ,minimized,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928921134,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928921134,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928921137,dat_12,data view,directed checkbox,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928922980,log_12,page,close,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928923496,log_1,Vistorian Trace,Session,Start
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928923497,log_17, Support Request Form ,Displayed,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928923497,err,Uncaught ReferenceError: startVisGuide is not defined http://vistorian.online/web/dataview.html?session=1632928814048153,{},/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928923803,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928923803,log,load,webpage,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928923806,bkm_8, bookmark window ,minimized,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928925178,log_18,Support Request Form,Canceled,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632928926333,log_12,page,close,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992160994,log_1,Vistorian Trace,Session,Start
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992160994,log_2,index,webpage,load
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992171468,log_9,start logging,webpage,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992171469,log_9,VistorianLab,ON,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992174404,log_3,index,my session href,click
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992174418,log_18,page,blur,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992175911,log_1,Vistorian Trace,Session,Start
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992175911,log,load,webpage,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992175912,log_9,VistorianLab,ON,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992175917,bkm_8, bookmark window ,minimized,dataview
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992192715,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992192715,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992192725,dat_11,data view,Column Data Type Specified,location_source
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992193289,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992193289,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992196629,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992196630,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992196813,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992196813,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992196813,dat_11,data view,Column Data Type Specified,source
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992198915,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992198915,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992198931,dat_11,data view,Column Data Type Specified,location_source
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992199479,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992199479,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992200882,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992200882,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992200905,dat_11,data view,Column Data Type Specified,location_target
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992201473,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992201474,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992202767,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992202767,dat_18,data view,network_status,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992202769,dat_12,data view,directed checkbox,False
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992207334,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992207334,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992207659,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992207659,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992207660,dat_11,data view,Column Data Type Specified,target
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992212127,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992212127,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992212357,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992212357,dat_18,data view,network_status,True
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992212357,dat_11,data view,Column Data Type Specified,target
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992233143,log_12,page,close,/web/dataview.html
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992342662,log_18,page,blur,index
+519,c69a8d42-160c-4c43-948b-908e9f40593b,1632992518801,log_18,page,blur,index

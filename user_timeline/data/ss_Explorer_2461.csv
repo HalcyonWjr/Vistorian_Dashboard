@@ -1,0 +1,232 @@
+﻿user,ts,category,action,label,value,ip,referer
+2461,1656702953063,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656702953063,log_2,load,webpage,/dataview/,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656702960900,dat_1,data view,new network,created,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703095682,log_2,index,webpage,load,31.10.150.210,https://vistorian.net/
+2461,1656703108167,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/
+2461,1656703108167,log_2,index,webpage,load,31.10.150.210,https://vistorian.net/
+2461,1656703327011,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/
+2461,1656703327011,log_2,index,webpage,load,31.10.150.210,https://vistorian.net/
+2461,1656703330559,log_2,load,webpage,/dataview/,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703332613,dat_1,data view,new network,created,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703347932,dat_2_LT,data view,upload LK,Link Table,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703357969,dat_12,data view,directed checkbox,True,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703364954,dat_2,File Uploaded,File Uploaded,maze.csv.csv,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703369766,dat_2,data view,table has header,True,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703384612,dat_11,Column Type Specified,Target node label:*,target,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703419965,vis_1,data view,Create Visualization,map,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703419969,dat_19,Network size,nodes,0,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703419969,dat_19,Network size,links,0,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703420701,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/map/?session=0&datasetName=maze
+2461,1656703420701,log_2,load,webpage,/map/,31.10.150.210,https://vistorian.net/map/?session=0&datasetName=maze
+2461,1656703426552,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703426552,log_2,load,webpage,/dataview/,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703433627,dat_1,data view,new network,created,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703443893,dat_2_LT,data view,upload LK,Link Table,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703447439,dat_12,data view,directed checkbox,True,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703452791,dat_2,File Uploaded,File Uploaded,maze.csv.csv,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703457485,dat_11,Column Type Specified,Target node label:*,target,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703467345,dat_2,data view,table has header,True,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703478021,vis_1,data view,Create Visualization,nodelink,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703478025,dat_19,Network size,nodes,0,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703478025,dat_19,Network size,links,0,31.10.150.210,https://vistorian.net/dataview/?session=0
+2461,1656703478979,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703478979,log_2,load,webpage,/nodelink/,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703479747,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703479747,log_2,node link,webpage,load,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703497481,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703499242,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703499373,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703500009,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703500092,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703509381,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703509430,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703509679,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703509758,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703509814,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703509889,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703509978,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510041,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510105,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510290,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510370,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510465,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510559,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703510597,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703512089,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703512348,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703512416,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703513114,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703513314,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703513512,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703513731,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703513948,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703514059,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703514623,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703514831,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703524962,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703526389,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703527364,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703528210,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703530816,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703531385,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703531697,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703532366,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703533381,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703533778,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703534496,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703537818,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703538442,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703538707,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703538932,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703539077,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703539586,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703539995,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703540581,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703540916,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703541169,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703542064,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703542598,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703542903,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703543233,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703544766,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703547465,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703561132,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703561498,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703562149,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703563216,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703563296,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703563816,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703565071,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703566232,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703566281,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703566633,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703567548,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703569531,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703613867,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703613977,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703617465,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703617966,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703618059,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703618455,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703618593,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703619162,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703619219,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703619339,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703619812,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703622615,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703622714,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703622872,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703624916,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703624961,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703628224,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703628356,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703628493,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703629641,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703629755,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703630848,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703631236,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703654265,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703655715,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703656565,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703657664,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703658116,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703698751,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703699392,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703699509,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703708998,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703718374,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703718509,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703719573,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703719942,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703720551,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703720771,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703720876,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703721060,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703721839,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703728333,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703729516,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703730765,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703735366,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703742818,vis_9,Node Link,selection-input_Labeling,2,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703746209,vis_9,Node Link,selection-input_Labeling,0,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703749141,vis_9,Node Link,selection-input_Labeling,2,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703792401,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703794416,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703795899,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703796417,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703797408,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703804640,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703805431,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703805799,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703808484,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703809921,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703811851,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703850549,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703852565,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703853686,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703854929,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703856088,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703858678,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703860693,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703862656,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703895848,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703897090,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703898310,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703899842,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703905561,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703914022,log_4,/nodelink/,Return to Data View Button,Clicked,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656703914485,log_2,load,webpage,/dataview/,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656703923283,vis_1,data view,Create Visualization,Matrix & Node Link,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656703925492,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/mat-nl/?session=0&datasetName=Maze
+2461,1656703925492,log_2,load,webpage,/mat-nl/,31.10.150.210,https://vistorian.net/mat-nl/?session=0&datasetName=Maze
+2461,1656703927260,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703927260,log_2,node link,webpage,load,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703941873,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656703941873,vis_35,Matrix,labelingType,degree,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656703944644,vis_36,Matrix,Rerun Button,Clicked,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656703948614,vis_36,Matrix,Rerun Button,Clicked,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656703950529,vis_34,Matrix,Zoom Range,9,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656703951961,vis_34,Matrix,Zoom Range,11,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656703954726,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703960682,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703960802,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703961047,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703961279,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703961463,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703961714,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656703982248,vis_35,Matrix,labelingType,alphanumerical,31.10.150.210,https://vistorian.net/node_modules/vistorian-matrix/web/index.html?session=0&datasetName=Maze
+2461,1656704396863,vis_1,data view,Create Visualization,dynamicego,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704397646,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704397646,log_2,load,webpage,/dynamicego/,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704400728,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704400729,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704400894,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704400895,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704401008,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704401008,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704406793,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704406793,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704406877,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704406876,vis_41,zoom,True,dynamicego,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704409834,log_4,/dynamicego/,Return to Data View Button,Clicked,31.10.150.210,https://vistorian.net/dynamicego/?session=0&datasetName=Maze
+2461,1656704409942,log_2,load,webpage,/dataview/,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704414733,dat_4,data view,selected network,deleted,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704418034,vis_1,data view,Create Visualization,Node-link,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704418412,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656704418412,log_2,load,webpage,/nodelink/,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656704418689,_trace,document.location,href,9ec3b4c7-5a47-4e8b-b7f1-fdc3e2b146b7,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704418689,log_2,node link,webpage,load,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704430414,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704432518,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656704432522,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704432695,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656704432701,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704433701,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/nodelink/?session=0&datasetName=Maze
+2461,1656704433708,vis_41,zoom,True,nodelink,31.10.150.210,https://vistorian.net/dataview/?session=0&datasetName=Maze
+2461,1656704437111,vis_9,Node Link,selection-input_Labeling,0,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704449163,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704450080,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704450157,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704452206,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze
+2461,1656704456114,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,31.10.150.210,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Maze

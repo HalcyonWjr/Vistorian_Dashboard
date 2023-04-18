@@ -4,7 +4,6 @@ const chart5 ={
   "height": "container",
   "autosize": { "type": "pad", "contains": "padding" },
   "data": {
-    // "url": "https://www.jinruiw.com/dashboard_dataset/sample_general.json",
     "url": "./data/general.json",
     "format":{
       "type": "json",
@@ -15,7 +14,7 @@ const chart5 ={
     "y": {
       "type": "quantitative",
       "axis": {"domainOpacity": 0, "grid": true, "gridDash": [20, 5]},
-      "scale": {"domain": [0, 100]}
+      "scale": {"domain": [0, 180]}
     }
   },
   "layer": [
@@ -94,8 +93,8 @@ const chart5 ={
         }
       },
       "transform": [
-        {"calculate": "-2", "as": "y"},
-        {"calculate": "-16", "as": "offset"}
+        {"calculate": "-3", "as": "y"},
+        {"calculate": "-27", "as": "offset"}
       ],
       "mark": {"type": "bar"},
       "encoding": {

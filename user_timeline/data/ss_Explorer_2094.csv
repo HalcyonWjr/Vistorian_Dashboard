@@ -1,0 +1,581 @@
+﻿user,ts,category,action,label,value,ip,referer
+2094,1652605594014,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605594014,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605639161,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652605661492,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605685444,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605711485,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652605722312,hlp_4,index,Map Example,click,194.208.96.17,https://vistorian.net/
+2094,1652605722772,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2094,1652605722772,log_2,load,webpage,/map/,194.208.96.17,https://vistorian.net/map/?session=0&datasetName=Marie_Boucher
+2094,1652605756747,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605776358,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605813840,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605817810,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652605845038,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605865854,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605911606,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652605929956,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652605929956,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652605934772,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605946157,hlp_8,dataview,tutorials,click,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652605994272,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606134319,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606265769,dat_12,data view,directed checkbox,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606280537,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1.csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606370103,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606480958,dat_11,Column Type Specified,Location of target node:,location_target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606502798,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606628982,dat_11,Column Type Specified,Link type:,linkType,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606808032,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606809311,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810478,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810634,dat_19,Network size,nodes,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810636,dat_19,Network size,links,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810670,dat_19,Network size,nodes,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810670,dat_19,Network size,links,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810693,dat_19,Network size,nodes,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606810693,dat_19,Network size,links,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652606811004,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652606811004,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652606811489,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652606811489,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607126976,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607126976,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607128041,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652607132837,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652607132837,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652607135479,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607139840,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607191220,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607209213,dat_12,data view,directed checkbox,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607214555,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (1).csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607279389,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607332294,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607368154,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607368160,dat_19,Network size,nodes,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607368160,dat_19,Network size,links,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607368477,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclovasit
+2094,1652607368477,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclovasit
+2094,1652607368684,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclovasit
+2094,1652607368684,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclovasit
+2094,1652607398991,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607398991,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607400188,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652607406322,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652607406322,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652607408165,hlp_4,index,Node Link Example,click,194.208.96.17,https://vistorian.net/
+2094,1652607408528,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652607408528,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652607409063,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652607409063,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652607423486,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652607468530,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607472435,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607492209,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607497017,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607500958,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607506831,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607534645,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607544315,dat_12,data view,directed checkbox,False,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607549976,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (1).csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607561086,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607587763,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607655981,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607672844,dat_11,data view,Node Types,Yes,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607686571,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607695523,dat_11,data view,Node Types,No,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607699468,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607699626,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607699626,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607699783,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607699783,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607732052,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607732052,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607733178,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652607746903,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652607746903,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652607749073,hlp_4,index,Node Link Example,click,194.208.96.17,https://vistorian.net/
+2094,1652607749340,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652607749340,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652607749776,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652607749776,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652607757972,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607778020,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607780115,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607848167,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607870477,dat_12,data view,directed checkbox,False,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607875857,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (1).csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607886594,dat_12,data view,directed checkbox,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607911106,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607921774,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607940744,dat_11,Column Type Specified,Time,time,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607971614,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607971772,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607971772,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607971935,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607971935,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652607994281,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607994281,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652607995344,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608008438,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652608008438,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608011201,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608056670,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608059641,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608395991,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608397790,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608423936,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652608423936,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608425240,hlp_4,index,Node Link Example,click,194.208.96.17,https://vistorian.net/
+2094,1652608425545,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652608425545,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652608425958,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652608425959,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652608440103,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608441715,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608469876,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608480316,dat_12,data view,directed checkbox,False,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608490202,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit.csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608523211,dat_12,data view,directed checkbox,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608532804,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608537858,dat_11,Column Type Specified,Link ID:,2,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608544665,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608614699,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608614699,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608614847,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608614847,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608638810,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608638810,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608640372,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608776296,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652608776296,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608779785,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608784983,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608786994,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608811365,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608821527,dat_12,data view,directed checkbox,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608852991,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (3).csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608878111,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608891903,dat_11,Column Type Specified,Location of target node:,location_target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608895545,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608922153,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608923685,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608924611,dat_19,Network size,nodes,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608924817,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608924817,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608924997,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608924997,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652608950867,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608950867,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652608952609,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608971277,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652608971277,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652608972894,hlp_4,index,Node Link Example,click,194.208.96.17,https://vistorian.net/
+2094,1652608973143,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652608973143,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652608973661,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652608973661,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652608978576,log_4,/nodelink/,Return to Data View Button,Clicked,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652608978628,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652608987771,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652608991511,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652608996921,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609022885,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609033191,dat_12,data view,directed checkbox,False,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609046578,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (3).csv,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609059619,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609080804,dat_2,data view,table has header,False,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609090572,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609099815,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609113714,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609129409,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609129565,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652609129565,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_sit
+2094,1652609129702,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652609129702,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_sit
+2094,1652609143564,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609143564,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652609216223,hlp_4,index,Node Link Example,click,194.208.96.17,https://vistorian.net/
+2094,1652609216483,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652609216483,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=Marie_Boucher
+2094,1652609217006,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652609217006,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=Marie_Boucher
+2094,1652609224377,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652609466646,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652609580642,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610813432,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610817636,dat_4,data view,selected network,deleted,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610819318,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610852998,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610946198,dat_12,data view,directed checkbox,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610972897,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (5).csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610987660,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610988897,dat_2,data view,table has header,False,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610989988,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610991430,dat_2,data view,table has header,False,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652610992318,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611008017,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611017000,dat_11,Column Type Specified,Link ID:,vaha,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611046650,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611102372,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611106208,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611111924,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611112836,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611128934,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611129115,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611129997,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611130170,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611131477,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611141138,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611147811,vis_1,data view,Create Visualization,matrix,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611148889,vis_1,data view,Create Visualization,matrix,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611149067,vis_1,data view,Create Visualization,matrix,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611150238,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611150422,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611152341,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611152475,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611152755,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611154150,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611154564,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611154684,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611154902,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611155118,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611155413,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611160888,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611161077,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611166258,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611166957,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611167144,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611172835,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652611177347,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/
+2094,1652611177347,log_2,index,webpage,load,194.208.96.17,https://vistorian.net/
+2094,1652611179538,log_2,load,webpage,/dataview/,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611213928,dat_1,data view,new network,created,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611272773,dat_2_LT,data view,upload LK,Link Table,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611347880,dat_12,data view,directed checkbox,False,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611360332,dat_2,File Uploaded,File Uploaded,Zangerl-Meclova_sit - List 1 (5).csv,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611366023,dat_2,data view,table has header,True,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611376842,dat_11,Column Type Specified,Target node label:*,target,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611382961,dat_11,Column Type Specified,Link ID:,vaha,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611412030,dat_11,Column Type Specified,Link weight:,weight,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611429081,vis_1,data view,Create Visualization,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611429087,dat_19,Network size,nodes,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611429087,dat_19,Network size,links,0,194.208.96.17,https://vistorian.net/dataview/?session=0
+2094,1652611429389,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611429389,log_2,load,webpage,/nodelink/,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611429566,_trace,document.location,href,1d557155-7e69-45f8-bb36-44dd9b610ca1,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611429566,log_2,node link,webpage,load,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441021,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441058,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441050,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441071,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441106,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441099,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441127,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441181,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441150,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441175,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441202,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441223,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441209,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441230,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441256,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441251,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441274,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441280,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441310,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441300,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441472,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441491,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441594,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441606,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441650,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441680,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441674,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441699,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441733,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441726,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441753,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441758,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441777,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441773,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441794,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441802,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441827,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441819,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441848,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441856,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441878,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441869,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441895,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441904,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441927,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441920,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441945,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441953,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441980,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611441970,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611441994,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442002,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442028,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442020,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442046,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442054,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442078,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442070,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442096,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442107,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442127,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442121,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442434,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442463,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442450,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442477,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442491,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442536,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442503,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442529,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442571,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442614,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442638,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442667,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442559,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442583,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442607,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442631,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442654,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442677,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442713,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611442707,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442732,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611442758,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443110,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443138,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443127,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443157,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443186,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443181,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443207,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443216,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443246,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443237,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443255,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443275,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443263,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443284,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443303,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443326,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443311,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443335,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443352,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443383,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443362,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443391,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443410,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443402,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443806,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443818,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443835,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443859,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443848,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443889,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443883,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443921,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443941,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611443915,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443929,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443965,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443988,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611443994,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444020,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444013,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444034,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444045,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444091,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444061,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444084,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444108,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444118,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444153,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444135,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444849,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444875,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444869,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444887,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444899,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444927,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444913,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444943,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444976,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611444970,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444987,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611444993,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445018,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445011,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445034,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445058,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445043,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445065,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445082,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445090,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445122,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445114,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445138,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445144,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445325,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445346,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445409,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445422,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445464,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445479,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611445491,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611445504,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611447944,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611447977,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611447970,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611447988,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448038,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448004,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448061,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448082,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448096,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448068,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448088,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448099,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448123,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448149,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448119,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448144,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448174,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448199,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448169,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448194,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448220,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448245,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448224,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448251,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448275,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448302,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448338,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448362,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448270,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448295,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448328,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448352,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448927,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448939,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448952,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448975,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611448965,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448983,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611448999,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449023,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449006,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449031,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449058,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449083,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449049,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449074,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449107,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449132,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449099,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449125,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449157,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449183,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449149,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449175,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449208,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449234,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449200,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449225,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449260,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449284,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449251,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449275,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449310,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449302,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449510,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449528,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449567,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449586,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449606,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449617,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449632,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449660,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449666,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449686,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449681,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449708,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449715,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449740,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449733,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449756,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449763,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449789,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449781,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449804,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449811,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449842,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449830,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449853,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449860,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449909,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449920,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611449980,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611449989,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611450008,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611450025,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611450176,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611450191,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611450232,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611450245,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451398,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451446,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451417,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451433,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451497,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451466,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451489,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451519,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451547,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451515,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451540,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451574,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451596,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451566,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451588,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451624,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451615,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451661,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451669,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611451849,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611451865,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452081,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452127,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452097,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452121,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452144,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452153,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452175,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452168,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452197,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452229,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452222,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452246,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452254,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452494,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452507,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452630,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452649,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452709,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452725,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611452744,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611452754,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611548256,vis_9,Node Link,selection-input_Labeling,2,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611552336,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/dataview/?session=0&datasetName=Marie_Boucher
+2094,1652611552367,vis_41,zoom,True,nodelink,194.208.96.17,https://vistorian.net/nodelink/?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611578761,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611579098,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611579219,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit
+2094,1652611579870,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over,194.208.96.17,https://vistorian.net/node_modules/vistorian-nodelink/web/index.html?session=0&datasetName=ZangerlMeclova_D_sit

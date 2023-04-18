@@ -1,0 +1,31 @@
+usrID,logID,view,event,category,index,start,end,userSession
+626,hlp_2,,Data Formatting,help,3,0,1,1
+626,log_2,,Visit Page ,logging,2,0,1,2
+626,dat_2_DT,,Upload Data Tables,data,0,26,27,2
+626,dat_2_DT,,Upload Data Tables,data,0,34,35,2
+626,dat_1,,New Network,data,0,47,48,2
+626,bkm_8,,bookmark window,bookmarking,6,60,61,2
+626,dat_3_LK,,Select previous Link table,data,0,67,68,2
+626,dat_3_NT,,Select previous Node table,data,0,77,78,2
+626,dat_11,,Specify Column: label,data,0,102,103,2
+626,dat_11,,Specify Column: label,data,0,109,110,2
+626,dat_11,,Specify Column: label,data,0,113,114,2
+626,dat_11,,Specify Column: label,data,0,127,128,2
+626,dat_11,,Specify Column: label,data,0,132,133,2
+626,err,,Error Type,error,5,134,135,2
+626,err,,Error Type,error,5,137,139,2
+626,dat_3_LO,,Select previous Location table,data,0,151,152,2
+626,err,,Error Type,error,5,172,173,2
+626,log_12,,Close Webpage/End of Activity,logging,2,515,516,2
+626,bkm_8,,bookmark window,bookmarking,6,516,517,2
+626,err,,Error Type,error,5,524,525,2
+626,err,,Error Type,error,5,559,560,2
+626,bkm_8,,bookmark window,bookmarking,6,575,576,2
+626,bkm_7,,bookmarks view option selected,bookmarking,6,579,580,2
+626,bkm_7,,bookmarks view option selected,bookmarking,6,586,587,2
+626,bkm_7,,bookmarks view option selected,bookmarking,6,588,589,2
+626,bkm_8,,bookmark window,bookmarking,6,593,595,2
+626,bkm_10,,Bookmarks file imported,bookmarking,6,600,601,2
+626,bkm_10,,Bookmarks file imported,bookmarking,6,607,608,2
+626,bkm_8,,bookmark window,bookmarking,6,614,615,2
+626,log_12,,Close Webpage/End of Activity,logging,2,0,1,3

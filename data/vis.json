@@ -1,542 +1,2222 @@
 {
-    "nodelink":
-    {
-    "userNumber":
-	[
-		{"date":"2021-08","userNum":42},
-        {"date":"2021-09","userNum":64},
-        {"date":"2021-10","userNum":44},
-        {"date":"2021-11","userNum":34},
-        {"date":"2021-12","userNum":38},
-        {"date":"2022-01","userNum":111},
-        {"date":"2022-02","userNum":136},
-        {"date":"2022-03","userNum":131},
-        {"date":"2022-04","userNum":105},
-        {"date":"2022-05","userNum":95},
-        {"date":"2022-06","userNum":121},
-        {"date":"2022-07","userNum":68}
-	],
-
-    "userNumber_completedata":
-    [
-        {"date":"2021-01","userNum":0},
-        {"date":"2021-02","userNum":13},
-        {"date":"2021-03","userNum":14},
-        {"date":"2021-04","userNum":13},
-        {"date":"2021-05","userNum":9},
-        {"date":"2021-06","userNum":22},
-        {"date":"2021-07","userNum":35},
-        {"date":"2021-08","userNum":42},
-        {"date":"2021-09","userNum":64},
-        {"date":"2021-10","userNum":44},
-        {"date":"2021-11","userNum":34},
-        {"date":"2021-12","userNum":38},
-        {"date":"2022-01","userNum":111},
-        {"date":"2022-02","userNum":136},
-        {"date":"2022-03","userNum":131},
-        {"date":"2022-04","userNum":105},
-        {"date":"2022-05","userNum":95},
-        {"date":"2022-06","userNum":121},
-        {"date":"2022-07","userNum":68},
-        {"date":"2022-08","userNum":10}
-    ],
-    
-    "averageSessionTime":
-	[
-		{"date":"2021-08","sessionTime":21.96},
-        {"date":"2021-09","sessionTime":20.61},
-        {"date":"2021-10","sessionTime":14.31},
-        {"date":"2021-11","sessionTime":16.84},
-        {"date":"2021-12","sessionTime":15.41},
-        {"date":"2022-01","sessionTime":13.32},
-        {"date":"2022-02","sessionTime":18.63},
-        {"date":"2022-03","sessionTime":9.52},
-        {"date":"2022-04","sessionTime":10.49},
-        {"date":"2022-05","sessionTime":11.25},
-        {"date":"2022-06","sessionTime":19.10},
-        {"date":"2022-07","sessionTime":11.25}
-	],
-
-    "averageSessionTime_complete":
-	[
-        {"date":"2021-01","sessionTime":0},
-        {"date":"2021-02","sessionTime":16.44},
-        {"date":"2021-03","sessionTime":16.03},
-        {"date":"2021-04","sessionTime":24.21},
-        {"date":"2021-05","sessionTime":24.92},
-        {"date":"2021-06","sessionTime":14.74},
-        {"date":"2021-07","sessionTime":16.18},
-        {"date":"2021-08","sessionTime":21.96},
-        {"date":"2021-09","sessionTime":20.61},
-        {"date":"2021-10","sessionTime":14.31},
-        {"date":"2021-11","sessionTime":16.84},
-        {"date":"2021-12","sessionTime":15.41},
-        {"date":"2022-01","sessionTime":13.32},
-        {"date":"2022-02","sessionTime":18.63},
-        {"date":"2022-03","sessionTime":9.52},
-        {"date":"2022-04","sessionTime":10.49},
-        {"date":"2022-05","sessionTime":11.25},
-        {"date":"2022-06","sessionTime":19.10},
-        {"date":"2022-07","sessionTime":11.25},
-        {"date":"2022-08","sessionTime":12.82}
-    ],
-	
-	
-    "dataFiltering_percentage":
-    [
-        {"category":"search", "value":0.6, "scale":1},
-        {"category":"node select", "value":0.3, "scale":1},
-        {"category":"link select", "value":0.2, "scale":1},
-        {"category":"color", "value":0.5, "scale":1},
-        {"category":"timeslider", "value":0.4, "scale":1},
-        {"category":"zoom", "value":0.8, "scale":1}
-    ],
-
-    "dataFiltering":
-    [
-        {"rank": 1,"category": "Time-Slider","count": 43,"value": 0,"scale": 1},
-        {"rank": 2,"category": "Link Type","count": 1,"value": 0,"scale": 1},
-        {"rank": 3,"category": "Node Type","count": 1,"value": 0,"scale": 1},
-        {"rank": 4,"category": "Search","count": 1,"value": 0,"scale": 1},
-        {"rank": 5,"category": "Zoom","count": 92,"value": 0,"scale": 1},
-        {"rank": 6,"category": "Hover","count": 94,"value": 0.4,"scale": 1},
-        {"rank": 7,"category": "Select","count": 60,"value": 0.5,"scale": 1},
-        {"rank": 8,"category": "Matrix Zoom","count": 65,"value": 0.7,"scale": 1},
-        {"rank": 9,"category": "Matrix Labelling","count": 70,"value": 0.1,"scale": 1}
-       ],
-
-    "Fomatting":
-    [
-        {"category": "Edge Gap","value": 220},
-        {"category": "Labelling","value": 237},
-        {"category": "Link Opacity","value": 109},
-        {"category": "Link Width","value": 12},
-        {"category": "Node Opacity","value": 3},
-        {"category": "Node Size","value": 7}
-    ]
+    "nodelink": {
+        "userNumber": [
+            {
+                "date": "2022-04",
+                "userNum": 173
+            },
+            {
+                "date": "2022-05",
+                "userNum": 122
+            },
+            {
+                "date": "2022-06",
+                "userNum": 169
+            },
+            {
+                "date": "2022-07",
+                "userNum": 150
+            },
+            {
+                "date": "2022-08",
+                "userNum": 118
+            },
+            {
+                "date": "2022-09",
+                "userNum": 95
+            },
+            {
+                "date": "2022-10",
+                "userNum": 92
+            },
+            {
+                "date": "2022-11",
+                "userNum": 118
+            },
+            {
+                "date": "2022-12",
+                "userNum": 82
+            },
+            {
+                "date": "2023-01",
+                "userNum": 97
+            },
+            {
+                "date": "2023-02",
+                "userNum": 89
+            },
+            {
+                "date": "2023-03",
+                "userNum": 154
+            }
+        ],
+        "userNumber_completedata": [
+            {
+                "date": "2021-01",
+                "userNum": 0
+            },
+            {
+                "date": "2021-02",
+                "userNum": 13
+            },
+            {
+                "date": "2021-03",
+                "userNum": 14
+            },
+            {
+                "date": "2021-04",
+                "userNum": 13
+            },
+            {
+                "date": "2021-05",
+                "userNum": 9
+            },
+            {
+                "date": "2021-06",
+                "userNum": 22
+            },
+            {
+                "date": "2021-07",
+                "userNum": 35
+            },
+            {
+                "date": "2021-08",
+                "userNum": 42
+            },
+            {
+                "date": "2021-09",
+                "userNum": 65
+            },
+            {
+                "date": "2021-10",
+                "userNum": 44
+            },
+            {
+                "date": "2021-11",
+                "userNum": 34
+            },
+            {
+                "date": "2021-12",
+                "userNum": 39
+            },
+            {
+                "date": "2022-01",
+                "userNum": 157
+            },
+            {
+                "date": "2022-02",
+                "userNum": 361
+            },
+            {
+                "date": "2022-03",
+                "userNum": 346
+            },
+            {
+                "date": "2022-04",
+                "userNum": 173
+            },
+            {
+                "date": "2022-05",
+                "userNum": 122
+            },
+            {
+                "date": "2022-06",
+                "userNum": 169
+            },
+            {
+                "date": "2022-07",
+                "userNum": 150
+            },
+            {
+                "date": "2022-08",
+                "userNum": 118
+            },
+            {
+                "date": "2022-09",
+                "userNum": 95
+            },
+            {
+                "date": "2022-10",
+                "userNum": 92
+            },
+            {
+                "date": "2022-11",
+                "userNum": 118
+            },
+            {
+                "date": "2022-12",
+                "userNum": 82
+            },
+            {
+                "date": "2023-01",
+                "userNum": 97
+            },
+            {
+                "date": "2023-02",
+                "userNum": 89
+            },
+            {
+                "date": "2023-03",
+                "userNum": 154
+            },
+            {
+                "date": "2023-04",
+                "userNum": 28
+            },
+            {
+                "date": "2023-05",
+                "userNum": 0
+            },
+            {
+                "date": "2023-06",
+                "userNum": 0
+            },
+            {
+                "date": "2023-07",
+                "userNum": 0
+            },
+            {
+                "date": "2023-08",
+                "userNum": 0
+            },
+            {
+                "date": "2023-09",
+                "userNum": 0
+            },
+            {
+                "date": "2023-10",
+                "userNum": 0
+            },
+            {
+                "date": "2023-11",
+                "userNum": 0
+            },
+            {
+                "date": "2023-12",
+                "userNum": 0
+            }
+        ],
+        "averageSessionTime": [
+            {
+                "date": "2022-04",
+                "sessionTime": 8.592392649680711
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.792590879856116
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 25.705973841004177
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.31387973441736
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 17.5240644832244
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 9.577568091536458
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 11.388205156047196
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 17.147604837192095
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 9.885027617901237
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 11.031075750699301
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 15.259722806737587
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 13.404694332124693
+            }
+        ],
+        "averageSessionTime_complete": [
+            {
+                "date": "2021-01",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-02",
+                "sessionTime": 16.44012257419355
+            },
+            {
+                "date": "2021-03",
+                "sessionTime": 16.03081827311828
+            },
+            {
+                "date": "2021-04",
+                "sessionTime": 24.21244607254902
+            },
+            {
+                "date": "2021-05",
+                "sessionTime": 24.920046659999997
+            },
+            {
+                "date": "2021-06",
+                "sessionTime": 14.7369809996124
+            },
+            {
+                "date": "2021-07",
+                "sessionTime": 16.1824624952381
+            },
+            {
+                "date": "2021-08",
+                "sessionTime": 21.962712987288143
+            },
+            {
+                "date": "2021-09",
+                "sessionTime": 20.365484343292685
+            },
+            {
+                "date": "2021-10",
+                "sessionTime": 14.313652511006289
+            },
+            {
+                "date": "2021-11",
+                "sessionTime": 16.791520447348482
+            },
+            {
+                "date": "2021-12",
+                "sessionTime": 16.228952611666667
+            },
+            {
+                "date": "2022-01",
+                "sessionTime": 11.715402292911888
+            },
+            {
+                "date": "2022-02",
+                "sessionTime": 18.710126516124426
+            },
+            {
+                "date": "2022-03",
+                "sessionTime": 11.816974389359332
+            },
+            {
+                "date": "2022-04",
+                "sessionTime": 8.592392649680711
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.792590879856116
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 25.705973841004177
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.31387973441736
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 17.5240644832244
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 9.577568091536458
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 11.388205156047196
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 17.147604837192095
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 9.885027617901237
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 11.031075750699301
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 15.259722806737587
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 13.404694332124693
+            },
+            {
+                "date": "2023-04",
+                "sessionTime": 16.52691160959596
+            },
+            {
+                "date": "2023-05",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-06",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-07",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-08",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-09",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-10",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-11",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-12",
+                "sessionTime": 0.0
+            }
+        ],
+        "dataFiltering": [
+            {
+                "category": "Time Slider",
+                "value": 179
+            },
+            {
+                "category": "Link Type",
+                "value": 5
+            },
+            {
+                "category": "Node Type",
+                "value": 1
+            },
+            {
+                "category": "Search",
+                "value": 5
+            },
+            {
+                "category": "Zoom",
+                "value": 555
+            },
+            {
+                "category": "Hover",
+                "value": 587
+            },
+            {
+                "category": "Select",
+                "value": 318
+            }
+        ],
+        "Fomatting": [
+            {
+                "category": "Edge Gap",
+                "value": 22
+            },
+            {
+                "category": "Labelling",
+                "value": 385
+            },
+            {
+                "category": "Link Opacity",
+                "value": 27
+            },
+            {
+                "category": "Link Width",
+                "value": 43
+            },
+            {
+                "category": "Node Opacity",
+                "value": 20
+            },
+            {
+                "category": "Node Size",
+                "value": 40
+            }
+        ]
     },
-
-    "timeline":
-    {
-    "userNumber":
-	[
-		{"date":"2021-08","userNum":9},
-        {"date":"2021-09","userNum":31},
-        {"date":"2021-10","userNum":22},
-        {"date":"2021-11","userNum":8},
-        {"date":"2021-12","userNum":15},
-        {"date":"2022-01","userNum":19},
-        {"date":"2022-02","userNum":31},
-        {"date":"2022-03","userNum":41},
-        {"date":"2022-04","userNum":26},
-        {"date":"2022-05","userNum":24},
-        {"date":"2022-06","userNum":38},
-        {"date":"2022-07","userNum":22}
-	],
-
-    "userNumber_completedata":
-    [
-        {"date":"2021-01","userNum":0},
-        {"date":"2021-02","userNum":4},
-        {"date":"2021-03","userNum":3},
-        {"date":"2021-04","userNum":2},
-        {"date":"2021-05","userNum":3},
-        {"date":"2021-06","userNum":11},
-        {"date":"2021-07","userNum":15},
-        {"date":"2021-08","userNum":9},
-        {"date":"2021-09","userNum":31},
-        {"date":"2021-10","userNum":22},
-        {"date":"2021-11","userNum":8},
-        {"date":"2021-12","userNum":15},
-        {"date":"2022-01","userNum":19},
-        {"date":"2022-02","userNum":31},
-        {"date":"2022-03","userNum":41},
-        {"date":"2022-04","userNum":26},
-        {"date":"2022-05","userNum":24},
-        {"date":"2022-06","userNum":38},
-        {"date":"2022-07","userNum":22},
-        {"date":"2022-08","userNum":1}
-    ],
-    
-    "averageSessionTime":
-	[
-		{"date":"2021-08","sessionTime":32.40},
-        {"date":"2021-09","sessionTime":29.73},
-        {"date":"2021-10","sessionTime":15.11},
-        {"date":"2021-11","sessionTime":18.21},
-        {"date":"2021-12","sessionTime":18.55},
-        {"date":"2022-01","sessionTime":14.21},
-        {"date":"2022-02","sessionTime":19.78},
-        {"date":"2022-03","sessionTime":10.11},
-        {"date":"2022-04","sessionTime":12.87},
-        {"date":"2022-05","sessionTime":12.52},
-        {"date":"2022-06","sessionTime":20.09},
-        {"date":"2022-07","sessionTime":13.16}
-	],
-
-    "averageSessionTime_complete":
-	[
-        {"date":"2021-01","sessionTime":0},
-        {"date":"2021-02","sessionTime":20.43},
-        {"date":"2021-03","sessionTime":14.87},
-        {"date":"2021-04","sessionTime":0},
-        {"date":"2021-05","sessionTime":24.74},
-        {"date":"2021-06","sessionTime":16.35},
-        {"date":"2021-07","sessionTime":21.36},
-        {"date":"2021-08","sessionTime":32.40},
-        {"date":"2021-09","sessionTime":29.73},
-        {"date":"2021-10","sessionTime":15.11},
-        {"date":"2021-11","sessionTime":18.21},
-        {"date":"2021-12","sessionTime":18.55},
-        {"date":"2022-01","sessionTime":14.21},
-        {"date":"2022-02","sessionTime":19.78},
-        {"date":"2022-03","sessionTime":10.11},
-        {"date":"2022-04","sessionTime":12.87},
-        {"date":"2022-05","sessionTime":12.52},
-        {"date":"2022-06","sessionTime":20.09},
-        {"date":"2022-07","sessionTime":13.16},
-        {"date":"2022-08","sessionTime":10.16}
-    ],
-
-    "dataFiltering":
-    [
-        {"rank": 1,"category": "Time-Slider","count": 49,"value": 0.671,"scale": 1},
-        {"rank": 2,"category": "Link Type","count": 2,"value": 0.027,"scale": 1},
-        {"rank": 3,"category": "Node Type","count": 1,"value": 0.005,"scale": 1},
-        {"rank": 4,"category": "Search","count": 5,"value": 0.068,"scale": 1},
-        {"rank": 5,"category": "Zoom","count": 65,"value": 0.891,"scale": 1},
-        {"rank": 6,"category": "Hover","count": 101,"value": 1,"scale": 1}
-       ],
-	
-
-    "Fomatting":
-    [
-        {"category":"null", "value":0}
-    ]},
-
-    "matrix":
-    {
-    "userNumber":
-	[
-		{"date":"2021-08","userNum":14},
-        {"date":"2021-09","userNum":37},
-        {"date":"2021-10","userNum":16},
-        {"date":"2021-11","userNum":13},
-        {"date":"2021-12","userNum":15},
-        {"date":"2022-01","userNum":31},
-        {"date":"2022-02","userNum":59},
-        {"date":"2022-03","userNum":55},
-        {"date":"2022-04","userNum":29},
-        {"date":"2022-05","userNum":27},
-        {"date":"2022-06","userNum":48},
-        {"date":"2022-07","userNum":28}
-	],
-
-    "userNumber_completedata":
-    [
-        {"date":"2021-01","userNum":0},
-        {"date":"2021-02","userNum":4},
-        {"date":"2021-03","userNum":4},
-        {"date":"2021-04","userNum":3},
-        {"date":"2021-05","userNum":4},
-        {"date":"2021-06","userNum":13},
-        {"date":"2021-07","userNum":17},
-        {"date":"2021-08","userNum":14},
-        {"date":"2021-09","userNum":37},
-        {"date":"2021-10","userNum":16},
-        {"date":"2021-11","userNum":13},
-        {"date":"2021-12","userNum":15},
-        {"date":"2022-01","userNum":31},
-        {"date":"2022-02","userNum":59},
-        {"date":"2022-03","userNum":55},
-        {"date":"2022-04","userNum":29},
-        {"date":"2022-05","userNum":27},
-        {"date":"2022-06","userNum":48},
-        {"date":"2022-07","userNum":28},
-        {"date":"2022-08","userNum":4}
-    ],
-    
-    "averageSessionTime":
-	[
-		{"date":"2021-08","sessionTime":34.21},
-        {"date":"2021-09","sessionTime":26.92},
-        {"date":"2021-10","sessionTime":17.68},
-        {"date":"2021-11","sessionTime":21.79},
-        {"date":"2021-12","sessionTime":18.37},
-        {"date":"2022-01","sessionTime":14.30},
-        {"date":"2022-02","sessionTime":20.52},
-        {"date":"2022-03","sessionTime":10.32},
-        {"date":"2022-04","sessionTime":12.17},
-        {"date":"2022-05","sessionTime":10.53},
-        {"date":"2022-06","sessionTime":22.10},
-        {"date":"2022-07","sessionTime":13.61}
-	],
-
-    "averageSessionTime_complete":
-	[
-        {"date":"2021-01","sessionTime":0},
-        {"date":"2021-02","sessionTime":21.32},
-        {"date":"2021-03","sessionTime":25.50},
-        {"date":"2021-04","sessionTime":39.67},
-        {"date":"2021-05","sessionTime":20.27},
-        {"date":"2021-06","sessionTime":13.67},
-        {"date":"2021-07","sessionTime":19.80},
-        {"date":"2021-08","sessionTime":34.21},
-        {"date":"2021-09","sessionTime":26.92},
-        {"date":"2021-10","sessionTime":17.68},
-        {"date":"2021-11","sessionTime":21.79},
-        {"date":"2021-12","sessionTime":18.37},
-        {"date":"2022-01","sessionTime":14.30},
-        {"date":"2022-02","sessionTime":20.52},
-        {"date":"2022-03","sessionTime":10.32},
-        {"date":"2022-04","sessionTime":12.17},
-        {"date":"2022-05","sessionTime":10.53},
-        {"date":"2022-06","sessionTime":22.10},
-        {"date":"2022-07","sessionTime":13.61},
-        {"date":"2022-08","sessionTime":11.26}
-    ],
-
-    "dataFiltering":
-    [
-        {"rank": 1,"category": "Time-Slider","count": 59,"value": 0.522,"scale": 1},
-        {"rank": 2,"category": "Link Type","count": 5,"value": 0.044,"scale": 1},
-        {"rank": 3,"category": "Node Type","count": 1,"value": 0.008,"scale": 1},
-        {"rank": 4,"category": "Search","count": 5,"value": 0.044,"scale": 1}
-       ],
-
-    "Fomatting":
-    [
-        {"category":"labelling", "value":100}
-    ]},
-
-    "geolocation":
-    {
-    "userNumber":
-	[
-		{"date":"2021-08","userNum":13},
-        {"date":"2021-09","userNum":30},
-        {"date":"2021-10","userNum":26},
-        {"date":"2021-11","userNum":17},
-        {"date":"2021-12","userNum":13},
-        {"date":"2022-01","userNum":46},
-        {"date":"2022-02","userNum":37},
-        {"date":"2022-03","userNum":40},
-        {"date":"2022-04","userNum":35},
-        {"date":"2022-05","userNum":28},
-        {"date":"2022-06","userNum":33},
-        {"date":"2022-07","userNum":24}
-	],
-
-    "userNumber_completedata":
-    [
-        {"date":"2021-01","userNum":0},
-        {"date":"2021-02","userNum":5},
-        {"date":"2021-03","userNum":5},
-        {"date":"2021-04","userNum":2},
-        {"date":"2021-05","userNum":1},
-        {"date":"2021-06","userNum":14},
-        {"date":"2021-07","userNum":16},
-        {"date":"2021-08","userNum":13},
-        {"date":"2021-09","userNum":30},
-        {"date":"2021-10","userNum":26},
-        {"date":"2021-11","userNum":17},
-        {"date":"2021-12","userNum":13},
-        {"date":"2022-01","userNum":46},
-        {"date":"2022-02","userNum":37},
-        {"date":"2022-03","userNum":40},
-        {"date":"2022-04","userNum":35},
-        {"date":"2022-05","userNum":28},
-        {"date":"2022-06","userNum":33},
-        {"date":"2022-07","userNum":24},
-        {"date":"2022-08","userNum":6}
-    ],
-    
-    "averageSessionTime":
-	[
-		{"date":"2021-08","sessionTime":32.40},
-        {"date":"2021-09","sessionTime":29.73},
-        {"date":"2021-10","sessionTime":15.11},
-        {"date":"2021-11","sessionTime":18.21},
-        {"date":"2021-12","sessionTime":18.55},
-        {"date":"2022-01","sessionTime":14.21},
-        {"date":"2022-02","sessionTime":19.78},
-        {"date":"2022-03","sessionTime":10.11},
-        {"date":"2022-04","sessionTime":12.87},
-        {"date":"2022-05","sessionTime":12.52},
-        {"date":"2022-06","sessionTime":20.09},
-        {"date":"2022-07","sessionTime":13.16}
-	],
-
-    "averageSessionTime_complete":
-	[
-        {"date":"2021-01","sessionTime":0},
-        {"date":"2021-02","sessionTime":20.43},
-        {"date":"2021-03","sessionTime":14.87},
-        {"date":"2021-04","sessionTime":0},
-        {"date":"2021-05","sessionTime":24.74},
-        {"date":"2021-06","sessionTime":16.35},
-        {"date":"2021-07","sessionTime":21.36},
-        {"date":"2021-08","sessionTime":32.40},
-        {"date":"2021-09","sessionTime":29.73},
-        {"date":"2021-10","sessionTime":15.11},
-        {"date":"2021-11","sessionTime":18.21},
-        {"date":"2021-12","sessionTime":18.55},
-        {"date":"2022-01","sessionTime":14.21},
-        {"date":"2022-02","sessionTime":19.78},
-        {"date":"2022-03","sessionTime":10.11},
-        {"date":"2022-04","sessionTime":12.87},
-        {"date":"2022-05","sessionTime":12.52},
-        {"date":"2022-06","sessionTime":20.09},
-        {"date":"2022-07","sessionTime":13.16},
-        {"date":"2022-08","sessionTime":10.16}
-    ],
-	
-	
-    "dataFiltering":
-    [
-        {"rank": 1,"category": "Time-Slider","count": 57,"value": 0.606,"scale": 1},
-        {"rank": 2,"category": "Link Type","count": 4,"value": 0.042,"scale": 1},
-        {"rank": 3,"category": "Node Type","count": 1,"value": 0.011,"scale": 1},
-        {"rank": 4,"category": "Search","count": 4,"value": 0.042,"scale": 1},
-        {"rank": 5,"category": "Zoom","count": 127,"value": 1,"scale": 1},
-        {"rank": 6,"category": "Edge Gap","count": 8,"value": 0.085,"scale": 1},
-        {"rank": 6,"category": "Hover","count": 121,"value": 1,"scale": 1},
-        {"rank": 6,"category": "Select","count": 66,"value": 0.904,"scale": 1}
-       ],
-
-    "Fomatting":
-    [
-        {"category":"Labelling", "value":79},
-        {"category":"link Opacity", "value":9},
-        {"category":"Link Width", "value":16},
-        {"category":"Node Overlap", "value":4},
-        {"category":"PositionlessNode Opacity", "value":3}
-        
-    ]},
-
-    "coordinated":
-    {
-    "userNumber":
-	[
-		{"date":"2021-08","userNum":4},
-        {"date":"2021-09","userNum":23},
-        {"date":"2021-10","userNum":3},
-        {"date":"2021-11","userNum":3},
-        {"date":"2021-12","userNum":5},
-        {"date":"2022-01","userNum":11},
-        {"date":"2022-02","userNum":19},
-        {"date":"2022-03","userNum":28},
-        {"date":"2022-04","userNum":10},
-        {"date":"2022-05","userNum":2},
-        {"date":"2022-06","userNum":0},
-        {"date":"2022-07","userNum":0}
-	],
-
-    "userNumber_completedata":
-    [
-        {"date":"2021-01","userNum":0},
-        {"date":"2021-02","userNum":1},
-        {"date":"2021-03","userNum":0},
-        {"date":"2021-04","userNum":0},
-        {"date":"2021-05","userNum":0},
-        {"date":"2021-06","userNum":7},
-        {"date":"2021-07","userNum":4},
-        {"date":"2021-08","userNum":4},
-        {"date":"2021-09","userNum":23},
-        {"date":"2021-10","userNum":3},
-        {"date":"2021-11","userNum":3},
-        {"date":"2021-12","userNum":5},
-        {"date":"2022-01","userNum":11},
-        {"date":"2022-02","userNum":19},
-        {"date":"2022-03","userNum":28},
-        {"date":"2022-04","userNum":10},
-        {"date":"2022-05","userNum":2},
-        {"date":"2022-06","userNum":0},
-        {"date":"2022-07","userNum":0},
-        {"date":"2022-08","userNum":0}
-    ],
-    
-    "averageSessionTime":
-	[
-		{"date":"2021-08","sessionTime":50},
-        {"date":"2021-09","sessionTime":33},
-        {"date":"2021-10","sessionTime":28},
-        {"date":"2021-11","sessionTime":33},
-        {"date":"2021-12","sessionTime":23},
-        {"date":"2022-01","sessionTime":16},
-        {"date":"2022-02","sessionTime":21},
-        {"date":"2022-03","sessionTime":11},
-        {"date":"2022-04","sessionTime":13},
-        {"date":"2022-05","sessionTime":12},
-        {"date":"2022-06","sessionTime":29},
-        {"date":"2022-07","sessionTime":10}
-	],
-
-    "averageSessionTime_complete":
-	[
-        {"date":"2021-01","sessionTime":0},
-        {"date":"2021-02","sessionTime":26.12},
-        {"date":"2021-03","sessionTime":0},
-        {"date":"2021-04","sessionTime":0},
-        {"date":"2021-05","sessionTime":0},
-        {"date":"2021-06","sessionTime":12.23},
-        {"date":"2021-07","sessionTime":32.34},
-        {"date":"2021-08","sessionTime":49.88},
-        {"date":"2021-09","sessionTime":33.42},
-        {"date":"2021-10","sessionTime":27.92},
-        {"date":"2021-11","sessionTime":32.70},
-        {"date":"2021-12","sessionTime":23.45},
-        {"date":"2022-01","sessionTime":16.01},
-        {"date":"2022-02","sessionTime":21.41},
-        {"date":"2022-03","sessionTime":10.85},
-        {"date":"2022-04","sessionTime":13.02},
-        {"date":"2022-05","sessionTime":11.70},
-        {"date":"2022-06","sessionTime":28.70},
-        {"date":"2022-07","sessionTime":10.34},
-        {"date":"2022-08","sessionTime":12.46}
-    ],
-	
-	
-    "dataFiltering":
-    [
-        {"rank": 1,"category": "Time-Slider","count": 43, "value": 0.677,"scale": 1},
-        {"rank": 2,"category": "Link Type","count": 1,"value": 0.016,"scale": 1},
-        {"rank": 3,"category": "Node Type","count": 1,"value": 0.016,"scale": 1},
-        {"rank": 4,"category": "Search","count": 1,"value": 0.016,"scale": 1},
-        {"rank": 5,"category": "Zoom","count": 92,"value": 1,"scale": 1},
-        {"rank": 6,"category": "Hover","count": 94,"value": 1,"scale": 1},
-        {"rank": 7,"category": "Select","count": 60,"value": 0.968,"scale": 1}
-       ],
-
-    "Fomatting":
-    [
-        {"category":"Edge Gap", "value":4},
-        {"category":"Labelling", "value":70},
-        {"category":"Link Opacity", "value":9},
-        {"category":"Link Width", "value":12},
-        {"category":"Node Opacity", "value":3},
-        {"category":"Node Size", "value":7},
-        {"category":"Matrix Zoom", "value":65},
-        {"category":"Matrix Labelling", "value": 70}
-    ]
-},
-
- "avg_sTime":
-    {
-        "nodelink":14.95,
-        "matrix":16.91,
-        "map":16.21,
-        "timeline":16.19,
-        "mat_nl":18.43
+    "matrix": {
+        "userNumber": [
+            {
+                "date": "2022-04",
+                "userNum": 48
+            },
+            {
+                "date": "2022-05",
+                "userNum": 42
+            },
+            {
+                "date": "2022-06",
+                "userNum": 79
+            },
+            {
+                "date": "2022-07",
+                "userNum": 89
+            },
+            {
+                "date": "2022-08",
+                "userNum": 43
+            },
+            {
+                "date": "2022-09",
+                "userNum": 30
+            },
+            {
+                "date": "2022-10",
+                "userNum": 44
+            },
+            {
+                "date": "2022-11",
+                "userNum": 45
+            },
+            {
+                "date": "2022-12",
+                "userNum": 21
+            },
+            {
+                "date": "2023-01",
+                "userNum": 24
+            },
+            {
+                "date": "2023-02",
+                "userNum": 38
+            },
+            {
+                "date": "2023-03",
+                "userNum": 82
+            }
+        ],
+        "userNumber_completedata": [
+            {
+                "date": "2021-01",
+                "userNum": 0
+            },
+            {
+                "date": "2021-02",
+                "userNum": 4
+            },
+            {
+                "date": "2021-03",
+                "userNum": 4
+            },
+            {
+                "date": "2021-04",
+                "userNum": 3
+            },
+            {
+                "date": "2021-05",
+                "userNum": 4
+            },
+            {
+                "date": "2021-06",
+                "userNum": 13
+            },
+            {
+                "date": "2021-07",
+                "userNum": 17
+            },
+            {
+                "date": "2021-08",
+                "userNum": 14
+            },
+            {
+                "date": "2021-09",
+                "userNum": 37
+            },
+            {
+                "date": "2021-10",
+                "userNum": 16
+            },
+            {
+                "date": "2021-11",
+                "userNum": 13
+            },
+            {
+                "date": "2021-12",
+                "userNum": 15
+            },
+            {
+                "date": "2022-01",
+                "userNum": 45
+            },
+            {
+                "date": "2022-02",
+                "userNum": 174
+            },
+            {
+                "date": "2022-03",
+                "userNum": 172
+            },
+            {
+                "date": "2022-04",
+                "userNum": 48
+            },
+            {
+                "date": "2022-05",
+                "userNum": 42
+            },
+            {
+                "date": "2022-06",
+                "userNum": 79
+            },
+            {
+                "date": "2022-07",
+                "userNum": 89
+            },
+            {
+                "date": "2022-08",
+                "userNum": 43
+            },
+            {
+                "date": "2022-09",
+                "userNum": 30
+            },
+            {
+                "date": "2022-10",
+                "userNum": 44
+            },
+            {
+                "date": "2022-11",
+                "userNum": 45
+            },
+            {
+                "date": "2022-12",
+                "userNum": 21
+            },
+            {
+                "date": "2023-01",
+                "userNum": 24
+            },
+            {
+                "date": "2023-02",
+                "userNum": 38
+            },
+            {
+                "date": "2023-03",
+                "userNum": 82
+            },
+            {
+                "date": "2023-04",
+                "userNum": 7
+            },
+            {
+                "date": "2023-05",
+                "userNum": 0
+            },
+            {
+                "date": "2023-06",
+                "userNum": 0
+            },
+            {
+                "date": "2023-07",
+                "userNum": 0
+            },
+            {
+                "date": "2023-08",
+                "userNum": 0
+            },
+            {
+                "date": "2023-09",
+                "userNum": 0
+            },
+            {
+                "date": "2023-10",
+                "userNum": 0
+            },
+            {
+                "date": "2023-11",
+                "userNum": 0
+            },
+            {
+                "date": "2023-12",
+                "userNum": 0
+            }
+        ],
+        "averageSessionTime": [
+            {
+                "date": "2022-04",
+                "sessionTime": 9.013150654331861
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.459368549312712
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 28.79062607124352
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.876230783707037
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 19.890973159463275
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 11.341033536497893
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 12.293890309684688
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 18.476609489631763
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.020267995111112
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 10.378872833024689
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 20.064173057912463
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 14.490176568433192
+            }
+        ],
+        "averageSessionTime_complete": [
+            {
+                "date": "2021-01",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-02",
+                "sessionTime": 21.319274353846154
+            },
+            {
+                "date": "2021-03",
+                "sessionTime": 25.49542962037037
+            },
+            {
+                "date": "2021-04",
+                "sessionTime": 39.67199333
+            },
+            {
+                "date": "2021-05",
+                "sessionTime": 20.271877075
+            },
+            {
+                "date": "2021-06",
+                "sessionTime": 13.670328118229168
+            },
+            {
+                "date": "2021-07",
+                "sessionTime": 19.80421799466667
+            },
+            {
+                "date": "2021-08",
+                "sessionTime": 34.210726536419756
+            },
+            {
+                "date": "2021-09",
+                "sessionTime": 26.921767604088057
+            },
+            {
+                "date": "2021-10",
+                "sessionTime": 17.684082900854698
+            },
+            {
+                "date": "2021-11",
+                "sessionTime": 21.79362897826087
+            },
+            {
+                "date": "2021-12",
+                "sessionTime": 18.368923978861787
+            },
+            {
+                "date": "2022-01",
+                "sessionTime": 11.82732878270945
+            },
+            {
+                "date": "2022-02",
+                "sessionTime": 19.139431724508242
+            },
+            {
+                "date": "2022-03",
+                "sessionTime": 12.076561301843675
+            },
+            {
+                "date": "2022-04",
+                "sessionTime": 9.013150654331861
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.459368549312712
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 28.79062607124352
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.876230783707037
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 19.890973159463275
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 11.341033536497893
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 12.293890309684688
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 18.476609489631763
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.020267995111112
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 10.378872833024689
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 20.064173057912463
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 14.490176568433192
+            },
+            {
+                "date": "2023-04",
+                "sessionTime": 21.67229122105263
+            },
+            {
+                "date": "2023-05",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-06",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-07",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-08",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-09",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-10",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-11",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-12",
+                "sessionTime": 0.0
+            }
+        ],
+        "dataFiltering": [
+            {
+                "category": "Time Slider",
+                "value": 160
+            },
+            {
+                "category": "Link Type",
+                "value": 3
+            },
+            {
+                "category": "Node Type",
+                "value": 1
+            },
+            {
+                "category": "Search",
+                "value": 5
+            },
+            {
+                "category": "Zoom",
+                "value": 271
+            },
+            {
+                "category": "Hover",
+                "value": 401
+            }
+        ],
+        "Fomatting": [
+            {
+                "category": "Labelling",
+                "value": 281
+            }
+        ]
     },
-
- "Total_num_sessions":
-    {
-        "nodelink":193,
-        "matrix":113,
-        "map":94,
-        "timeline":73,
-        "mat_nl":62
+    "timeline": {
+        "userNumber": [
+            {
+                "date": "2022-04",
+                "userNum": 41
+            },
+            {
+                "date": "2022-05",
+                "userNum": 31
+            },
+            {
+                "date": "2022-06",
+                "userNum": 67
+            },
+            {
+                "date": "2022-07",
+                "userNum": 72
+            },
+            {
+                "date": "2022-08",
+                "userNum": 39
+            },
+            {
+                "date": "2022-09",
+                "userNum": 27
+            },
+            {
+                "date": "2022-10",
+                "userNum": 39
+            },
+            {
+                "date": "2022-11",
+                "userNum": 50
+            },
+            {
+                "date": "2022-12",
+                "userNum": 16
+            },
+            {
+                "date": "2023-01",
+                "userNum": 17
+            },
+            {
+                "date": "2023-02",
+                "userNum": 27
+            },
+            {
+                "date": "2023-03",
+                "userNum": 50
+            }
+        ],
+        "userNumber_completedata": [
+            {
+                "date": "2021-01",
+                "userNum": 0
+            },
+            {
+                "date": "2021-02",
+                "userNum": 4
+            },
+            {
+                "date": "2021-03",
+                "userNum": 3
+            },
+            {
+                "date": "2021-04",
+                "userNum": 2
+            },
+            {
+                "date": "2021-05",
+                "userNum": 3
+            },
+            {
+                "date": "2021-06",
+                "userNum": 11
+            },
+            {
+                "date": "2021-07",
+                "userNum": 15
+            },
+            {
+                "date": "2021-08",
+                "userNum": 9
+            },
+            {
+                "date": "2021-09",
+                "userNum": 31
+            },
+            {
+                "date": "2021-10",
+                "userNum": 22
+            },
+            {
+                "date": "2021-11",
+                "userNum": 8
+            },
+            {
+                "date": "2021-12",
+                "userNum": 15
+            },
+            {
+                "date": "2022-01",
+                "userNum": 25
+            },
+            {
+                "date": "2022-02",
+                "userNum": 93
+            },
+            {
+                "date": "2022-03",
+                "userNum": 130
+            },
+            {
+                "date": "2022-04",
+                "userNum": 41
+            },
+            {
+                "date": "2022-05",
+                "userNum": 31
+            },
+            {
+                "date": "2022-06",
+                "userNum": 67
+            },
+            {
+                "date": "2022-07",
+                "userNum": 72
+            },
+            {
+                "date": "2022-08",
+                "userNum": 39
+            },
+            {
+                "date": "2022-09",
+                "userNum": 27
+            },
+            {
+                "date": "2022-10",
+                "userNum": 39
+            },
+            {
+                "date": "2022-11",
+                "userNum": 50
+            },
+            {
+                "date": "2022-12",
+                "userNum": 16
+            },
+            {
+                "date": "2023-01",
+                "userNum": 17
+            },
+            {
+                "date": "2023-02",
+                "userNum": 27
+            },
+            {
+                "date": "2023-03",
+                "userNum": 50
+            },
+            {
+                "date": "2023-04",
+                "userNum": 1
+            },
+            {
+                "date": "2023-05",
+                "userNum": 0
+            },
+            {
+                "date": "2023-06",
+                "userNum": 0
+            },
+            {
+                "date": "2023-07",
+                "userNum": 0
+            },
+            {
+                "date": "2023-08",
+                "userNum": 0
+            },
+            {
+                "date": "2023-09",
+                "userNum": 0
+            },
+            {
+                "date": "2023-10",
+                "userNum": 0
+            },
+            {
+                "date": "2023-11",
+                "userNum": 0
+            },
+            {
+                "date": "2023-12",
+                "userNum": 0
+            }
+        ],
+        "averageSessionTime": [
+            {
+                "date": "2022-04",
+                "sessionTime": 7.1577015090017815
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.248515771333336
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 29.6094780076687
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.568204408000012
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 18.598243822839503
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 9.933263325925926
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 13.628868110869568
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 21.36690394419751
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.428053519871794
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 8.486118150746266
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 12.332506870634917
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 14.116742178735636
+            }
+        ],
+        "averageSessionTime_complete": [
+            {
+                "date": "2021-01",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-02",
+                "sessionTime": 20.43195713571429
+            },
+            {
+                "date": "2021-03",
+                "sessionTime": 27.807638083333334
+            },
+            {
+                "date": "2021-04",
+                "sessionTime": 39.67199333
+            },
+            {
+                "date": "2021-05",
+                "sessionTime": 21.684530547222224
+            },
+            {
+                "date": "2021-06",
+                "sessionTime": 13.120868582051283
+            },
+            {
+                "date": "2021-07",
+                "sessionTime": 15.688352772916666
+            },
+            {
+                "date": "2021-08",
+                "sessionTime": 35.86772082291667
+            },
+            {
+                "date": "2021-09",
+                "sessionTime": 30.69083942439025
+            },
+            {
+                "date": "2021-10",
+                "sessionTime": 17.132929161666667
+            },
+            {
+                "date": "2021-11",
+                "sessionTime": 21.50524681825397
+            },
+            {
+                "date": "2021-12",
+                "sessionTime": 15.253125575193796
+            },
+            {
+                "date": "2022-01",
+                "sessionTime": 9.72702214306488
+            },
+            {
+                "date": "2022-02",
+                "sessionTime": 17.0796436259162
+            },
+            {
+                "date": "2022-03",
+                "sessionTime": 11.974279594764148
+            },
+            {
+                "date": "2022-04",
+                "sessionTime": 7.1577015090017815
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.248515771333336
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 29.6094780076687
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.568204408000012
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 18.598243822839503
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 9.933263325925926
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 13.628868110869568
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 21.36690394419751
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.428053519871794
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 8.486118150746266
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 12.332506870634917
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 14.116742178735636
+            },
+            {
+                "date": "2023-04",
+                "sessionTime": 25.29826969242424
+            },
+            {
+                "date": "2023-05",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-06",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-07",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-08",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-09",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-10",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-11",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-12",
+                "sessionTime": 0.0
+            }
+        ],
+        "dataFiltering": [
+            {
+                "category": "Time Slider",
+                "value": 146
+            },
+            {
+                "category": "Link Type",
+                "value": 2
+            },
+            {
+                "category": "Node Type",
+                "value": 1
+            },
+            {
+                "category": "Search",
+                "value": 5
+            },
+            {
+                "category": "Zoom",
+                "value": 204
+            },
+            {
+                "category": "Hover",
+                "value": 289
+            }
+        ],
+        "Fomatting": [
+            {
+                "category": "Labelling",
+                "value": 0
+            }
+        ]
+    },
+    "geolocation": {
+        "userNumber": [
+            {
+                "date": "2022-04",
+                "userNum": 67
+            },
+            {
+                "date": "2022-05",
+                "userNum": 42
+            },
+            {
+                "date": "2022-06",
+                "userNum": 59
+            },
+            {
+                "date": "2022-07",
+                "userNum": 91
+            },
+            {
+                "date": "2022-08",
+                "userNum": 38
+            },
+            {
+                "date": "2022-09",
+                "userNum": 28
+            },
+            {
+                "date": "2022-10",
+                "userNum": 43
+            },
+            {
+                "date": "2022-11",
+                "userNum": 47
+            },
+            {
+                "date": "2022-12",
+                "userNum": 26
+            },
+            {
+                "date": "2023-01",
+                "userNum": 31
+            },
+            {
+                "date": "2023-02",
+                "userNum": 23
+            },
+            {
+                "date": "2023-03",
+                "userNum": 56
+            }
+        ],
+        "userNumber_completedata": [
+            {
+                "date": "2021-01",
+                "userNum": 0
+            },
+            {
+                "date": "2021-02",
+                "userNum": 5
+            },
+            {
+                "date": "2021-03",
+                "userNum": 5
+            },
+            {
+                "date": "2021-04",
+                "userNum": 2
+            },
+            {
+                "date": "2021-05",
+                "userNum": 1
+            },
+            {
+                "date": "2021-06",
+                "userNum": 14
+            },
+            {
+                "date": "2021-07",
+                "userNum": 16
+            },
+            {
+                "date": "2021-08",
+                "userNum": 13
+            },
+            {
+                "date": "2021-09",
+                "userNum": 30
+            },
+            {
+                "date": "2021-10",
+                "userNum": 26
+            },
+            {
+                "date": "2021-11",
+                "userNum": 17
+            },
+            {
+                "date": "2021-12",
+                "userNum": 14
+            },
+            {
+                "date": "2022-01",
+                "userNum": 52
+            },
+            {
+                "date": "2022-02",
+                "userNum": 86
+            },
+            {
+                "date": "2022-03",
+                "userNum": 124
+            },
+            {
+                "date": "2022-04",
+                "userNum": 67
+            },
+            {
+                "date": "2022-05",
+                "userNum": 42
+            },
+            {
+                "date": "2022-06",
+                "userNum": 59
+            },
+            {
+                "date": "2022-07",
+                "userNum": 91
+            },
+            {
+                "date": "2022-08",
+                "userNum": 38
+            },
+            {
+                "date": "2022-09",
+                "userNum": 28
+            },
+            {
+                "date": "2022-10",
+                "userNum": 43
+            },
+            {
+                "date": "2022-11",
+                "userNum": 47
+            },
+            {
+                "date": "2022-12",
+                "userNum": 26
+            },
+            {
+                "date": "2023-01",
+                "userNum": 31
+            },
+            {
+                "date": "2023-02",
+                "userNum": 23
+            },
+            {
+                "date": "2023-03",
+                "userNum": 56
+            },
+            {
+                "date": "2023-04",
+                "userNum": 3
+            },
+            {
+                "date": "2023-05",
+                "userNum": 0
+            },
+            {
+                "date": "2023-06",
+                "userNum": 0
+            },
+            {
+                "date": "2023-07",
+                "userNum": 0
+            },
+            {
+                "date": "2023-08",
+                "userNum": 0
+            },
+            {
+                "date": "2023-09",
+                "userNum": 0
+            },
+            {
+                "date": "2023-10",
+                "userNum": 0
+            },
+            {
+                "date": "2023-11",
+                "userNum": 0
+            },
+            {
+                "date": "2023-12",
+                "userNum": 0
+            }
+        ],
+        "averageSessionTime": [
+            {
+                "date": "2022-04",
+                "sessionTime": 9.758698871157167
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 11.257863971326158
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 29.139101001893952
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.598476037829473
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 18.36631999623188
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 10.149887574183003
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 13.850464504509809
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 21.56071816491226
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.34511595751174
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 10.460145159666663
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 20.873250796787147
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 12.321651811386138
+            }
+        ],
+        "averageSessionTime_complete": [
+            {
+                "date": "2021-01",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-02",
+                "sessionTime": 20.43195713571429
+            },
+            {
+                "date": "2021-03",
+                "sessionTime": 14.872499993137254
+            },
+            {
+                "date": "2021-04",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-05",
+                "sessionTime": 24.739416654166668
+            },
+            {
+                "date": "2021-06",
+                "sessionTime": 16.348068974074078
+            },
+            {
+                "date": "2021-07",
+                "sessionTime": 21.356896292592594
+            },
+            {
+                "date": "2021-08",
+                "sessionTime": 32.40369860138889
+            },
+            {
+                "date": "2021-09",
+                "sessionTime": 29.734695343410856
+            },
+            {
+                "date": "2021-10",
+                "sessionTime": 15.109545647463767
+            },
+            {
+                "date": "2021-11",
+                "sessionTime": 18.184248916129032
+            },
+            {
+                "date": "2021-12",
+                "sessionTime": 19.789458123170736
+            },
+            {
+                "date": "2022-01",
+                "sessionTime": 11.982254924178413
+            },
+            {
+                "date": "2022-02",
+                "sessionTime": 17.103569805507476
+            },
+            {
+                "date": "2022-03",
+                "sessionTime": 11.88087429637242
+            },
+            {
+                "date": "2022-04",
+                "sessionTime": 9.758698871157167
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 11.257863971326158
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 29.139101001893952
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.598476037829473
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 18.36631999623188
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 10.149887574183003
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 13.850464504509809
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 21.56071816491226
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.34511595751174
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 10.460145159666663
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 20.873250796787147
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 12.321651811386138
+            },
+            {
+                "date": "2023-04",
+                "sessionTime": 10.158962495833334
+            },
+            {
+                "date": "2023-05",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-06",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-07",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-08",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-09",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-10",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-11",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-12",
+                "sessionTime": 0.0
+            }
+        ],
+        "dataFiltering": [
+            {
+                "category": "Time Slider",
+                "value": 152
+            },
+            {
+                "category": "Link Type",
+                "value": 4
+            },
+            {
+                "category": "Node Type",
+                "value": 1
+            },
+            {
+                "category": "Search",
+                "value": 4
+            },
+            {
+                "category": "Zoom",
+                "value": 330
+            },
+            {
+                "category": "Hover",
+                "value": 318
+            },
+            {
+                "category": "Select",
+                "value": 205
+            }
+        ],
+        "Fomatting": [
+            {
+                "category": "Edge Gap",
+                "value": 18
+            },
+            {
+                "category": "Labelling",
+                "value": 237
+            },
+            {
+                "category": "Link Opacity",
+                "value": 23
+            },
+            {
+                "category": "Link Width",
+                "value": 33
+            },
+            {
+                "category": "Node Overlap",
+                "value": 3
+            }
+        ]
+    },
+    "coordinated": {
+        "userNumber": [
+            {
+                "date": "2022-04",
+                "userNum": 20
+            },
+            {
+                "date": "2022-05",
+                "userNum": 33
+            },
+            {
+                "date": "2022-06",
+                "userNum": 48
+            },
+            {
+                "date": "2022-07",
+                "userNum": 56
+            },
+            {
+                "date": "2022-08",
+                "userNum": 21
+            },
+            {
+                "date": "2022-09",
+                "userNum": 18
+            },
+            {
+                "date": "2022-10",
+                "userNum": 24
+            },
+            {
+                "date": "2022-11",
+                "userNum": 26
+            },
+            {
+                "date": "2022-12",
+                "userNum": 14
+            },
+            {
+                "date": "2023-01",
+                "userNum": 9
+            },
+            {
+                "date": "2023-02",
+                "userNum": 18
+            },
+            {
+                "date": "2023-03",
+                "userNum": 45
+            }
+        ],
+        "userNumber_completedata": [
+            {
+                "date": "2021-01",
+                "userNum": 0
+            },
+            {
+                "date": "2021-02",
+                "userNum": 1
+            },
+            {
+                "date": "2021-03",
+                "userNum": 0
+            },
+            {
+                "date": "2021-04",
+                "userNum": 0
+            },
+            {
+                "date": "2021-05",
+                "userNum": 0
+            },
+            {
+                "date": "2021-06",
+                "userNum": 7
+            },
+            {
+                "date": "2021-07",
+                "userNum": 4
+            },
+            {
+                "date": "2021-08",
+                "userNum": 4
+            },
+            {
+                "date": "2021-09",
+                "userNum": 23
+            },
+            {
+                "date": "2021-10",
+                "userNum": 3
+            },
+            {
+                "date": "2021-11",
+                "userNum": 3
+            },
+            {
+                "date": "2021-12",
+                "userNum": 5
+            },
+            {
+                "date": "2022-01",
+                "userNum": 11
+            },
+            {
+                "date": "2022-02",
+                "userNum": 65
+            },
+            {
+                "date": "2022-03",
+                "userNum": 117
+            },
+            {
+                "date": "2022-04",
+                "userNum": 20
+            },
+            {
+                "date": "2022-05",
+                "userNum": 33
+            },
+            {
+                "date": "2022-06",
+                "userNum": 48
+            },
+            {
+                "date": "2022-07",
+                "userNum": 56
+            },
+            {
+                "date": "2022-08",
+                "userNum": 21
+            },
+            {
+                "date": "2022-09",
+                "userNum": 18
+            },
+            {
+                "date": "2022-10",
+                "userNum": 24
+            },
+            {
+                "date": "2022-11",
+                "userNum": 26
+            },
+            {
+                "date": "2022-12",
+                "userNum": 14
+            },
+            {
+                "date": "2023-01",
+                "userNum": 9
+            },
+            {
+                "date": "2023-02",
+                "userNum": 18
+            },
+            {
+                "date": "2023-03",
+                "userNum": 45
+            },
+            {
+                "date": "2023-04",
+                "userNum": 2
+            },
+            {
+                "date": "2023-05",
+                "userNum": 0
+            },
+            {
+                "date": "2023-06",
+                "userNum": 0
+            },
+            {
+                "date": "2023-07",
+                "userNum": 0
+            },
+            {
+                "date": "2023-08",
+                "userNum": 0
+            },
+            {
+                "date": "2023-09",
+                "userNum": 0
+            },
+            {
+                "date": "2023-10",
+                "userNum": 0
+            },
+            {
+                "date": "2023-11",
+                "userNum": 0
+            },
+            {
+                "date": "2023-12",
+                "userNum": 0
+            }
+        ],
+        "averageSessionTime": [
+            {
+                "date": "2022-04",
+                "sessionTime": 8.633792408867517
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.35417341054852
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 36.51822062526457
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.06642520236887
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 21.122909371354165
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 13.256524846198836
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 15.005587129824566
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 20.227305767102376
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.507746207323233
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 11.341447978205126
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 22.887422883333336
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 16.11657648709057
+            }
+        ],
+        "averageSessionTime_complete": [
+            {
+                "date": "2021-01",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-02",
+                "sessionTime": 26.123907138095237
+            },
+            {
+                "date": "2021-03",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-04",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-05",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2021-06",
+                "sessionTime": 12.23320555
+            },
+            {
+                "date": "2021-07",
+                "sessionTime": 32.34405277222222
+            },
+            {
+                "date": "2021-08",
+                "sessionTime": 49.87835221111111
+            },
+            {
+                "date": "2021-09",
+                "sessionTime": 33.420218913513516
+            },
+            {
+                "date": "2021-10",
+                "sessionTime": 27.91882221666667
+            },
+            {
+                "date": "2021-11",
+                "sessionTime": 32.70188666
+            },
+            {
+                "date": "2021-12",
+                "sessionTime": 23.448672218749994
+            },
+            {
+                "date": "2022-01",
+                "sessionTime": 11.85381327425475
+            },
+            {
+                "date": "2022-02",
+                "sessionTime": 18.94084513123197
+            },
+            {
+                "date": "2022-03",
+                "sessionTime": 12.255457574506767
+            },
+            {
+                "date": "2022-04",
+                "sessionTime": 8.633792408867517
+            },
+            {
+                "date": "2022-05",
+                "sessionTime": 10.35417341054852
+            },
+            {
+                "date": "2022-06",
+                "sessionTime": 36.51822062526457
+            },
+            {
+                "date": "2022-07",
+                "sessionTime": 10.06642520236887
+            },
+            {
+                "date": "2022-08",
+                "sessionTime": 21.122909371354165
+            },
+            {
+                "date": "2022-09",
+                "sessionTime": 13.256524846198836
+            },
+            {
+                "date": "2022-10",
+                "sessionTime": 15.005587129824566
+            },
+            {
+                "date": "2022-11",
+                "sessionTime": 20.227305767102376
+            },
+            {
+                "date": "2022-12",
+                "sessionTime": 11.507746207323233
+            },
+            {
+                "date": "2023-01",
+                "sessionTime": 11.341447978205126
+            },
+            {
+                "date": "2023-02",
+                "sessionTime": 22.887422883333336
+            },
+            {
+                "date": "2023-03",
+                "sessionTime": 16.11657648709057
+            },
+            {
+                "date": "2023-04",
+                "sessionTime": 23.4205592537037
+            },
+            {
+                "date": "2023-05",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-06",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-07",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-08",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-09",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-10",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-11",
+                "sessionTime": 0.0
+            },
+            {
+                "date": "2023-12",
+                "sessionTime": 0.0
+            }
+        ],
+        "dataFiltering": [
+            {
+                "category": "Time Slider",
+                "value": 137
+            },
+            {
+                "category": "Link Type",
+                "value": 1
+            },
+            {
+                "category": "Node Type",
+                "value": 1
+            },
+            {
+                "category": "Search",
+                "value": 1
+            },
+            {
+                "category": "Zoom",
+                "value": 302
+            },
+            {
+                "category": "Hover",
+                "value": 305
+            },
+            {
+                "category": "Select",
+                "value": 221
+            },
+            {
+                "category": "Matrix Zoom",
+                "value": 224
+            },
+            {
+                "category": "Matrix Labelling",
+                "value": 222
+            }
+        ],
+        "Fomatting": [
+            {
+                "category": "Edge Gap",
+                "value": 14
+            },
+            {
+                "category": "Labelling",
+                "value": 246
+            },
+            {
+                "category": "Link Opacity",
+                "value": 23
+            },
+            {
+                "category": "Link Width",
+                "value": 30
+            },
+            {
+                "category": "Node Opacity",
+                "value": 18
+            },
+            {
+                "category": "Node Size",
+                "value": 37
+            }
+        ]
+    },
+    "avg_sTime": {
+        "nodelink": 14.58,
+        "matrix": 15.69,
+        "timeline": 14.92,
+        "map": 15.03,
+        "mat_nl": 16.34
+    },
+    "Total_num_sessions": {
+        "nodelink": 369,
+        "matrix": 209,
+        "timeline": 137,
+        "map": 136,
+        "mat_nl": 128
     }
-    
 }

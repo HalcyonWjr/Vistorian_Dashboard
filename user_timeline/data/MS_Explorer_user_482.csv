@@ -1,0 +1,890 @@
+user,uuid,ts,category,action,label,value
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632741940799,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632741940799,log_2,index,webpage,load
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632741950572,log_9,start logging,webpage,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632741950573,log_9,VistorianLab,ON,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742137309,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742410416,log_3,index,my session href,click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742410427,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742411113,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742411113,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742411114,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742411781,log,load,webpage,/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742411781,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742420668,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742426246,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742426247,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742429132,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742445508,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742445509,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742445623,dat_2_DT,data view,DataTables_FileUpload,new file upload
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742449343,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742457948,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742457951,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742460503,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742460504,dat_1,data view,new network,created
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742471371,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742483475,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742483475,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742491655,bkm_8, bookmark window ,minimized,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742501568,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742501569,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742501573,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742501574,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742501583,dat_3_LK,data view,LinkTable_select, LK selected
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742504052,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742504053,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742504064,dat_12,data view,directed checkbox,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742505658,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742513274,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742513276,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742515857,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742526381,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742526381,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742543965,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742543966,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742544084,dat_11,data view,Column Data Type Specified,location_source
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742544721,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742544722,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742545069,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742548863,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742548865,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742551448,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742551449,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742551853,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742551854,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742551854,dat_11,data view,Column Data Type Specified,source
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742554085,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742554085,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742554518,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742554518,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742554518,dat_11,data view,Column Data Type Specified,target
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742558536,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742558536,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742558660,dat_11,data view,Column Data Type Specified,location_source
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742559316,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742559317,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742560499,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742560500,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742560578,dat_11,data view,Column Data Type Specified,location_target
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742561051,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742561880,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742561881,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742567209,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742567211,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742570028,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742570029,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742570517,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742570518,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742570518,dat_11,data view,Column Data Type Specified,weight
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742573527,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742573528,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742573980,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742573981,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742573981,dat_11,data view,Column Data Type Specified,linkType
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742579132,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742582063,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742582064,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742584858,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742584859,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742585363,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742585363,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742585363,dat_11,data view,Column Data Type Specified,time
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742586851,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742621864,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742621865,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742630944,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742648527,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742648528,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742660242,dat_9,data view,network name,updated
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742660664,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742660665,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742660672,dat_17,data view,network,saved
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742664852,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742695482,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742695488,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742697235,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742697236,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742697268,vis_1,data view,Vis Creation Link Clicked,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742697277,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742698127,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742698127,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742698129,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742698136,bkm_8, bookmark window ,minimized,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742699661,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742699661,log_2,node link,webpage,load
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742699664,log_2,load,webpage,/web/nodelink.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742699664,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742702805,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742708066,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742708067,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742710992,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742746219,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742746220,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742747529,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742747529,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742747712,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742747712,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742747715,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742748080,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742748093,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742748407,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742748423,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742748769,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742749219,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742749541,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742749694,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742750059,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742750534,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742750842,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742751193,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742751417,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742751686,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752020,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752028,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752191,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752199,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752404,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752601,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742752825,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742753521,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742753857,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742754313,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742754460,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742754462,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742755349,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742756322,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742756326,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742756738,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742756748,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742760901,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742761094,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742761452,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742762711,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742762951,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742763319,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742763653,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742764132,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742764525,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742772552,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742797011,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742806022,bkm_8, bookmark window ,maximized,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742818219,bkm_8, bookmark window ,minimized,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742820206,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742820841,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742823047,vis_9,Node Link,selection-input_Labeling,0
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742823892,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742824094,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742824282,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742824792,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742825135,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742828496,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742830000,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742830338,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742831031,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742871716,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742917811,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742917951,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742918189,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742918282,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742951287,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742951429,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952065,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952169,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952263,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952433,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952527,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952628,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952731,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742952832,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742957889,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742958014,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742958116,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742958330,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742958651,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742960689,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742960905,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742961929,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742962041,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742962150,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742962257,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742971085,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742971382,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742971731,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742971876,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742972004,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742974014,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742974567,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742974688,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742976131,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742976287,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742976434,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742976548,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742977017,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742977828,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742977982,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978120,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978224,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978329,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978420,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978532,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978656,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742978970,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742979139,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742979265,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742979393,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742979735,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742979849,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742980014,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742980160,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742980530,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742980666,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742980793,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742980997,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982080,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982216,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982329,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982451,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982546,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982648,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982744,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982857,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742982964,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742983049,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742983172,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742984365,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742984475,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742984597,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742984691,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742984798,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742984894,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742985174,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742985283,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742986470,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742986603,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742991598,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742991751,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742991859,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742991970,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742992647,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742992757,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742992857,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742992969,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742993087,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742993194,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742993300,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742993449,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742995016,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742995118,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742995209,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742995384,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742995512,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742995619,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742996309,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742996326,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742997247,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632742997469,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743000258,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743000375,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743017343,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743017466,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743017560,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743017648,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743017746,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743018108,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743019038,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743019052,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743019934,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743020577,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743020597,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743024063,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743024080,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743024775,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743031891,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743084549,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743085049,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743085611,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743085624,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743086742,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743086755,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743087424,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743089414,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743089522,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743090729,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743090829,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743105611,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743105729,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743105852,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743186215,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743186325,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743186442,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743186586,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743186701,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743186919,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743187361,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743187508,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743187609,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743188198,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743188405,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743189542,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743189646,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743189740,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743197731,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743197851,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743224525,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743224659,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743225210,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743226531,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743232539,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743232644,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743232726,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743233466,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743233600,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743233602,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743234115,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743234224,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743234984,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743234986,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743235081,log_4,/web/nodelink.html,Return to Data View Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743235601,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743236648,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743236648,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743236648,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743236650,err,TypeError: document.getElementById(...) is null https://vistorian.online/web/bookmarkLogConsent.js99,{},/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743237236,log,load,webpage,/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743237237,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743237247,bkm_8, bookmark window ,minimized,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743238233,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743238242,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743238246,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743240404,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743240522,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743240654,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743241971,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743242071,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743242184,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743242841,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743243757,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743244475,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743244478,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743261585,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743262868,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743263017,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743294979,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743296383,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743296548,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743296762,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743296870,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743296968,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743298213,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743298345,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743298724,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743298724,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743298830,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743298967,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299095,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299104,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299263,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299435,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299547,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299555,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743299919,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743300562,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743300677,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743300785,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743303361,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743303543,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743303649,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743303745,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743303858,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743303969,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743304094,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743304210,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743304329,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743304445,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743304561,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743304777,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743305002,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743305281,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743305577,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743307126,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743307278,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743307395,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743307501,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743327210,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743327543,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743327774,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743327908,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743328057,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743328175,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743328311,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743351287,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743351414,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743351554,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743351696,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743352207,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743365668,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743365803,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743365957,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743374250,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743374417,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743374525,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743374749,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743374870,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743374992,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743492691,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743512347,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743516136,log_12,page,close,/web/nodelink.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743516147,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743516148,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743529313,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743529314,dat_18,data view,network_status,False
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743529316,dat_1,data view,new network,created
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743532324,dat_4,data view,selected network,deleted
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743533520,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743533522,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542063,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542064,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542105,vis_1,data view,Vis Creation Link Clicked,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542111,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542834,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542834,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542838,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743542842,bkm_8, bookmark window ,minimized,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743544070,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743544070,log_2,node link,webpage,load
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743544127,log_2,load,webpage,/web/nodelink.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743544127,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743549042,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743549049,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743549050,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743553641,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743553642,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743553646,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743554835,log_12,page,close,/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743554842,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743554844,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743554846,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743555688,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743555720,log_17,page,focus,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743555722,log_9,VistorianLab,ON,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743558843,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743558843,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743558849,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743558849,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743559116,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743559117,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743560144,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743561215,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743561624,log_18,page,blur,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743561804,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743561972,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743562156,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743562555,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743562754,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743563049,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743563386,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743563531,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743563890,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743564302,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743564813,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743564978,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743565170,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743565335,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743565908,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743566128,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743566297,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743566572,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743566729,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743566913,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743567239,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743567397,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743568067,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743568310,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743568511,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743568686,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743568862,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743569025,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743569223,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743569697,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743570055,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743570249,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743570447,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743570657,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743570966,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743571577,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743571578,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743573196,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743573196,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743573655,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743573876,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743624408,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743624603,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743625219,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743626745,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743627625,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743627892,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743628078,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743628331,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743628523,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743628725,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743628923,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743629086,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743629276,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743629477,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743629621,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743630720,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743630880,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743631083,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743631228,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743645080,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743645301,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743646478,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743646651,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743646741,vis_31,/node_modules/vistorian-nodelink/web/index.html,Link,Click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743647071,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743647256,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743710011,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743710859,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743710863,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743715662,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743716898,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743716899,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718035,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718035,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718066,vis_1,data view,Vis Creation Link Clicked,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718071,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718806,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718806,log_17,page,focus,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718814,log_9,VistorianLab,ON,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718815,err,TypeError: document.getElementById(...) is null https://vistorian.online/web/bookmarkLogConsent.js99,{},/web/matrix.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718939,log_17, Support Request Form ,Displayed,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743718939,err,TypeError: $.jStorage is undefined https://vistorian.online/lib/vistorian-web.js60178,{},/web/matrix.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743721405,log_2,load,webpage,/web/matrix.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743721405,log_9,VistorianLab,ON,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743721418,bkm_8, bookmark window ,minimized,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743724333,log_17,Support Request Form,Submiited,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743728702,log_18,page,blur,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743740509,log_17,page,focus,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743740510,log_9,VistorianLab,ON,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743755377,log_18,page,blur,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743767439,log_17,page,focus,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743767439,log_9,VistorianLab,ON,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743771306,log_18,page,blur,matrix
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743800272,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743800272,vis_34,Matrix,Zoom Range,13
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743804017,vis_34,Matrix,Zoom Range,18
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632743806231,vis_34,Matrix,Zoom Range,20
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744040075,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744040078,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744042102,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744045480,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744046026,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744046592,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744046825,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744099223,vis_43,/node_modules/vistorian-matrix/web/index.html,Time Slider,x189.00000000000054width874.9999999999992
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744135933,vis_34,Matrix,Zoom Range,3
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744137767,vis_34,Matrix,Zoom Range,11
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744140679,vis_35,Matrix,labelingType,similarity
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744143592,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744148544,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744185623,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744194725,vis_34,Matrix,Zoom Range,7
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744197526,vis_34,Matrix,Zoom Range,9
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744199653,vis_34,Matrix,Zoom Range,13
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744259729,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744264633,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744266333,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744275850,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744282962,vis_43,/node_modules/vistorian-matrix/web/index.html,Time Slider,x155.00000000000014width908.9999999999997
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744284559,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744311164,vis_35,Matrix,labelingType,degree
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744318679,vis_34,Matrix,Zoom Range,18
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744321132,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744324554,vis_34,Matrix,Zoom Range,16
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744329489,vis_43,/node_modules/vistorian-matrix/web/index.html,Time Slider,x391.9999999999996width672.0000000000002
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744330064,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744333462,vis_34,Matrix,Zoom Range,17
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744341933,vis_35,Matrix,labelingType,similarity
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744343149,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744345197,vis_36,Matrix,Rerun Button,Clicked
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744367669,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744367673,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369161,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369162,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369205,vis_1,data view,Vis Creation Link Clicked,Matrix & Node Link
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369215,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369993,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369993,log_17,page,focus,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744369997,log_9,VistorianLab,ON,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744370005,bkm_8, bookmark window ,minimized,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744371256,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744371256,log_2,node link,webpage,load
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744372460,log_2,load,webpage,/web/mat-nl.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744372460,log_9,VistorianLab,ON,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744377162,log_18,page,blur,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744387179,log_17,page,focus,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744387180,log_9,VistorianLab,ON,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744387892,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744388765,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744389817,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744390160,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744391781,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744391781,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744392712,log_18,page,blur,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744392824,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744393086,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744393086,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744393088,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744393088,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744393592,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744394757,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744394947,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744395163,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744395330,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744395597,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744396072,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744396543,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744396853,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744397335,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744397821,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744398451,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744398913,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744400235,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744400689,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744402384,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744402590,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744403081,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744407188,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744407838,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744409340,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744409990,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744410615,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744410833,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744411041,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744411288,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744412458,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744412656,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744412948,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744413466,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744416275,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744416483,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744416740,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744416908,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744417088,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744417281,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744418514,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744419521,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744422563,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744497116,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744521464,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744522055,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744522366,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744534154,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744534154,vis_34,Matrix,Zoom Range,19
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744536796,vis_34,Matrix,Zoom Range,15
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744538308,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744538637,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744539079,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744539276,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744551239,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744551419,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744551586,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744552201,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744552367,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744552526,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744631511,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744634371,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744660670,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744661699,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744661701,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744663926,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744663926,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744663964,vis_1,data view,Vis Creation Link Clicked,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744663975,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744664733,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744664733,log_17,page,focus,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744664735,log_9,VistorianLab,ON,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744664745,bkm_8, bookmark window ,minimized,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744667321,log_2,load,webpage,/web/dynamicego.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744667322,log_9,VistorianLab,ON,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744671369,log_18,page,blur,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744693323,log_17,page,focus,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744693323,log_9,VistorianLab,ON,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744721091,log_18,page,blur,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744724763,log_17,page,focus,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744724764,log_9,VistorianLab,ON,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744736611,log_18,page,blur,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744762559,log_17,page,focus,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744762560,log_9,VistorianLab,ON,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744764616,log_18,page,blur,dynamicego
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744872699,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744872711,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744872713,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744877504,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744882160,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744882161,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744888866,dat_3_LO,data view,LocationTable_select, LO selected
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744892976,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744906009,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744906010,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744910417,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744916649,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744916651,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744919025,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744927048,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744927049,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744934372,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744937913,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744937914,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744946097,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744948535,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744948535,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744952871,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744957919,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744957920,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744960959,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744960960,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744961014,vis_1,data view,Vis Creation Link Clicked,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744961030,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744961847,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744961847,log_17,page,focus,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744961848,log_9,VistorianLab,ON,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744961861,bkm_8, bookmark window ,minimized,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744962818,log_2,load,webpage,/web/map.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744962818,log_9,VistorianLab,ON,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744969769,log_18,page,blur,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744982364,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744982674,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983019,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983170,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983170,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983175,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983175,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983227,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744983227,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744998966,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744999300,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744999631,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744999796,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744999797,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632744999813,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745012963,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745013190,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745013433,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745013550,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745013551,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745013566,vis_41,span,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745059850,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745060052,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745060254,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745060360,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745060361,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745060374,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745091499,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745091499,vis_43,/node_modules/vistorian-map/web/index.html,Time Slider,x369.99999999999994width584
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745156458,vis_43,/node_modules/vistorian-map/web/index.html,Time Slider,x349.99999999999926width604.0000000000007
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745173936,vis_43,/node_modules/vistorian-map/web/index.html,Time Slider,x521.9999999999997width432.0000000000002
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745257275,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745257532,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745257893,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745258134,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745258135,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745258164,vis_41,zoom,True,map
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745306943,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745322179,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745322188,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745322190,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745325339,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745384654,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745396421,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745397690,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632745397891,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747165779,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747166258,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747166260,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747166278,log_12,page,close,/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747166284,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747166728,log_12,page,close,/web/map.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747167302,log_12,page,close,/web/dynamicego.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747167660,log_12,page,close,/web/mat-nl.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747168089,log_12,page,close,/web/matrix.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1632747168529,log_12,page,close,/web/nodelink.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423694450,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423694450,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423694483,log_2,index,webpage,load
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423709952,log_9,start logging,webpage,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423709953,log_9,VistorianLab,ON,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423715228,log_3,index,my session href,click
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423715239,log_18,page,blur,/
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423715902,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423715902,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423715903,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423715904,err,TypeError: document.getElementById(...) is null https://vistorian.online/web/bookmarkLogConsent.js99,{},/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423717468,log,load,webpage,/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423717469,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423717478,bkm_8, bookmark window ,minimized,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423729283,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423861336,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423861339,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423864033,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423925383,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423925386,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633423930123,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424039029,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424039032,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424039586,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424039586,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424044990,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424044991,dat_18,data view,network_status,True
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424045035,vis_1,data view,Vis Creation Link Clicked,Matrix & Node Link
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424045051,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424045804,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424045804,log_17,page,focus,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424045806,log_9,VistorianLab,ON,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424045813,bkm_8, bookmark window ,minimized,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424048738,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424048738,log_2,node link,webpage,load
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424048797,log_2,load,webpage,/web/mat-nl.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424048797,log_9,VistorianLab,ON,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424055480,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424057480,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424058049,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424058049,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424058641,log_1,Vistorian Trace,Session,Start
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424058641,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424059506,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424059513,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424060251,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424063327,vis_30,/node_modules/vistorian-nodelink/web/index.html,Node,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424064362,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424064949,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424066640,log_18,page,blur,mat-nl
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424067023,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424067517,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424068075,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424068699,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424069528,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424077407,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424077616,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424080899,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424081837,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424082368,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424083241,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424084777,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424084798,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424086176,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424086412,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424088855,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424111787,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424142450,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424142865,vis_32,/node_modules/vistorian-nodelink/web/index.html,Link,Mouse Over
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424144042,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424144044,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424145240,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633424145789,vis_41,zoom,True,nodelink
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633427193561,log_17,page,focus,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633427193564,log_9,VistorianLab,ON,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633427194070,log_12,page,close,/web/dataview.html
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633427194147,log_18,page,blur,dataview
+482,f55393cc-813f-4d01-898c-11d80f95b3c6,1633427195024,log_18,page,blur,/

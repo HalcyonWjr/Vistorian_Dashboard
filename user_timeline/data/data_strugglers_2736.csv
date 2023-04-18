@@ -1,0 +1,21 @@
+﻿user,ts,category,action,label,value,ip,referer
+2736,1648549588577,_trace,document.location,href,f2f8e852-5277-4607-86b8-cec2897c32b4,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549588577,log_2,load,webpage,/dataview/,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549595601,dat_4,data view,selected network,deleted,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549598894,dat_1,data view,new network,created,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549610610,dat_2_DT,data view,new network,Other Format,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549862167,dat_2_DT,data view,new network,Table Format,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549874467,dat_2_LT,data view,upload LK,Link Table,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549886550,dat_12,data view,directed checkbox,True,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549891376,dat_2,File Uploaded,File Uploaded,Exemple_the vistorian.csv,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549912187,dat_2,data view,table has header,True,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549922211,dat_11,Column Type Specified,Location of source node:,location_source,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549928245,dat_11,Column Type Specified,Location of target node:,location_target,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549932448,dat_11,Column Type Specified,Link weight:,weight,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549936081,dat_11,Column Type Specified,Link type:,linkType,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549962809,dat_11,Column Type Specified,Time,time,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648549966775,dat_11,Column Type Specified,Time,time,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648550336896,dat_2,File Uploaded,File Uploaded,Exemple_the vistorian.csv,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1648550342580,dat_2,data view,table has header,True,195.98.225.201,https://vistorian.net/dataview/?session=0
+2736,1653478803858,_trace,document.location,href,f2f8e852-5277-4607-86b8-cec2897c32b4,78.193.85.79,https://vistorian.net/
+2736,1653478803858,log_2,index,webpage,load,78.193.85.79,https://vistorian.net/

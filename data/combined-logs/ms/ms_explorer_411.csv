@@ -1,0 +1,22 @@
+usrID,logID,view,event,category,index,start,end,userSession
+411,dat_2_LK,,Upload new Link table,data,0,0,1,1
+411,log_12,,Close Webpage/End of Activity,logging,2,136,137,1
+411,log_2,,Visit Page ,logging,2,0,1,2
+411,hlp_3,,Play Video,help,3,32,33,2
+411,err,,Error Type,error,5,105,106,2
+411,bkm_8,,bookmark window,bookmarking,6,124,125,2
+411,log_12,,Close Webpage/End of Activity,logging,2,127,128,2
+411,dat_5,,Delete Network,data,0,127,128,2
+411,hlp_3,,Play Video,help,3,910,911,2
+411,hlp_3,,Play Video,help,3,931,932,2
+411,hlp_2,,Data Formatting,help,3,937,938,2
+411,hlp_3,,Play Video,help,3,1051,1052,2
+411,hlp_3,,Play Video,help,3,1189,1190,2
+411,hlp_3,,Play Video,help,3,1282,1283,2
+411,hlp_3,,Play Video,help,3,1311,1312,2
+411,hlp_3,,Play Video,help,3,1472,1473,2
+411,hlp_3,,Play Video,help,3,0,1,3
+411,hlp_3,,Play Video,help,3,0,1,4
+411,hlp_3,,Play Video,help,3,0,1,5
+411,hlp_3,,Play Video,help,3,6,7,5
+411,hlp_3,,Play Video,help,3,27,28,5

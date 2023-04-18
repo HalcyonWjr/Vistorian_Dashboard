@@ -25,7 +25,7 @@ const chart1 = {
       "x": {
         "field": "userNum",
         "type": "quantitative",
-        "scale": {"domain": [0, 750]},
+        "scale": {"domain": [0, 1500]},
         "title": null,
         "axis": null
       }

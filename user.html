@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>User Timeline Test</title>
+  
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/user-page-style.css">
+  <link rel="icon" href="img/favicon.png" type="image/png">
+  <script src="https://unpkg.com/d3@6.7.0/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-color@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-interpolate@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3"></script>
+  <script src="https://unpkg.com/textures@1.2.0/dist/textures.js"></script>
+
+  <script src="js/label.js"></script>
+
+</head>
+
+
+<body>
+
+<!--Header_Section-->
+<header>
+  <div class="header">
+    <img src="img/logo.png" />
+    <a href="./index.html"> > General</a>
+    <a href="./vis.html">> Visualisation</a>
+    <a href="./user.html">> User Exploration</a>
+
+    <div class="header-right">
+      <h4 style="padding-top:10px ;">last updated: 20/04/2023</h4>
+    </div>
+  </div>
+</header>
+<!--Header_Section-->
+
+<section id="dashboard" class="main">
+  <div class="grid-container-user">
+    <div class="item_legend">
+      <h1 id="user"></h1>
+      <h1 style="margin-top:0">Session Timeline</h1>
+      <p style="margin-top: 10px;">Select a user type: </p>
+      <div class="user-groups-wrapper">
+        <button class="user-button" onclick="reloadAndRefresh('demo')">Demo Users</button>
+        <button class="user-button" onclick="reloadAndRefresh('data')">Data Strugglers</button>
+        <button class="user-button" onclick="reloadAndRefresh('ss')">SS Explorers</button>
+        <button class="user-button" onclick="reloadAndRefresh('ms')">MS Explorers</button>
+      </div>
+      
+    </div>
+
+    <div class="item_timeline" id="timeline-wrapper">
+      <div class="timeline-yaxis"></div>
+      <div class="x-axis-chart-wrapper" id="chart-wrapper">
+        <div class="timeline-xaxis"></div>
+        <div class="timeline-chart"></div>
+      </div>
+    </div>
+    </div>
+  </div>
+</section>
+
+<script src="js/user-timeline-vis.js"></script>
+
+</body>
+</html>
+
+
+
