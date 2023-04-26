@@ -1,5 +1,5 @@
 # Vistorian Dashboard
-This repository is for my ongoing MSc disseration.  The topic is to design an analytic dashboard for [Vistorian](https://vistorian.net/), an online network visualization tool.
+This repository is for VIS Short paper submission. This paper reports on an analytic dashboard for [Vistorian](https://vistorian.net/), an online network visualization tool.
 
 
 ## Dependency
@@ -13,4 +13,4 @@ data used: 20th April 2023.
 data used: 16th August 2022.
 
 
-Last edited: 4th April 2023. @Jinrui
+Last edited: 26th April 2023. @Jinrui
