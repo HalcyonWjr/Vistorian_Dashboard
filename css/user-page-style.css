@@ -86,6 +86,8 @@ opacity: 0 !important;
 .timeline-yaxis {
     width: 50px;
     flex-shrink: 0;
+    z-index: 0;
+    background-color: transparent;
 }
 
 .x-axis-chart-wrapper {
@@ -102,11 +104,9 @@ opacity: 0 !important;
     z-index: 10;
     height: 50px;
     background-color: white;
-    /* width: 3000px; */
 }
 
-.timeline-chart{
-    position: relative;
-    overflow: hidden;
-    width: 2800px;
-}
+.timeline-chart {
+    width: 7000px;
+  }
+  

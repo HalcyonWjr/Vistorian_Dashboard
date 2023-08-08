@@ -82,5 +82,59 @@
       "index": 11,
       "numOfAttendees": 15,
       "title": "Visualizing and Exploring Networks with The Vistorian (Demo)"
+    },
+    {
+      "category": "course session",
+      "start": "2023-01-30",
+      "index": 12,
+      "title": "Week 1: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-02-06",
+      "index": 13,
+      "title": "Week 2: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-02-13",
+      "index": 14,
+      "title": "Week 3: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-02-20",
+      "index": 15,
+      "title": "Week 4: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-02-27",
+      "index": 16,
+      "title": "Week 5: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-03-06",
+      "index": 17,
+      "title": "Week 6: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-03-13",
+      "index": 18,
+      "title": "Week 7: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-03-20",
+      "index": 19,
+      "title": "Week 8: Networks Visual Exploration Coaching Program"
+    },
+    {
+      "category": "course session",
+      "start": "2023-03-27",
+      "index": 20,
+      "title": "Week 9: Networks Visual Exploration Coaching Program"
     }
   ]

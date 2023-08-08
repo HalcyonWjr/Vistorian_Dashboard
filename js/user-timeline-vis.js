@@ -160,6 +160,7 @@ console.log(viewArr);
 
     const unitWidth = 200
     const secHeight = 3
+    // console.log("xScaleDomain.length", xScaleDomain.length)
     var w = xScaleDomain.length * unitWidth,
         h = Math.round(yScaleDomain[1]) * secHeight,
         yOffset = 10,
@@ -178,11 +179,11 @@ console.log(viewArr);
 
     const yAxisSvg = d3.select('.timeline-yaxis')
                       .append("svg")
-                        .attr("width", 50)
+                        .attr("width", 30)
                         .attr("height", h)
                         
-    yAxisSvg.append("rect").attr("width", 50).attr("height", h).attr("fill", "white");
-    yAxisSvg.append("g").attr("class", "y-axis").attr("transform", "translate(40,60)").call(yAxis);
+    yAxisSvg.append("rect").attr("width", 30).attr("height", h).attr("fill", "white");
+    yAxisSvg.append("g").attr("class", "y-axis").attr("transform", "translate(30,15)").call(yAxis);
 
     const xAxisSvg = d3.select('.timeline-xaxis')
                         .append("svg")
@@ -193,7 +194,7 @@ console.log(viewArr);
       .data(endArr)
       .enter()
       .append("text")
-        .attr("x", d => (xScale(d.session)))
+        .attr("x", d => (xScale(d.session)+45))
         .attr("y", 30)
         .text(d => "User" + d.user + "-" + d.userSession);
 
@@ -202,10 +203,12 @@ console.log(viewArr);
     var svg = d3.select(".timeline-chart")
       .append("svg")
       .attr("class", "svg")
-      .attr("width", 2800)
+      .attr("width", 7000)
       .attr("height", h)
       .attr("id", "timeline")
       .attr("margin", 0);
+
+      // console.log("timeline-chart width", w)
 
     // Background layer: the grey bar of total session length
     svg.selectAll(".bgRect")

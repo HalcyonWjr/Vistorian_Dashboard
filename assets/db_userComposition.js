@@ -20,7 +20,7 @@ const chart1 = {
         "type": "nominal",
         "title": null,
         "axis": {"ticks": false, "zindex": 1, "domainWidth":1.2, "domainColor":"black", "labelFontSize":12},
-        "sort": ["demo", "data_struggler", "ss_explorer", "ms_explorer"]
+        "sort": ["Demo", "Data_Struggler", "SS_Explorer", "MS_Explorer"]
       },
       "x": {
         "field": "userNum",

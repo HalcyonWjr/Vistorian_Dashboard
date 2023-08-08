@@ -4,10 +4,10 @@
         "total":2298,
         "value": 
         [
-            {"userType":"demo","userNum":1450},
-            {"userType":"data_struggler","userNum":160},
-            {"userType":"ss_explorer","userNum":269},
-            {"userType":"ms_explorer","userNum":419}
+            {"userType":"Demo","userNum":1450},
+            {"userType":"Data_Struggler","userNum":160},
+            {"userType":"SS_Explorer","userNum":269},
+            {"userType":"MS_Explorer","userNum":419}
         ]
     },
 
@@ -76,7 +76,7 @@
               "userType": "Demo",
               "min": 0.09,
               "q1": 0.43,
-              "ave": 4.39,
+              "medium": 1.31,
               "q3": 4.92,
               "max": 59.57
           },
@@ -84,7 +84,7 @@
               "userType": "Data_Strugglers",
               "min": 0.1,
               "q1": 1.21,
-              "ave": 18.48,
+              "medium": 7.34,
               "q3": 20.07,
               "max": 165.29
           },
@@ -92,7 +92,7 @@
               "userType": "SS_Explorers",
               "min": 0.12,
               "q1": 5.06,
-              "ave": 20.88,
+              "medium": 14.06,
               "q3": 30.27,
               "max": 184.58
           },
@@ -100,7 +100,7 @@
               "userType": "MS_Explorers",
               "min": 0.08,
               "q1": 1.73,
-              "ave": 15.33,
+              "medium": 8.08,
               "q3": 19.86,
               "max": 210.62
           }
@@ -2251,7 +2251,44 @@
         "index": 11,
         "numOfAttendees": 15,
         "title": "Visualizing and Exploring Networks with The Vistorian (Demo)"
+      },
+      {
+        "category": "course session",
+        "start": "2023-01-30",
+        "index": 12,
+        "title": "Week 1: Networks Visual Exploration Coaching Program"
+      },
+      {
+        "category": "course session",
+        "start": "2023-02-06",
+        "index": 13,
+        "title": "Week 2: Networks Visual Exploration Coaching Program"
+      },
+      {
+        "category": "course session",
+        "start": "2023-02-13",
+        "index": 14,
+        "title": "Week 3: Networks Visual Exploration Coaching Program"
+      },
+      {
+        "category": "course session",
+        "start": "2023-02-20",
+        "index": 15,
+        "title": "Week 4: Networks Visual Exploration Coaching Program"
+      },
+      {
+        "category": "course session",
+        "start": "2023-02-27",
+        "index": 16,
+        "title": "Week 5: Networks Visual Exploration Coaching Program"
+      },
+      {
+        "category": "course session",
+        "start": "2023-03-06",
+        "index": 17,
+        "title": "Week 6: Networks Visual Exploration Coaching Program"
       }
+
     ],
 
     "frequentVisitedFeatures":
@@ -2272,25 +2309,25 @@
       "rank": 2,
       "category": "Filter by Link Type",
       "userType": "SS_Explorers",
-      "count": 1
+      "count": 167
     },
     {
       "rank": 2,
       "category": "Filter by Link Type",
       "userType": "MS_Explorers",
-      "count": 4
+      "count": 307
     },
     {
       "rank": 3,
       "category": "Filter by Node Type",
       "userType": "SS_Explorers",
-      "count": 0
+      "count": 62
     },
     {
       "rank": 3,
       "category": "Filter by Node Type",
       "userType": "MS_Explorers",
-      "count": 1
+      "count": 114
     },
     {
       "rank": 4,
@@ -2308,13 +2345,13 @@
       "rank": 5,
       "category": "Search",
       "userType": "SS_Explorers",
-      "count": 2
+      "count": 126
     },
     {
       "rank": 5,
       "category": "Search",
       "userType": "MS_Explorers",
-      "count": 3
+      "count": 230
     },
     {
       "rank": 6,
@@ -2532,11 +2569,7 @@
           "step": "Map",
           "duration": 10.6
       },
-      {
-          "userType": "Data_Strugglers",
-          "step": "Map",
-          "duration": 42.08
-      },
+     
       {
           "userType": "SS_Explorers",
           "step": "Map",
@@ -2552,11 +2585,7 @@
           "step": "Mat_NL",
           "duration": 18.72
       },
-      {
-          "userType": "Data_Strugglers",
-          "step": "Mat_NL",
-          "duration": 116.07
-      },
+      
       {
           "userType": "SS_Explorers",
           "step": "Mat_NL",
@@ -2572,11 +2601,7 @@
           "step": "Matrix",
           "duration": 9.85
       },
-      {
-          "userType": "Data_Strugglers",
-          "step": "Matrix",
-          "duration": 83.15
-      },
+     
       {
           "userType": "SS_Explorers",
           "step": "Matrix",
@@ -2592,11 +2617,7 @@
           "step": "NL",
           "duration": 7.07
       },
-      {
-          "userType": "Data_Strugglers",
-          "step": "NL",
-          "duration": 51.59
-      },
+      
       {
           "userType": "SS_Explorers",
           "step": "NL",
@@ -2612,11 +2633,7 @@
           "step": "Timeline",
           "duration": 8.98
       },
-      {
-          "userType": "Data_Strugglers",
-          "step": "Timeline",
-          "duration": 57.73
-      },
+      
       {
           "userType": "SS_Explorers",
           "step": "Timeline",

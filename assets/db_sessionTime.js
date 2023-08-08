@@ -47,7 +47,7 @@ const chart3 = {
           },
           {
             "mark": {"type": "tick", "color": "black", "size": 20, "width": 3},
-            "encoding": {"x": {"field": "ave", "type": "quantitative"}}
+            "encoding": {"x": {"field": "medium", "type": "quantitative"}}
           }
         ]
       },

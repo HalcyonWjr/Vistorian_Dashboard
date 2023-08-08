@@ -4205,13 +4205,13 @@
     },
     {
       "feature": "Link Type",
-      "SS_Explorers": 1,
-      "MS_Explorers": 4
+      "SS_Explorers": 167,
+      "MS_Explorers": 307
     },
     {
       "feature": "Node Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 62,
+      "MS_Explorers": 114
     },
     {
       "feature": "Matrix Order",
@@ -4220,8 +4220,8 @@
     },
     {
       "feature": "Search",
-      "SS_Explorers": 2,
-      "MS_Explorers": 3
+      "SS_Explorers": 126,
+      "MS_Explorers": 230
     },
     {
       "feature": "Zoom",
@@ -4557,18 +4557,18 @@
     },
     {
       "feature": "Link Type",
-      "SS_Explorers": 1,
-      "MS_Explorers": 4
+      "SS_Explorers": 167,
+      "MS_Explorers": 307
     },
     {
       "feature": "Node Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 62,
+      "MS_Explorers": 114
     },
     {
       "feature": "Search",
-      "SS_Explorers": 2,
-      "MS_Explorers": 3
+      "SS_Explorers": 126,
+      "MS_Explorers": 230
     },
     {
       "feature": "Zoom",
@@ -4624,18 +4624,18 @@
     },
     {
       "feature": "Link Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 3
+      "SS_Explorers": 83,
+      "MS_Explorers": 240
     },
     {
       "feature": "Node Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 31,
+      "MS_Explorers": 90
     },
     {
       "feature": "Search",
-      "SS_Explorers": 2,
-      "MS_Explorers": 3
+      "SS_Explorers": 64,
+      "MS_Explorers": 181
     },
     {
       "feature": "Zoom",
@@ -4661,18 +4661,18 @@
     },
     {
       "feature": "Link Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 2
+      "SS_Explorers": 56,
+      "MS_Explorers": 177
     },
     {
       "feature": "Node Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 21,
+      "MS_Explorers": 66
     },
     {
       "feature": "Search",
-      "SS_Explorers": 2,
-      "MS_Explorers": 3
+      "SS_Explorers": 44,
+      "MS_Explorers": 134
     },
     {
       "feature": "Zoom",
@@ -4698,18 +4698,18 @@
     },
     {
       "feature": "Link Type",
-      "SS_Explorers": 1,
-      "MS_Explorers": 3
+      "SS_Explorers": 55,
+      "MS_Explorers": 203
     },
     {
       "feature": "Node Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 20,
+      "MS_Explorers": 76
     },
     {
       "feature": "Search",
-      "SS_Explorers": 2,
-      "MS_Explorers": 2
+      "SS_Explorers": 42,
+      "MS_Explorers": 152
     },
     {
       "feature": "Zoom",
@@ -4765,18 +4765,18 @@
     },
     {
       "feature": "Link Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 51,
+      "MS_Explorers": 193
     },
     {
       "feature": "Node Type",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 19,
+      "MS_Explorers": 73
     },
     {
       "feature": "Search",
-      "SS_Explorers": 0,
-      "MS_Explorers": 1
+      "SS_Explorers": 38,
+      "MS_Explorers": 145
     },
     {
       "feature": "Zoom",
@@ -4846,7 +4846,8 @@
       "avg_sTime": 13.81,
       "max_sTime": 210.62,
       "q1_sTime": 1.2,
-      "q3_sTime": 17.82
+      "q3_sTime": 17.82,
+      "median_sessionDuration": 6.44
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -4855,7 +4856,8 @@
       "avg_sTime": 18.48,
       "max_sTime": 165.29,
       "q1_sTime": 1.21,
-      "q3_sTime": 20.07
+      "q3_sTime": 20.07,
+      "median_sTime": 7.34
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -4865,7 +4867,8 @@
       "avg_numSessions": 1.36,
       "max_numSessions": 7,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSesions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -4874,7 +4877,8 @@
       "avg_numSessions": 25.15,
       "max_numSessions": 218.02,
       "q1_numSessions": 1.44,
-      "q3_numSessions": 29.98
+      "q3_numSessions": 29.98,
+      "median_duration": 7.46
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -4883,7 +4887,8 @@
       "avg_sTime": 4.39,
       "max_sTime": 59.57,
       "q1_sTime": 0.43,
-      "q3_sTime": 4.92
+      "q3_sTime": 4.92,
+      "median_sTime": 1.31
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -4893,7 +4898,8 @@
       "avg_numSessions": 1.38,
       "max_numSessions": 16,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 1.0
+      "q3_numSessions": 1.0,
+      "median_numSesions": 1
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -4902,7 +4908,8 @@
       "avg_numSessions": 6.05,
       "max_numSessions": 126.83,
       "q1_numSessions": 0.51,
-      "q3_numSessions": 6.09
+      "q3_numSessions": 6.09,
+      "median_duration": 1.55
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -4911,7 +4918,8 @@
       "avg_sTime": 15.33,
       "max_sTime": 210.62,
       "q1_sTime": 1.73,
-      "q3_sTime": 19.86
+      "q3_sTime": 19.86,
+      "median_sTime": 8.08
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -4921,7 +4929,8 @@
       "avg_numSessions": 7.81,
       "max_numSessions": 69,
       "q1_numSessions": 2.0,
-      "q3_numSessions": 10.0
+      "q3_numSessions": 10.0,
+      "median_numSesions": 4.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -4930,7 +4939,8 @@
       "avg_numSessions": 119.82,
       "max_numSessions": 850.59,
       "q1_numSessions": 35.99,
-      "q3_numSessions": 163.87
+      "q3_numSessions": 163.87,
+      "median_duration": 79.63
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -4939,7 +4949,8 @@
       "avg_sTime": 20.88,
       "max_sTime": 184.58,
       "q1_sTime": 5.06,
-      "q3_sTime": 30.27
+      "q3_sTime": 30.27,
+      "median_sTime": 14.06
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -4949,7 +4960,8 @@
       "avg_numSessions": 1.45,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSesions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -4958,7 +4970,8 @@
       "avg_numSessions": 30.38,
       "max_numSessions": 195.14,
       "q1_numSessions": 7.05,
-      "q3_numSessions": 45.37
+      "q3_numSessions": 45.37,
+      "median_duration": 21.25
     }
   ],
   "avergae_sessionTime_matnl": [
@@ -4973,7 +4986,8 @@
       "avg_sTime": 71.85,
       "max_sTime": 165.29,
       "q1_sTime": 41.74,
-      "q3_sTime": 165.29
+      "q3_sTime": 165.29,
+      "median_sTime": 52.73
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -4983,7 +4997,8 @@
       "avg_numSessions": 1.62,
       "max_numSessions": 2,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 2
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -4992,7 +5007,8 @@
       "avg_numSessions": 116.07,
       "max_numSessions": 218.02,
       "q1_numSessions": 41.74,
-      "q3_numSessions": 218.02
+      "q3_numSessions": 218.02,
+      "median_duration": 41.74
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5001,7 +5017,8 @@
       "avg_sTime": 6.73,
       "max_sTime": 47.95,
       "q1_sTime": 0.61,
-      "q3_sTime": 9.57
+      "q3_sTime": 9.57,
+      "median_sTime": 2.74
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5011,7 +5028,8 @@
       "avg_numSessions": 2.78,
       "max_numSessions": 16,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 3.0
+      "q3_numSessions": 3.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5020,7 +5038,8 @@
       "avg_numSessions": 18.72,
       "max_numSessions": 126.83,
       "q1_numSessions": 2.79,
-      "q3_numSessions": 20.91
+      "q3_numSessions": 20.91,
+      "median_duration": 9.85
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5029,7 +5048,8 @@
       "avg_sTime": 15.76,
       "max_sTime": 210.62,
       "q1_sTime": 1.85,
-      "q3_sTime": 19.87
+      "q3_sTime": 19.87,
+      "median_sTime": 8.8
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5039,7 +5059,8 @@
       "avg_numSessions": 10.16,
       "max_numSessions": 69,
       "q1_numSessions": 3.0,
-      "q3_numSessions": 11.0
+      "q3_numSessions": 11.0,
+      "median_numSessions": 6
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5048,7 +5069,8 @@
       "avg_numSessions": 160.09,
       "max_numSessions": 850.59,
       "q1_numSessions": 63.41,
-      "q3_numSessions": 230.73
+      "q3_numSessions": 230.73,
+      "median_duration": 120.38
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5057,7 +5079,8 @@
       "avg_sTime": 29.1,
       "max_sTime": 184.58,
       "q1_sTime": 6.31,
-      "q3_sTime": 45.68
+      "q3_sTime": 45.68,
+      "median_sTime": 24.2
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5067,7 +5090,8 @@
       "avg_numSessions": 1.66,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5076,7 +5100,8 @@
       "avg_numSessions": 48.37,
       "max_numSessions": 195.14,
       "q1_numSessions": 17.23,
-      "q3_numSessions": 71.92
+      "q3_numSessions": 71.92,
+      "median_duration": 41.65
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5085,7 +5110,8 @@
       "avg_sTime": 16.34,
       "max_sTime": 210.62,
       "q1_sTime": 1.79,
-      "q3_sTime": 21.18
+      "q3_sTime": 21.18,
+      "median_sTime": 8.8
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5095,7 +5121,8 @@
       "avg_numSessions": 7.23,
       "max_numSessions": 69,
       "q1_numSessions": 2.0,
-      "q3_numSessions": 10.0
+      "q3_numSessions": 10.0,
+      "median_numSessions": 3
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5104,7 +5131,8 @@
       "avg_numSessions": 118.12,
       "max_numSessions": 850.59,
       "q1_numSessions": 30.38,
-      "q3_numSessions": 170.47
+      "q3_numSessions": 170.47,
+      "median_numSessions": 73.91
     },
     {
       "Description": "statistics average session time per month",
@@ -5164,7 +5192,8 @@
       "avg_sTime": 34.19,
       "max_sTime": 165.29,
       "q1_sTime": 7.48,
-      "q3_sTime": 49.49
+      "q3_sTime": 49.49,
+      "median_sTime": 19.04
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5174,7 +5203,8 @@
       "avg_numSessions": 1.51,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5183,7 +5213,8 @@
       "avg_numSessions": 51.59,
       "max_numSessions": 218.02,
       "q1_numSessions": 11.38,
-      "q3_numSessions": 51.89
+      "q3_numSessions": 51.89,
+      "median_duration": 31.15
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5192,7 +5223,8 @@
       "avg_sTime": 4.77,
       "max_sTime": 59.57,
       "q1_sTime": 0.49,
-      "q3_sTime": 5.82
+      "q3_sTime": 5.82,
+      "median_sTime": 1.46
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5202,7 +5234,8 @@
       "avg_numSessions": 1.48,
       "max_numSessions": 16,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 1.0
+      "q3_numSessions": 1.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5211,7 +5244,8 @@
       "avg_numSessions": 7.07,
       "max_numSessions": 126.83,
       "q1_numSessions": 0.67,
-      "q3_numSessions": 7.05
+      "q3_numSessions": 7.05,
+      "median_duration": 1.95
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5220,7 +5254,8 @@
       "avg_sTime": 15.37,
       "max_sTime": 210.62,
       "q1_sTime": 1.75,
-      "q3_sTime": 19.86
+      "q3_sTime": 19.86,
+      "median_sTime": 8.13
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5230,7 +5265,8 @@
       "avg_numSessions": 7.9,
       "max_numSessions": 69,
       "q1_numSessions": 2.0,
-      "q3_numSessions": 10.0
+      "q3_numSessions": 10.0,
+      "median_numSessions": 4.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5239,7 +5275,8 @@
       "avg_numSessions": 121.4,
       "max_numSessions": 850.59,
       "q1_numSessions": 37.17,
-      "q3_numSessions": 170.28
+      "q3_numSessions": 170.28,
+      "median_duration": 79.63
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5248,7 +5285,8 @@
       "avg_sTime": 21.53,
       "max_sTime": 184.58,
       "q1_sTime": 5.24,
-      "q3_sTime": 31.21
+      "q3_sTime": 31.21,
+      "median_sTime": 15.98
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5258,7 +5296,8 @@
       "avg_numSessions": 1.47,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5267,7 +5306,8 @@
       "avg_numSessions": 31.66,
       "max_numSessions": 195.14,
       "q1_numSessions": 8.51,
-      "q3_numSessions": 47.22
+      "q3_numSessions": 47.22,
+      "median_duration": 23.46
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5276,7 +5316,8 @@
       "avg_sTime": 14.58,
       "max_sTime": 210.62,
       "q1_sTime": 1.39,
-      "q3_sTime": 18.88
+      "q3_sTime": 18.88,
+      "median_sTime": 7.14
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5286,7 +5327,8 @@
       "avg_numSessions": 3.71,
       "max_numSessions": 69,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 3.0
+      "q3_numSessions": 3.0,
+      "median_numSessions": 2.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5295,7 +5337,8 @@
       "avg_numSessions": 54.1,
       "max_numSessions": 850.59,
       "q1_numSessions": 2.55,
-      "q3_numSessions": 62.9
+      "q3_numSessions": 62.9,
+      "median_numSessions": 17.77
     },
     {
       "Description": "statistics average session time per month",
@@ -5355,7 +5398,8 @@
       "avg_sTime": 48.5,
       "max_sTime": 165.29,
       "q1_sTime": 12.75,
-      "q3_sTime": 52.73
+      "q3_sTime": 52.73,
+      "median_sTime": 41.74
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5365,7 +5409,8 @@
       "avg_numSessions": 1.71,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 2.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5374,7 +5419,8 @@
       "avg_numSessions": 83.15,
       "max_numSessions": 218.02,
       "q1_numSessions": 29.29,
-      "q3_numSessions": 135.11
+      "q3_numSessions": 135.11,
+      "median_duration": 44.26
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5383,7 +5429,8 @@
       "avg_sTime": 5.53,
       "max_sTime": 59.57,
       "q1_sTime": 0.54,
-      "q3_sTime": 6.2
+      "q3_sTime": 6.2,
+      "median_sTime": 1.86
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5393,7 +5440,8 @@
       "avg_numSessions": 1.78,
       "max_numSessions": 16,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5402,7 +5450,8 @@
       "avg_numSessions": 9.85,
       "max_numSessions": 126.83,
       "q1_numSessions": 1.15,
-      "q3_numSessions": 8.66
+      "q3_numSessions": 8.66,
+      "median_duration": 3.17
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5411,7 +5460,8 @@
       "avg_sTime": 15.56,
       "max_sTime": 210.62,
       "q1_sTime": 1.78,
-      "q3_sTime": 19.86
+      "q3_sTime": 19.86,
+      "median_sTime": 8.48
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5421,7 +5471,8 @@
       "avg_numSessions": 9.14,
       "max_numSessions": 69,
       "q1_numSessions": 3.0,
-      "q3_numSessions": 11.0
+      "q3_numSessions": 11.0,
+      "median_numSessions": 5
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5430,7 +5481,8 @@
       "avg_numSessions": 142.17,
       "max_numSessions": 850.59,
       "q1_numSessions": 43.17,
-      "q3_numSessions": 197.06
+      "q3_numSessions": 197.06,
+      "median_duration": 95.68
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5439,7 +5491,8 @@
       "avg_sTime": 26.99,
       "max_sTime": 184.58,
       "q1_sTime": 7.72,
-      "q3_sTime": 40.6
+      "q3_sTime": 40.6,
+      "median_sTime": 21.81
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5449,7 +5502,8 @@
       "avg_numSessions": 1.6,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5458,7 +5512,8 @@
       "avg_numSessions": 43.07,
       "max_numSessions": 195.14,
       "q1_numSessions": 15.35,
-      "q3_numSessions": 64.26
+      "q3_numSessions": 64.26,
+      "median_duration": 37.93
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5467,7 +5522,8 @@
       "avg_sTime": 15.69,
       "max_sTime": 210.62,
       "q1_sTime": 1.68,
-      "q3_sTime": 20.06
+      "q3_sTime": 20.06,
+      "median_sTime": 7.83
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5477,7 +5533,8 @@
       "avg_numSessions": 5.2,
       "max_numSessions": 69,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 5.0
+      "q3_numSessions": 5.0,
+      "median_numSessions": 2.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5486,7 +5543,8 @@
       "avg_numSessions": 81.62,
       "max_numSessions": 850.59,
       "q1_numSessions": 7.75,
-      "q3_numSessions": 100.53
+      "q3_numSessions": 100.53,
+      "median_numSessions": 41.11
     },
     {
       "Description": "statistics average session time per month",
@@ -5546,7 +5604,8 @@
       "avg_sTime": 26.65,
       "max_sTime": 118.53,
       "q1_sTime": 7.44,
-      "q3_sTime": 48.81
+      "q3_sTime": 48.81,
+      "median_sTime": 14.2
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5556,7 +5615,8 @@
       "avg_numSessions": 2.17,
       "max_numSessions": 4,
       "q1_numSessions": 1.75,
-      "q3_numSessions": 3.0
+      "q3_numSessions": 3.0,
+      "median_numSessions": 2.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5565,7 +5625,8 @@
       "avg_numSessions": 57.73,
       "max_numSessions": 163.93,
       "q1_numSessions": 29.29,
-      "q3_numSessions": 62.89
+      "q3_numSessions": 62.89,
+      "median_duration": 54.83
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5574,7 +5635,8 @@
       "avg_sTime": 5.22,
       "max_sTime": 47.95,
       "q1_sTime": 0.58,
-      "q3_sTime": 6.06
+      "q3_sTime": 6.06,
+      "median_sTime": 1.78
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5584,7 +5646,8 @@
       "avg_numSessions": 1.72,
       "max_numSessions": 16,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5593,7 +5656,8 @@
       "avg_numSessions": 8.98,
       "max_numSessions": 126.83,
       "q1_numSessions": 0.85,
-      "q3_numSessions": 8.44
+      "q3_numSessions": 8.44,
+      "median_duration": 2.82
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5602,7 +5666,8 @@
       "avg_sTime": 15.27,
       "max_sTime": 210.62,
       "q1_sTime": 1.7,
-      "q3_sTime": 19.17
+      "q3_sTime": 19.17,
+      "median_sTime": 7.99
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5612,7 +5677,8 @@
       "avg_numSessions": 10.68,
       "max_numSessions": 69,
       "q1_numSessions": 3.0,
-      "q3_numSessions": 15.0
+      "q3_numSessions": 15.0,
+      "median_numSessions": 6
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5621,7 +5687,8 @@
       "avg_numSessions": 163.04,
       "max_numSessions": 850.59,
       "q1_numSessions": 47.94,
-      "q3_numSessions": 243.45
+      "q3_numSessions": 243.45,
+      "median_duration": 123.82
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5630,7 +5697,8 @@
       "avg_sTime": 29.06,
       "max_sTime": 98.81,
       "q1_sTime": 12.45,
-      "q3_sTime": 42.9
+      "q3_sTime": 42.9,
+      "median_sTime": 24.95
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5640,7 +5708,8 @@
       "avg_numSessions": 1.51,
       "max_numSessions": 3,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5649,7 +5718,8 @@
       "avg_numSessions": 43.75,
       "max_numSessions": 123.86,
       "q1_numSessions": 15.67,
-      "q3_numSessions": 67.11
+      "q3_numSessions": 67.11,
+      "median_duration": 38.22
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5658,7 +5728,8 @@
       "avg_sTime": 14.92,
       "max_sTime": 210.62,
       "q1_sTime": 1.56,
-      "q3_sTime": 19.13
+      "q3_sTime": 19.13,
+      "median_sTime": 7.43
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5668,7 +5739,8 @@
       "avg_numSessions": 5.65,
       "max_numSessions": 69,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 5.0
+      "q3_numSessions": 5.0,
+      "median_numSessions": 2.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5677,7 +5749,8 @@
       "avg_numSessions": 84.32,
       "max_numSessions": 850.59,
       "q1_numSessions": 5.16,
-      "q3_numSessions": 109.79
+      "q3_numSessions": 109.79,
+      "median_numSessions": 36.22
     },
     {
       "Description": "statistics average session time per month",
@@ -5737,7 +5810,8 @@
       "avg_sTime": 29.27,
       "max_sTime": 51.89,
       "q1_sTime": 13.39,
-      "q3_sTime": 48.13
+      "q3_sTime": 48.13,
+      "median_sTime": 24.9
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5747,7 +5821,8 @@
       "avg_numSessions": 1.44,
       "max_numSessions": 3,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5756,7 +5831,8 @@
       "avg_numSessions": 42.08,
       "max_numSessions": 62.89,
       "q1_numSessions": 36.89,
-      "q3_numSessions": 54.64
+      "q3_numSessions": 54.64,
+      "median_duration": 41.74
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5765,7 +5841,8 @@
       "avg_sTime": 5.94,
       "max_sTime": 59.57,
       "q1_sTime": 0.7,
-      "q3_sTime": 6.86
+      "q3_sTime": 6.86,
+      "median_sTime": 2.36
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5775,7 +5852,8 @@
       "avg_numSessions": 1.78,
       "max_numSessions": 16,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5784,7 +5862,8 @@
       "avg_numSessions": 10.6,
       "max_numSessions": 126.83,
       "q1_numSessions": 1.6,
-      "q3_numSessions": 10.85
+      "q3_numSessions": 10.85,
+      "median_duration": 3.97
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5793,7 +5872,8 @@
       "avg_sTime": 15.51,
       "max_sTime": 210.62,
       "q1_sTime": 1.8,
-      "q3_sTime": 19.71
+      "q3_sTime": 19.71,
+      "median_sTime": 8.26
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5803,7 +5883,8 @@
       "avg_numSessions": 9.63,
       "max_numSessions": 69,
       "q1_numSessions": 3.0,
-      "q3_numSessions": 11.0
+      "q3_numSessions": 11.0,
+      "median_numSessions": 5
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5812,7 +5893,8 @@
       "avg_numSessions": 149.3,
       "max_numSessions": 850.59,
       "q1_numSessions": 42.15,
-      "q3_numSessions": 215.07
+      "q3_numSessions": 215.07,
+      "median_duration": 106.66
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5821,7 +5903,8 @@
       "avg_sTime": 27.11,
       "max_sTime": 184.58,
       "q1_sTime": 7.19,
-      "q3_sTime": 37.88
+      "q3_sTime": 37.88,
+      "median_sTime": 20.57
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5831,7 +5914,8 @@
       "avg_numSessions": 1.48,
       "max_numSessions": 4,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 2.0
+      "q3_numSessions": 2.0,
+      "median_numSessions": 1.0
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5840,7 +5924,8 @@
       "avg_numSessions": 40.08,
       "max_numSessions": 195.14,
       "q1_numSessions": 15.12,
-      "q3_numSessions": 61.05
+      "q3_numSessions": 61.05,
+      "median_duration": 30.94
     },
     {
       "Description": "statistics on sessions duration(time)",
@@ -5849,7 +5934,8 @@
       "avg_sTime": 15.03,
       "max_sTime": 210.62,
       "q1_sTime": 1.7,
-      "q3_sTime": 19.17
+      "q3_sTime": 19.17,
+      "median_sTime": 7.44
     },
     {
       "Description": "statistics on sessions count(number)",
@@ -5859,7 +5945,8 @@
       "avg_numSessions": 5.39,
       "max_numSessions": 69,
       "q1_numSessions": 1.0,
-      "q3_numSessions": 5.0
+      "q3_numSessions": 5.0,
+      "median_numSessions": 2
     },
     {
       "Description": "statistics on total exploration duration spent by a single user(time)",
@@ -5868,7 +5955,8 @@
       "avg_numSessions": 81.08,
       "max_numSessions": 850.59,
       "q1_numSessions": 6.65,
-      "q3_numSessions": 101.23
+      "q3_numSessions": 101.23,
+      "median_numSessions": 34.54
     },
     {
       "Description": "statistics average session time per month",

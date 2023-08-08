@@ -24,9 +24,9 @@
 <header>
   <div class="header">
     <img src="img/logo.png" />
-    <a href="./index.html"> > General</a>
+    <a href="./index.html"> > Overview</a>
     <a href="./vis.html">> Visualisation</a>
-    <a href="./user.html">> User Exploration</a>
+    <a href="./user.html">> Users</a>
 
     <div class="header-right">
       <h4 style="padding-top:10px ;">last updated: 20/04/2023</h4>
@@ -51,12 +51,20 @@
     </div>
 
     <div class="item_timeline" id="timeline-wrapper">
-      <div class="timeline-yaxis"></div>
+      <!-- <div class="timeline-yaxis"></div> -->
       <div class="x-axis-chart-wrapper" id="chart-wrapper">
         <div class="timeline-xaxis"></div>
-        <div class="timeline-chart"></div>
+        <div style="height: 96vh; width: 180vw; overflow-y: auto; overflow-x: hidden; display: flex; flex-direction: row;">
+         <div class="timeline-yaxis"></div>
+          <div class="timeline-chart"></div>
+        </div>
+        
       </div>
     </div>
+
+
+
+
     </div>
   </div>
 </section>

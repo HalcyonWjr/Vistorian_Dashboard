@@ -189,16 +189,11 @@ td
   display: grid;
   grid-template-columns: auto auto;
   padding: 0px;
-  /* background-color: #2196F3; */
-  /* grid-gap: 10px; */
-  /* padding: 10px; */
 }
 
 .grid-containerC > div {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
-  /* padding: 20px 0; */
-  /* font-size: 30px; */
 }
 
 .grid-container-vis {
@@ -231,4 +226,8 @@ td
 .item_timeline {
   overflow-x: hidden;
   overflow-y: scroll;
+}
+
+.item_legend {
+  
 }
